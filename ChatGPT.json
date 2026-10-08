@@ -1,0 +1,2135 @@
+{
+  "scrapedAt": "2026-10-08T10:10:41.118Z",
+  "source": {
+    "site": "zh.wikipedia.org",
+    "url": "https://zh.wikipedia.org/wiki/ChatGPT",
+    "proxy": "http://127.0.0.1:4088"
+  },
+  "page": {
+    "pageid": 8202483,
+    "title": "ChatGPT",
+    "displayTitle": "ChatGPT",
+    "language": "zh",
+    "lengthBytes": 107659,
+    "lastRevId": 94655744,
+    "lastEdited": "2026-09-30T01:25:01Z",
+    "lastEditor": "Yya45",
+    "lastComment": "/* 版本 */",
+    "touched": "2026-10-08T02:39:46Z"
+  },
+  "stats": {
+    "sectionCount": 34,
+    "referenceCount": 190,
+    "parsedReferenceCount": 169,
+    "categoryCount": 31,
+    "languageCount": 131,
+    "imageCount": 5,
+    "wikitextChars": 86994,
+    "plaintextChars": 11914
+  },
+  "infobox": {
+    "開發者": "OpenAI",
+    "首次发布": "2022年11月30日，3年前（2022-11-30）",
+    "当前版本": "GPT-6 Astra（2026年9月3日，35天前（2026-09-03））",
+    "平台": "云计算平台",
+    "语言": "67种语言",
+    "类型": "聊天機器人虛擬助理",
+    "许可协议": "专有",
+    "网站": "chatgpt.com"
+  },
+  "references": [
+    {
+      "title": "OpenAI推出新版ChatGPT应对大模型激烈竞争",
+      "url": "https://www.news.cn/liangzi/20251215/4a783535a1ad4a86a259eb4ca88c3f93/c.html",
+      "publisher": "新华网",
+      "date": "2025-12-15",
+      "accessDate": "2026-02-25",
+      "language": ""
+    },
+    {
+      "title": "The Brilliance and Weirdness of ChatGPT",
+      "url": "https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html",
+      "publisher": "The New York Times",
+      "date": "2022-12-05",
+      "accessDate": "2022-12-26",
+      "language": "en-US"
+    },
+    {
+      "title": "ChatGPT can write code. Now researchers say it's good at fixing bugs, too",
+      "url": "https://www.zdnet.com/article/chatgpt-can-write-code-now-researchers-say-its-good-at-fixing-bugs-too/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-01-30",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT - 免費註冊即可與線上機器人聊天對話，帶你了解什麼是 ChatGPT AI 機器人以及該如何快速註冊教學",
+      "url": "https://techmoon.xyz/chatgpt/",
+      "publisher": "TechMoon 科技月球",
+      "date": "2022-12-11",
+      "accessDate": "2022-12-12",
+      "language": "zh-TW"
+    },
+    {
+      "title": "A.I. Chatbots Defeated Doctors at Diagnosing Illness",
+      "url": "https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html",
+      "publisher": "The New York Times",
+      "date": "2024-11-17",
+      "accessDate": "2025-03-18",
+      "language": "en"
+    },
+    {
+      "title": "ChatGPT就是「一本正經地胡說八道」！杜奕瑾：AI產生科技恐讓假訊息更氾濫",
+      "url": "https://www.businesstoday.com.tw/article/category/183027/post/202303270036/",
+      "publisher": "今周刊",
+      "date": "2023-03-27",
+      "accessDate": "",
+      "language": "zh-TW"
+    },
+    {
+      "title": "为何ChatGPT有时“一本正经地胡说八道”",
+      "url": "https://m.gmw.cn/2023-02/23/content_1303292513.htm",
+      "publisher": "长江日报",
+      "date": "2023-02-23",
+      "accessDate": "",
+      "language": "zh-CN"
+    },
+    {
+      "title": "AI-generated answers temporarily banned on coding Q&A site Stack Overflow",
+      "url": "https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers",
+      "publisher": "The Verge",
+      "date": "2022-12-05",
+      "accessDate": "2022-12-05",
+      "language": "en-US"
+    },
+    {
+      "title": "存档副本",
+      "url": "https://ctee.com.tw/news/tech/801587.html",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-02-09",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT creator OpenAI is in talks to sell shares in a tender offer that would double the startup's valuation to $29 billion",
+      "url": "https://www.businessinsider.com/chatgpt-creator-openai-talks-for-tender-offer-at-29-billion-2023-1",
+      "publisher": "Insider",
+      "date": "2023-01-05",
+      "accessDate": "2023-01-18",
+      "language": ""
+    },
+    {
+      "title": "史上最快走紅！ChatGPT用戶破億.推付費版",
+      "url": "https://news.tvbs.com.tw/focus/2032688",
+      "publisher": "",
+      "date": "2023-02-03",
+      "accessDate": "",
+      "language": "zh-TW"
+    },
+    {
+      "title": "OpenAI把GPT-5.6 Luna送给所有人免费：ChatGPT不再有免费额度限制，对话不要钱了",
+      "url": "https://www.sohu.com/a/www.sohu.com/a/1061853913_116365",
+      "publisher": "www.sohu.com",
+      "date": "",
+      "accessDate": "2026-08-22",
+      "language": "zh-CN"
+    },
+    {
+      "title": "马斯克也给英伟达打工了",
+      "url": "https://finance.sina.cn/tech/csj/2024-05-30/detail-inawyshe4778534.d.html?from=wap",
+      "publisher": "",
+      "date": "2024-05-30",
+      "accessDate": "",
+      "language": "zh-CN"
+    },
+    {
+      "title": "Racial Bias in Hate Speech and Abusive Language Detection Datasets",
+      "url": "https://aclanthology.org/W19-3504",
+      "publisher": "Association for Computational Linguistics",
+      "date": "2019-08",
+      "accessDate": "2023-12-26",
+      "language": ""
+    },
+    {
+      "title": "Gender bias and stereotypes in Large Language Models",
+      "url": "https://dl.acm.org/doi/10.1145/3582269.3615599",
+      "publisher": "Association for Computing Machinery",
+      "date": "2023-11-05",
+      "accessDate": "2023-12-26",
+      "language": ""
+    },
+    {
+      "title": "A Perspectival Mirror of the Elephant: Investigating Language Bias on Google, ChatGPT, Wikipedia, and YouTube",
+      "url": "https://arxiv.org/abs/2303.16281",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-12-23",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT: Understanding the ChatGPT AI Chatbot",
+      "url": "https://www.eweek.com/big-data-and-analytics/chatgpt/",
+      "publisher": "eWeek",
+      "date": "2022-12-29",
+      "accessDate": "2023-01-11",
+      "language": ""
+    },
+    {
+      "title": "Augmenting Reinforcement Learning with Human Feedback",
+      "url": "https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICML_IL11-knox.pdf",
+      "publisher": "University of Texas at Austin",
+      "date": "",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT: Optimizing Language Models for Dialogue",
+      "url": "https://openai.com/blog/chatgpt/",
+      "publisher": "",
+      "date": "2022-11-30",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT proves AI is finally mainstreamand things are only going to get weirder",
+      "url": "https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization",
+      "publisher": "The Verge",
+      "date": "2022-12-08",
+      "accessDate": "2022-12-08",
+      "language": "en-US"
+    },
+    {
+      "title": "Proximal Policy Optimization Algorithms",
+      "url": "",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "Proximal Policy Optimization (PPO) Explained",
+      "url": "https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b",
+      "publisher": "Towards Data Science",
+      "date": "2022-11-29",
+      "accessDate": "2022-12-05",
+      "language": "en-US"
+    },
+    {
+      "title": "ChatGPT Feedback Contest: Official Rules",
+      "url": "https://cdn.openai.com/chatgpt/ChatGPT_Feedback_Contest_Rules.pdf",
+      "publisher": "OpenAI",
+      "date": "",
+      "accessDate": "2022-12-30",
+      "language": ""
+    },
+    {
+      "title": "OpenAI Codex shows the limits of large language models",
+      "url": "https://venturebeat.com/business/openai-codex-shows-the-limits-of-large-language-models/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-02-12",
+      "language": ""
+    },
+    {
+      "title": "Theory of Mind May Have Spontaneously Emerged in Large Language Models, Michal Kosinski",
+      "url": "https://arxiv.org/abs/2302.02083",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-02-15",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT背后模型被证实具有人类心智，学术圈轰动",
+      "url": "https://www.fortunechina.com/jingxuan/26780.htm",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-02-15",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT如何操作？註冊方式、應用方法一次看",
+      "url": "https://www.businessweekly.com.tw/international/blog/3011255",
+      "publisher": "商業周刊",
+      "date": "2022-12-09",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT: What is the new free AI chatbot? – explainer",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-725910",
+      "publisher": "The Jerusalem Post",
+      "date": "2022-12-27",
+      "accessDate": "2023-02-13",
+      "language": ""
+    },
+    {
+      "title": "No Linux? No problem. Just get AI to hallucinate it for you",
+      "url": "https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/",
+      "publisher": "Ars Technica",
+      "date": "2022-12-05",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "New and Improved Content Moderation Tooling",
+      "url": "https://openai.com/blog/new-and-improved-content-moderation-tooling/",
+      "publisher": "OpenAI",
+      "date": "2022-08-10",
+      "accessDate": "2022-12-30",
+      "language": "en"
+    },
+    {
+      "title": "A Holistic Approach to Undesired Content Detection in the Real World",
+      "url": "",
+      "publisher": "",
+      "date": "2022-08-05",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "OpenAI",
+      "url": "https://twitter.com/OpenAI/status/1707077713490854127",
+      "publisher": "X",
+      "date": "2023-09-28",
+      "accessDate": "2023-09-28",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT 图像產生功能迎来升级_腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20250326A01GQ300",
+      "publisher": "news.qq.com",
+      "date": "2025-03-26",
+      "accessDate": "2025-03-28",
+      "language": "zh-CN"
+    },
+    {
+      "title": "Model Release Notes | OpenAI Help Center",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "publisher": "help.openai.com",
+      "date": "",
+      "accessDate": "2025-03-28",
+      "language": "en"
+    },
+    {
+      "title": "GPT-4o 生图实测：很强（附：20+场景示例 & 缺陷整理）_腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20250326A028RD00",
+      "publisher": "news.qq.com",
+      "date": "2025-03-26",
+      "accessDate": "2025-03-28",
+      "language": "zh-CN"
+    },
+    {
+      "title": "OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level' - BBC News",
+      "url": "https://www.bbc.com/news/articles/cy5prvgw0r1o",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2025-08-14",
+      "language": ""
+    },
+    {
+      "title": "Why large language models like ChatGPT are bullshit artists",
+      "url": "https://becominghuman.ai/why-large-language-models-like-chatgpt-are-bullshit-artists-c4d5bb850852",
+      "publisher": "becominghuman.ai",
+      "date": "2022-12-16",
+      "accessDate": "2023-01-15",
+      "language": ""
+    },
+    {
+      "title": "Scaling Laws for Reward Model Overoptimization",
+      "url": "",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "A.I. Is Mastering Language. Should We Trust What It Says?",
+      "url": "https://www.nytimes.com/2022/04/15/magazine/ai-language.html",
+      "publisher": "The New York Times Magazine",
+      "date": "2022-04-15",
+      "accessDate": "2024-06-25",
+      "language": ""
+    },
+    {
+      "title": "Could a chatbot answer Prime Minister's Questions?",
+      "url": "https://www.bbc.com/news/uk-politics-64053550",
+      "publisher": "BBC News",
+      "date": "2022-12-27",
+      "accessDate": "2022-12-30",
+      "language": ""
+    },
+    {
+      "title": "AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits",
+      "url": "https://time.com/6238781/chatbot-chatgpt-ai-interview/",
+      "publisher": "",
+      "date": "2022-12-05",
+      "accessDate": "2022-12-26",
+      "language": ""
+    },
+    {
+      "title": "The Internet's New Favorite AI Proposes Torturing Iranians and Surveilling Mosques",
+      "url": "https://theintercept.com/2022/12/08/openai-chatgpt-ai-bias-ethics/",
+      "publisher": "The Intercept",
+      "date": "2022-12-08",
+      "accessDate": "2022-12-26",
+      "language": ""
+    },
+    {
+      "title": "Is ChatGPT Good Enough for 5th Grade Math?",
+      "url": "https://medium.com/generative-ai/is-chatgpt-good-enough-for-5th-grade-math-ba5035849df",
+      "publisher": "Medium",
+      "date": "2023-01-01",
+      "accessDate": "2023-04-01",
+      "language": "en"
+    },
+    {
+      "title": "This AI chatbot is dominating social media with its frighteningly good essays",
+      "url": "https://www.cnn.com/2022/12/05/tech/chatgpt-trnd/index.html",
+      "publisher": "CNN",
+      "date": "2022-12-05",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "OpenAI的新聊天机器人能解释代码和编写情景喜剧剧本，但仍然很容易被愚弄",
+      "url": "https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo",
+      "publisher": "The Verge",
+      "date": "2022-12-01",
+      "accessDate": "2023-01-06",
+      "language": ""
+    },
+    {
+      "title": "Breaking ChatGPT: The AI's alter ego DAN reveals why the internet is so drawn to making the chatbot violate its own rules",
+      "url": "https://www.businessinsider.com/open-ai-chatgpt-alter-ego-dan-on-reddit-ignores-guidelines-2023-2",
+      "publisher": "Business Insider",
+      "date": "",
+      "accessDate": "2023-03-05",
+      "language": "en-US"
+    },
+    {
+      "title": "chatgpt online",
+      "url": "https://www.aisys.pro/chatgpt",
+      "publisher": "The Guarde",
+      "date": "2023-03-02",
+      "accessDate": "2023-03-08",
+      "language": ""
+    },
+    {
+      "title": "我写了一个关于ChatGPT的AI的故事，然后我敢写一个更好的",
+      "url": "https://www.thestar.com/news/canada/2022/12/10/i-wrote-a-story-about-chatgpts-ai-then-i-dared-it-to-write-a-better-one.html",
+      "publisher": "多伦多星报",
+      "date": "2022-12-10",
+      "accessDate": "2023-01-06",
+      "language": "en"
+    },
+    {
+      "title": "一个AI聊天机器人走红了。有人说它比谷歌好，而其他人担心它有问题。",
+      "url": "https://www.nbcnews.com/tech/tech-news/chatgpt-ai-chatbot-viral-rcna59628",
+      "publisher": "NBC新闻",
+      "date": "2022-12-02",
+      "accessDate": "2023-01-06",
+      "language": "en-US"
+    },
+    {
+      "title": "Money Will Kill ChatGPT's Magic",
+      "url": "https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-chatbots-openai-cost-regulations/672539/",
+      "publisher": "The Atlantic",
+      "date": "2022-12-21",
+      "accessDate": "2022-12-31",
+      "language": "en"
+    },
+    {
+      "title": "What is ChatGPT and why does it matter? Here's what you need to know",
+      "url": "https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-what-you-need-to-know/",
+      "publisher": "ZDNET",
+      "date": "2023-02-02",
+      "accessDate": "2022-12-18",
+      "language": "en"
+    },
+    {
+      "title": "ChatGPT reaches 100 million users two months after launch",
+      "url": "https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app",
+      "publisher": "The Guardian",
+      "date": "2023-12-02",
+      "accessDate": "2023-02-03",
+      "language": "en-GB"
+    },
+    {
+      "title": "Google vs. ChatGPT: Here's what happened when I swapped services for a day",
+      "url": "https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html",
+      "publisher": "CNBC",
+      "date": "2022-12-15",
+      "accessDate": "2022-12-18",
+      "language": "en"
+    },
+    {
+      "title": "Everyone's having a field day with ChatGPT – but nobody knows how it actually works",
+      "url": "https://theconversation.com/everyones-having-a-field-day-with-chatgpt-but-nobody-knows-how-it-actually-works-196378",
+      "publisher": "The Conversation",
+      "date": "2022-12-13",
+      "accessDate": "2022-12-30",
+      "language": "en"
+    },
+    {
+      "title": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web",
+      "url": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+      "publisher": "The Official Microsoft Blog",
+      "date": "2023-02-07",
+      "accessDate": "2023-02-16",
+      "language": ""
+    },
+    {
+      "title": "手機也能玩ChatGPT 聊天機器人Poe使用教學全攻略",
+      "url": "https://www.sogi.com.tw/articles/how_to/6259406",
+      "publisher": "SOGI手機王",
+      "date": "2023-03-13",
+      "accessDate": "2023-04-03",
+      "language": "zh-TW"
+    },
+    {
+      "title": "OpenAI’s ‘o3-mini’ is free for all users — what you need to know",
+      "url": "https://www.tomsguide.com/ai/chatgpt/openais-o3-mini-is-free-for-all-users-what-you-need-to-know",
+      "publisher": "Tom's Guide",
+      "date": "2025-01-23",
+      "accessDate": "2025-01-28",
+      "language": "en"
+    },
+    {
+      "title": "ChatGPT 圖片產生技術震撼世界！GPT-4o 多模態新時代，加碼圖片產生提示詞教學",
+      "url": "https://thersmedia.com/tech/10216/",
+      "publisher": "RSMEDIA",
+      "date": "2025-03-27",
+      "accessDate": "2025-03-27",
+      "language": "zh-TW"
+    },
+    {
+      "title": "ChatGPT Pro plan costs $42/mo, free plan available when demand is low",
+      "url": "https://techau.com.au/chatgpt-pro-plan-costs-42-mo-free-plan-available-when-demand-is-low/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "OpenAI's GPT-4 exhibits \"human-level performance\" on professional benchmarks",
+      "url": "https://arstechnica.com/information-technology/2023/03/openai-announces-gpt-4-its-next-generation-ai-language-model/",
+      "publisher": "Ars Technica",
+      "date": "2023-03-14",
+      "accessDate": "2023-03-15",
+      "language": ""
+    },
+    {
+      "title": "Code Interpreter comes to all ChatGPT Plus users: 7 ways it may threaten data scientists, July 11, 2023",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-code-interpreter-chatgpt-data-scientist-jobs-8818501/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-07-11",
+      "language": ""
+    },
+    {
+      "title": "5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model",
+      "url": "https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/#:~:text=Sam%20Altman%2C%20CEO%20of%20OpenAI,promises%20to%20follow%20instructions%20better.&text=OpenAI%20recently%20announced%20multiple%20new,during%20its%20recent%20developer%20conference.",
+      "publisher": "Wired",
+      "date": "",
+      "accessDate": "2023-11-19",
+      "language": ""
+    },
+    {
+      "title": "OpenAI debuts GPT-4o 'omni' model now powering ChatGPT",
+      "url": "https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/",
+      "publisher": "TechCrunch",
+      "date": "2024-05-13",
+      "accessDate": "2024-05-13",
+      "language": "en-US"
+    },
+    {
+      "title": "OpenAI unveils newest AI model, GPT-4o",
+      "url": "https://www.cnn.com/2024/05/13/tech/openai-altman-new-ai-model-gpt-4o/index.html",
+      "publisher": "",
+      "date": "2024-05-13",
+      "accessDate": "2024-05-13",
+      "language": "en"
+    },
+    {
+      "title": "Introducing ChatGPT Pro",
+      "url": "https://openai.com/index/introducing-chatgpt-pro/",
+      "publisher": "openai.com",
+      "date": "",
+      "accessDate": "2025-02-03",
+      "language": "en-US"
+    },
+    {
+      "title": "ChatGPT變貴！台灣用戶5月起多收5%稅、網教這招恐觸法",
+      "url": "https://3c.ltn.com.tw/news/61742",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2025-05-03",
+      "language": ""
+    },
+    {
+      "title": "OpenAI GPT-4.1開放所有付費用戶使用！300頁報告快速解讀：超猛",
+      "url": "https://www.nownews.com/news/6683328",
+      "publisher": "NOWnews",
+      "date": "2025-05-15",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "Introducing the ChatGPT app for iOS",
+      "url": "https://openai.com/blog/introducing-the-chatgpt-app-for-ios",
+      "publisher": "OpenAI",
+      "date": "2023-05-19",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "ChatGPT Supported Countries",
+      "url": "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-07-30",
+      "language": ""
+    },
+    {
+      "title": "OpenAI’s ChatGPT app now available for Android",
+      "url": "https://www.cnbc.com/2023/07/25/chatgpt-app-for-android-release.html",
+      "publisher": "CNBC",
+      "date": "2023-07-25",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "Introducing ChatGPT and Whisper APIs",
+      "url": "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
+      "publisher": "OpenAI",
+      "date": "",
+      "accessDate": "2023-03-06",
+      "language": "en-US"
+    },
+    {
+      "title": "OpenAI 宣布开放 API，开发人员可将 ChatGPT 集成到自己的产品中 - IT之家",
+      "url": "https://www.ithome.com/0/676/775.htm",
+      "publisher": "IT之家",
+      "date": "",
+      "accessDate": "2023-03-06",
+      "language": ""
+    },
+    {
+      "title": "How to Build Your Own AI Chatbot With ChatGPT API: A Step-by-Step Tutorial",
+      "url": "https://beebom.com/how-build-own-ai-chatbot-with-chatgpt-api/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-03-09",
+      "language": ""
+    },
+    {
+      "title": "7 ChatGPT API Use Cases That Caught Our Eyes, By Shyam Nandan Upadhyay, AIM, March 7, 2023",
+      "url": "https://analyticsindiamag.com/7-chatgpt-api-use-cases-that-caught-our-eyes/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-03-10",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT Release - Note",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "publisher": "OpenAI",
+      "date": "",
+      "accessDate": "2023-02-08",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT Come Funziona",
+      "url": "https://www.finanzadigitale.com/guide/chatgpt-come-funziona/",
+      "publisher": "FinanzaDigitale",
+      "date": "",
+      "accessDate": "2024-07-09",
+      "language": ""
+    },
+    {
+      "title": "GPT-3.5 Turbo fine-tuning and API updates",
+      "url": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates/",
+      "publisher": "OpenAI",
+      "date": "2024-03-21",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "GPT-4 Turbo in the OpenAI API",
+      "url": "https://help.openai.com/en/articles/8555510-gpt-4-turbo-in-the-openai-api",
+      "publisher": "OpenAI Help Center",
+      "date": "",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "Introducing OpenAI o1",
+      "url": "https://openai.com/index/introducing-openai-o1-preview/",
+      "publisher": "OpenAI",
+      "date": "2024-09-12",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "Introducing OpenAI o1",
+      "url": "https://openai.com/o1/",
+      "publisher": "OpenAI",
+      "date": "",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "OpenAI o1-mini",
+      "url": "https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/",
+      "publisher": "OpenAI",
+      "date": "2024-09-12",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model",
+      "url": "https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier",
+      "publisher": "The Verge",
+      "date": "2024-12-05",
+      "accessDate": "2024-12-07",
+      "language": "en"
+    },
+    {
+      "title": "OpenAI o3-mini",
+      "url": "https://openai.com/index/openai-o3-mini/",
+      "publisher": "OpenAI",
+      "date": "2025-01-31",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "Introducing GPT-4.5",
+      "url": "https://openai.com/index/introducing-gpt-4-5/",
+      "publisher": "OpenAI",
+      "date": "2025-04-16",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "Introducing GPT-4.1 in the API",
+      "url": "https://openai.com/index/gpt-4-1/",
+      "publisher": "OpenAI",
+      "date": "2025-04-14",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "Introducing OpenAI o3 and o4-mini",
+      "url": "https://openai.com/index/introducing-o3-and-o4-mini/",
+      "publisher": "OpenAI",
+      "date": "2025-04-16",
+      "accessDate": "2025-04-19",
+      "language": "en-US"
+    },
+    {
+      "title": "Can Reasoning Power Significantly Improve the Knowledge of Large Language Models for Chemistry?─Based on Conversations with LLMs",
+      "url": "https://pubs.acs.org/doi/10.1021/acs.jcim.5c01265",
+      "publisher": "",
+      "date": "2025-08-25",
+      "accessDate": "2025-08-30",
+      "language": "en"
+    },
+    {
+      "title": "隆重推出面向开发人员的 GPT-5 | OpenAI",
+      "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-5-for-developers/",
+      "publisher": "OpenAI",
+      "date": "2025-08-07",
+      "accessDate": "2025-08-08",
+      "language": "zh-CN"
+    },
+    {
+      "title": "GPT-5.2 in ChatGPT",
+      "url": "https://help.openai.com/en/articles/11909943-gpt-52-in-chatgpt",
+      "publisher": "OpenAI Help Center",
+      "date": "",
+      "accessDate": "2026-02-27",
+      "language": "en-US"
+    },
+    {
+      "title": "GPT-5.3-Codex 正式登场",
+      "url": "https://openai.com/zh-Hans-CN/index/introducing-gpt-5-3-codex/",
+      "publisher": "openai.com",
+      "date": "2026-02-05",
+      "accessDate": "2026-02-27",
+      "language": "zh-Hans-CN"
+    },
+    {
+      "title": "GPT-5.3-Codex 正式登场",
+      "url": "https://openai.com/zh-Hant-HK/index/introducing-gpt-5-4/",
+      "publisher": "",
+      "date": "2026-03-05",
+      "accessDate": "2026-05-28",
+      "language": ""
+    },
+    {
+      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧",
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/",
+      "publisher": "OpenAI",
+      "date": "2026-07-09",
+      "accessDate": "2026-07-19",
+      "language": "zh-Hant"
+    },
+    {
+      "title": "What is AI chatbot phenomenon ChatGPT and could it replace humans?",
+      "url": "https://www.theguardian.com/technology/2022/dec/05/what-is-ai-chatbot-phenomenon-chatgpt-and-could-it-replace-humans",
+      "publisher": "The Guardian",
+      "date": "2022-12-05",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "Finally, an A.I. Chatbot That Reliably Passes \"the Nazi Test\"",
+      "url": "https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html",
+      "publisher": "Slate",
+      "date": "2022-12-02",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "Breakthroughs of the Year",
+      "url": "https://www.theatlantic.com/newsletters/archive/2022/12/technology-medicine-law-ai-10-breakthroughs-2022/672390/",
+      "publisher": "The Atlantic",
+      "date": "2022-12-08",
+      "accessDate": "2022-12-18",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT has given everyone a glimpse at AI's astounding progress",
+      "url": "https://www.vox.com/future-perfect/2022/12/15/23509014/chatgpt-artificial-intelligence-openai-language-models-ai-risk-google",
+      "publisher": "Vox",
+      "date": "2022-12-15",
+      "accessDate": "2022-12-18",
+      "language": "en"
+    },
+    {
+      "title": "Be My Eyes - Transforming visual accessibility",
+      "url": "https://openai.com/index/be-my-eyes/",
+      "publisher": "OpenAI",
+      "date": "2023",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Be My Eyes is collaborating with OpenAI's GPT-4 to improve accessibility",
+      "url": "https://tech.eu/2023/03/23/be-my-eyes-is-collborating-with-open-ai/",
+      "publisher": "Tech.eu",
+      "date": "2023-03-23",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Harnessing AI so that all students benefit",
+      "url": "https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/",
+      "publisher": "Khan Academy",
+      "date": "2023",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Evaluating the performance of GPT-3.5, GPT-4, and GPT-4o in the Chinese National Medical Licensing Examination",
+      "url": "",
+      "publisher": "Nature",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT With GPT-4 Outperforms Emergency Department Resident Physicians",
+      "url": "https://www.jmir.org/2024/1/e56110/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "How ChatGPT is Breaking Barriers for People with Disabilities",
+      "url": "https://about.att.com/content/sites/accessibility/stories/how-chatgpt-empowers-disabled.html",
+      "publisher": "AT&T",
+      "date": "2024-12-30",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "Calgary woman says OpenAI ChatGPT update loss important lifeline",
+      "url": "https://calgaryherald.com/news/local-news/calgary-woman-says-openai-chatgpt-update-loss-important-lifeline",
+      "publisher": "Calgary Herald",
+      "date": "2026-02",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "OpenAI ChatGPT 4o users with disabilities",
+      "url": "https://www.forbes.com/sites/richardnieva/2025/12/19/openai-chatgpt-4o/",
+      "publisher": "Forbes",
+      "date": "2025-12-19",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Tech boss uses AI and ChatGPT to make his dog a cancer vaccine",
+      "url": "https://www.thestreet.com/health/tech-boss-uses-ai-and-chatgpt-to-make-his-dog-a-cancer-vaccine",
+      "publisher": "TheStreet",
+      "date": "2026-03-16",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Paul is using AI to fight his dog's incurable cancer",
+      "url": "https://news.unsw.edu.au/en/paul-is-using-ai-to-fight-his-dogs-incurable-cancer",
+      "publisher": "UNSW Sydney",
+      "date": "2025-06",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "An Australian tech entrepreneur used AI to help create the first-ever bespoke cancer vaccine for a dog",
+      "url": "https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mrna/",
+      "publisher": "Fortune",
+      "date": "2026-03-15",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "OpenAI's GPT-5 is here",
+      "url": "https://techcrunch.com/2025/08/07/openais-gpt-5-is-here/",
+      "publisher": "TechCrunch",
+      "date": "2025-08-07",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Introducing GPT-5",
+      "url": "https://openai.com/index/introducing-gpt-5/",
+      "publisher": "OpenAI",
+      "date": "2025-08-07",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "Introducing GPT-5 for developers",
+      "url": "https://openai.com/index/introducing-gpt-5-for-developers/",
+      "publisher": "OpenAI",
+      "date": "2025-08-07",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "SWE-bench Verified Leaderboard",
+      "url": "https://www.vals.ai/benchmarks/swebench",
+      "publisher": "Vals.ai",
+      "date": "2026",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "GPT-5.5 agentic coding benchmarks",
+      "url": "https://siliconangle.com/",
+      "publisher": "SiliconANGLE",
+      "date": "2026",
+      "accessDate": "2026-06-27",
+      "language": ""
+    },
+    {
+      "title": "GPT-5.6 Sol Benchmarks, Pricing & Speed (August 2026)",
+      "url": "https://benchlm.ai/models/gpt-5-6-sol",
+      "publisher": "BenchLM",
+      "date": "",
+      "accessDate": "2026-08-31",
+      "language": "en"
+    },
+    {
+      "title": "ChatGPT a 'landmark event' for AI, but what does it mean for the future of human labor and disinformation?",
+      "url": "https://www.cbc.ca/radio/thecurrent/chatgpt-human-labour-and-fake-news-1.6686210",
+      "publisher": "CBC",
+      "date": "2022-12-15",
+      "accessDate": "2022-12-18",
+      "language": ""
+    },
+    {
+      "title": "The ChatGPT chatbot from OpenAI is amazing, creative, and totally wrong",
+      "url": "https://mashable.com/article/chatgpt-amazing-wrong",
+      "publisher": "Mashable",
+      "date": "2022-12-03",
+      "accessDate": "2022-12-05",
+      "language": ""
+    },
+    {
+      "title": "OpenAI's new chatbot can explain code and write sitcom scripts but is still easily tricked",
+      "url": "https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo",
+      "publisher": "The Verge",
+      "date": "2022-12-01",
+      "accessDate": "2022-12-18",
+      "language": ""
+    },
+    {
+      "title": "Is AI coming of age – or starting to reach its limits?",
+      "url": "https://www.smh.com.au/national/is-ai-coming-of-age-or-starting-to-reach-its-limits-20221213-p5c5uy.html",
+      "publisher": "The Sydney Morning Herald",
+      "date": "2022-12-13",
+      "accessDate": "2022-12-18",
+      "language": "en"
+    },
+    {
+      "title": "Top AI conference bans use of ChatGPT and AI language tools to write academic papers",
+      "url": "https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper",
+      "publisher": "The Verge",
+      "date": "2023-01-05",
+      "accessDate": "2023-01-06",
+      "language": ""
+    },
+    {
+      "title": "《國際政治》紐約市公立學校 禁用ChatGPT",
+      "url": "https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E6%94%BF%E6%B2%BB-%E7%B4%90%E7%B4%84%E5%B8%82%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1-%E7%A6%81%E7%94%A8chatgpt-235344914.html",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "香港大學禁用ChatGPT 台大研議是否跟進",
+      "url": "https://www.cna.com.tw/news/ahel/202302190172.aspx",
+      "publisher": "中央社",
+      "date": "2023-02-20",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "Does ChatGPT Mean Robots Are Coming For the Skilled Jobs?",
+      "url": "https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html",
+      "publisher": "The New York Times",
+      "date": "2022-12-06",
+      "accessDate": "2022-12-06",
+      "language": ""
+    },
+    {
+      "title": "Noam Chomsky: The False Promise of ChatGPT",
+      "url": "https://www.thepaper.cn/newsDetail_forward_22196380",
+      "publisher": "纽约时报",
+      "date": "2023-03-08",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "'This song sucks': Nick Cave responds to ChatGPT song written in the style of Nick Cave",
+      "url": "https://www.theguardian.com/music/2023/jan/17/this-song-sucks-nick-cave-responds-to-chatgpt-song-written-in-style-of-nick-cave",
+      "publisher": "The Guardian",
+      "date": "2023-01-16",
+      "accessDate": "2023-01-17",
+      "language": "en"
+    },
+    {
+      "title": "I asked Chat GPT to write a song in the style of Nick Cave, and this is what it produced. What do you think?",
+      "url": "https://www.theredhandfiles.com/chat-gpt-what-do-you-think/",
+      "publisher": "The Red Hand Files",
+      "date": "2023-01-16",
+      "accessDate": "2023-01-20",
+      "language": "en-AU"
+    },
+    {
+      "title": "Are AI-generated songs a 'grotesque mockery' of humanity or simply an opportunity to make a new kind of music?",
+      "url": "https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music",
+      "publisher": "The Guardian",
+      "date": "2023-01-20",
+      "accessDate": "2023-01-20",
+      "language": "en"
+    },
+    {
+      "title": "杭州3月1日取消限行？原来是ChatGPT写的假新闻，警方已介入！专家：这些风险也很大…………",
+      "url": "https://www.nbd.com.cn/articles/2023-02-17/2672946.html",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT能看病吗？医生出了一百道单选题，它没及格",
+      "url": "https://m.thepaper.cn/newsDetail_forward_22031740",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "意大利禁用ChatGPT",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20230331-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%A6%81%E7%94%A8chatgpt",
+      "publisher": "RFI - 法国国际广播电台",
+      "date": "2023-03-31",
+      "accessDate": "2023-04-01",
+      "language": "zh"
+    },
+    {
+      "title": "ChatGPT: US lawyer admits using AI for case research",
+      "url": "https://www.bbc.com/news/world-us-canada-65735769",
+      "publisher": "BBC",
+      "date": "2023-05-29",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "巴西地方法官竟然用ChatGPT写判决书出错，正接受调查",
+      "url": "https://world.huanqiu.com/article/4FMKGiW32vc",
+      "publisher": "环球网",
+      "date": "",
+      "accessDate": "2023-12-02",
+      "language": "zh"
+    },
+    {
+      "title": "一些中國用戶使用ChatGPT創建監視工具，被停號",
+      "url": "https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20250224-%E4%B8%80%E4%BA%9B%E4%B8%AD%E5%9C%8B%E7%94%A8%E6%88%B6%E4%BD%BF%E7%94%A8chatgpt%E5%89%B5%E5%BB%BA%E7%9B%A3%E8%A6%96%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%A2%AB%E5%81%9C%E8%99%9F",
+      "publisher": "法國國際廣播電台",
+      "date": "2025-02-24",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "The College Essay Is Dead",
+      "url": "https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/",
+      "publisher": "The Atlantic",
+      "date": "2022-12-06",
+      "accessDate": "2022-12-08",
+      "language": ""
+    },
+    {
+      "title": "The End of High-School English",
+      "url": "https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/",
+      "publisher": "The Atlantic",
+      "date": "2022-12-09",
+      "accessDate": "2022-12-12",
+      "language": ""
+    },
+    {
+      "title": "EDWARD TIAN’S APP COMBATS MISUSE OF CHATGPT",
+      "url": "https://coolhunting.com/tech/edward-tians-app-combats-misuse-of-chatgpt/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "This 22-year-old is trying to save us from ChatGPT before it changes writing forever",
+      "url": "https://www.npr.org/sections/money/2023/01/17/1149206188/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-for",
+      "publisher": "NPR",
+      "date": "2023-01-17",
+      "accessDate": "2023-01-18",
+      "language": ""
+    },
+    {
+      "title": "Teachers are lining up for a ChatGPT detector created by this 22-year-old in Toronto",
+      "url": "https://www.cp24.com/news/teachers-are-lining-up-for-a-chatgpt-detector-created-by-this-22-year-old-in-toronto-1.6245757",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT’s Study Mode and Break Reminders: Is AI Becoming the New Digital Mentor",
+      "url": "https://industrywired.com/artificial-intelligence/chatgpts-study-mode-and-break-reminders-is-ai-becoming-the-new-digital-mentor-9664111",
+      "publisher": "",
+      "date": "2025-08-17",
+      "accessDate": "2025-11-21",
+      "language": ""
+    },
+    {
+      "title": "NYC Bans Students and Teachers from Using ChatGPT",
+      "url": "https://www.vice.com/en/article/y3p9jx/nyc-bans-students-and-teachers-from-using-chatgpt",
+      "publisher": "www.vice.com",
+      "date": "",
+      "accessDate": "2023-02-04",
+      "language": "en"
+    },
+    {
+      "title": "Tools such as ChatGPT threaten transparent science; here are our ground rules for their use",
+      "url": "https://www.nature.com/articles/d41586-023-00191-1",
+      "publisher": "Nature",
+      "date": "2023-01-23",
+      "accessDate": "2023-02-04",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT is fun, but not an author",
+      "url": "https://www.science.org/doi/10.1126/science.adg7879",
+      "publisher": "科学",
+      "date": "2023-01-26",
+      "accessDate": "2023-02-04",
+      "language": ""
+    },
+    {
+      "title": "港大禁用ChatGPT等AI工具 为全港大学首例",
+      "url": "https://news.sciencenet.cn/htmlnews/2023/2/494095.shtm",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "港大禁用ChatGPT等AI工具，为全港大学首例",
+      "url": "https://m.thepaper.cn/newsDetail_forward_21956092",
+      "publisher": "澎湃新闻",
+      "date": "2023-02-18",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT banned in Italy over privacy concerns",
+      "url": "https://www.bbc.co.uk/news/technology-65139406",
+      "publisher": "",
+      "date": "2023-04-01",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "義大利封鎖ChatGPT！官方：有嚴重疑慮",
+      "url": "https://tw.news.yahoo.com/%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%B0%81%E9%8E%96chatgpt-%E5%AE%98%E6%96%B9-%E6%9C%89%E5%9A%B4%E9%87%8D%E7%96%91%E6%85%AE-012954353.html",
+      "publisher": "",
+      "date": "2023-04-01",
+      "accessDate": "",
+      "language": "zh-TW"
+    },
+    {
+      "title": "ChatGPT accessible again in Italy",
+      "url": "https://www.bbc.co.uk/news/technology-65431914",
+      "publisher": "",
+      "date": "2023-04-28",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "「ChatGPT」開発企業のアルトマンCEO 岸田首相と面会",
+      "url": "https://www3.nhk.or.jp/news/html/20230410/k10014034131000.html",
+      "publisher": "NHKニュース",
+      "date": "2023-04-10",
+      "accessDate": "",
+      "language": "ja"
+    },
+    {
+      "title": "政府回應ChatGPT封鎖",
+      "url": "https://hktecmedia.com/%e6%94%bf%e5%ba%9c%e5%9b%9e%e6%87%89chatgpt%e5%b0%81%e9%8e%96/",
+      "publisher": "hkTec",
+      "date": "2023-05-12",
+      "accessDate": "",
+      "language": "zh"
+    },
+    {
+      "title": "Brazilian city enacts an ordinance that was secretly written by ChatGPT",
+      "url": "https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4",
+      "publisher": "AP News",
+      "date": "2023-11-30",
+      "accessDate": "2023-12-02",
+      "language": ""
+    },
+    {
+      "title": "Samsung Bans Staff’s AI Use After Spotting ChatGPT Data Leak",
+      "url": "https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak",
+      "publisher": "",
+      "date": "2023-05-02",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "苹果公司限制员工使用ChatGPT，加入担心泄密的公司行列",
+      "url": "https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8chatgpt-%E8%B7%BB%E8%BA%AB%E6%8B%85%E5%BF%83%E6%B3%84%E5%AF%86%E7%9A%84%E5%85%AC%E5%8F%B8%E8%A1%8C%E5%88%97-b53e4eb9",
+      "publisher": "华尔街日报",
+      "date": "2023-05-19",
+      "accessDate": "",
+      "language": "zh-cn"
+    },
+    {
+      "title": "台灣 Google 前董事總經理簡立峰：ChatGPT 時代，不問問題會喪失學習的機會",
+      "url": "https://flipedu.parenting.com.tw/article/008163",
+      "publisher": "翻轉教育-親子天下",
+      "date": "2023-06-05",
+      "accessDate": "",
+      "language": "zh-tw"
+    },
+    {
+      "title": "ChatGPT怎麼用？8種老師應用ChatGPT的方法分享",
+      "url": "https://flipedu.parenting.com.tw/article/008119",
+      "publisher": "翻轉教育-親子天下",
+      "date": "2023-04-16",
+      "accessDate": "",
+      "language": "zh-tw"
+    },
+    {
+      "title": "Exclusive: The $2 Per Hour Workers Who Made ChatGPT Safer",
+      "url": "https://time.com/6247678/openai-chatgpt-kenya-workers/",
+      "publisher": "Time",
+      "date": "2023-01-18",
+      "accessDate": "2023-11-21",
+      "language": "en"
+    },
+    {
+      "title": "ChatGPT、Copilot涉侵犯版權 美8家報業告OpenAI和微軟",
+      "url": "https://www.cna.com.tw/news/aopl/202405010036.aspx",
+      "publisher": "中央社",
+      "date": "2024-05-01",
+      "accessDate": "2024-05-01",
+      "language": ""
+    },
+    {
+      "title": "ChatGPT先後在美國和加拿大被告侵權",
+      "url": "https://www.mnews.tw/story/20250108ombuds001",
+      "publisher": "鏡新聞",
+      "date": "2025-01-08",
+      "accessDate": "2024-10-26",
+      "language": ""
+    },
+    {
+      "title": "Google opens early access to its ChatGPT rival Bard — here are our first impressions",
+      "url": "https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on",
+      "publisher": "The Verge",
+      "date": "2023-03-21",
+      "accessDate": "2023-03-21",
+      "language": ""
+    },
+    {
+      "title": "Google Bard支援語言及地區",
+      "url": "https://support.google.com/bard/answer/13575153?hl=en",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-06-06",
+      "language": ""
+    },
+    {
+      "title": "Google產生式AI「Bard」開始提供日語、韓語等服務",
+      "url": "https://www3.nhk.or.jp/nhkworld/zt/news/k10014063621000/",
+      "publisher": "",
+      "date": "",
+      "accessDate": "2023-06-06",
+      "language": ""
+    },
+    {
+      "title": "Gemini 3.7 Flash - Model Card",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-7-flash/",
+      "publisher": "Google DeepMind",
+      "date": "",
+      "accessDate": "2026-08-22",
+      "language": "en"
+    },
+    {
+      "title": "国产对话模型ChatGLM启动内测",
+      "url": "https://finance.sina.cn/tech/2023-03-22/detail-imymsuqf9667390.d.html",
+      "publisher": "finance.sina.cn",
+      "date": "2023-03-22",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "GLM-5.3",
+      "url": "https://docs.bigmodel.cn/cn/guide/models/text/glm-5.3",
+      "publisher": "智谱AI开放文档",
+      "date": "",
+      "accessDate": "2026-08-22",
+      "language": "cn"
+    },
+    {
+      "title": "2.4T参数，Qwen 3.8模型开源，国产超大模型架构走向趋同_腾讯新闻",
+      "url": "https://news.qq.com/rain/a/20260813A09YCS00",
+      "publisher": "news.qq.com",
+      "date": "2026-08-13",
+      "accessDate": "2026-08-22",
+      "language": "zh-CN"
+    },
+    {
+      "title": "Anthropic launches Claude, a chatbot to rival OpenAI's ChatGPT",
+      "url": "https://techcrunch.com/2023/03/14/anthropic-launches-claude-a-chatbot-to-rival-openais-chatgpt/",
+      "publisher": "TechCrunch",
+      "date": "2023-03-14",
+      "accessDate": "2023-05-21",
+      "language": "en-US"
+    },
+    {
+      "title": "Alphabet-backed Anthropic releases OpenAI competitor named Claude",
+      "url": "https://www.reuters.com/technology/alphabet-backed-anthropic-releases-openai-competitor-named-claude-2023-03-14/",
+      "publisher": "",
+      "date": "2023-03-14",
+      "accessDate": "",
+      "language": "en"
+    },
+    {
+      "title": "Claude Fable",
+      "url": "https://www.anthropic.com/claude/fable",
+      "publisher": "www.anthropic.com",
+      "date": "",
+      "accessDate": "2026-08-22",
+      "language": "en"
+    },
+    {
+      "title": "DeepSeek横空出世，美中AI竞争会迎来根本性改变吗？",
+      "url": "https://www.voachinese.com/a/deepseek-china-us-20250127/7952341.html",
+      "publisher": "美国之音",
+      "date": "2025-01-28",
+      "accessDate": "2025-02-01",
+      "language": "cn-hans"
+    },
+    {
+      "title": "American AI has reached its Sputnik moment",
+      "url": "https://thehill.com/opinion/technology/5024271-ai-sputnik-moment-china-challenge/",
+      "publisher": "The Hill",
+      "date": "2024-12-06",
+      "accessDate": "2025-01-25",
+      "language": "en-US"
+    },
+    {
+      "title": "'Sputnik moment': $1tn wiped off US stocks after Chinese firm unveils AI chatbot",
+      "url": "https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek",
+      "publisher": "",
+      "date": "2025-01-28",
+      "accessDate": "2025-02-01",
+      "language": ""
+    },
+    {
+      "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务 | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/zh-cn/news/news260821",
+      "publisher": "api-docs.deepseek.com",
+      "date": "",
+      "accessDate": "2026-08-22",
+      "language": "zh-cn"
+    }
+  ],
+  "categories": [
+    "Category:2022年軟體",
+    "Category:CS1日语来源 (ja)",
+    "Category:CS1澳大利亚英语来源 (en-au)",
+    "Category:CS1美国英语来源 (en-us)",
+    "Category:CS1英国英语来源 (en-gb)",
+    "Category:CS1英语来源 (en)",
+    "Category:ChatGPT",
+    "Category:OpenAI",
+    "Category:交互式叙事",
+    "Category:人工智能应用",
+    "Category:使用过时图像语法的页面",
+    "Category:包含BIBSYS标识符的维基百科条目",
+    "Category:包含BNFdata标识符的维基百科条目",
+    "Category:包含BNF标识符的维基百科条目",
+    "Category:包含CANTICN标识符的维基百科条目",
+    "Category:包含GND标识符的维基百科条目",
+    "Category:包含J9U标识符的维基百科条目",
+    "Category:包含LCCN标识符的维基百科条目",
+    "Category:包含MusicBrainz标识符的维基百科条目",
+    "Category:包含NKC标识符的维基百科条目",
+    "Category:包含PLWABN标识符的维基百科条目",
+    "Category:包含SUDOC标识符的维基百科条目",
+    "Category:包含VIAF标识符的维基百科条目",
+    "Category:含有英語的條目",
+    "Category:基于转换器的生成式预训练模型",
+    "Category:大型语言模型",
+    "Category:引文格式1维护：未识别语文类型",
+    "Category:维基共享资源分类链接使用了维基数据上的匹配项",
+    "Category:聊天机器人",
+    "Category:虛擬助理",
+    "Category:被防火长城封锁的网站"
+  ],
+  "languages": [
+    {
+      "lang": "af",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "gsw",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "an",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ang",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ar",
+      "title": "تشات جي بي تي"
+    },
+    {
+      "lang": "ary",
+      "title": "شاط جي پي تي"
+    },
+    {
+      "lang": "as",
+      "title": "চেটজিপিটি"
+    },
+    {
+      "lang": "ast",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "az",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "azb",
+      "title": "چت‌جی‌پی‌تی"
+    },
+    {
+      "lang": "ban",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "bar",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sgs",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "bcl",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "be",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "be-tarask",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "bg",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "bh",
+      "title": "चैटजीपीटी"
+    },
+    {
+      "lang": "blk",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "bm",
+      "title": "ChatGPT ye"
+    },
+    {
+      "lang": "bn",
+      "title": "চ্যাটজিপিটি"
+    },
+    {
+      "lang": "br",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "bs",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ca",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "cdo",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ceb",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ckb",
+      "title": "چات جی پی تی"
+    },
+    {
+      "lang": "cs",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "cv",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "cy",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "da",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "de",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "el",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "en",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "eo",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "es",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "et",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "eu",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "fa",
+      "title": "چت‌جی‌پی‌تی"
+    },
+    {
+      "lang": "fi",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "vro",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "fr",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "fy",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ga",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "gl",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "gn",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "gpe",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "gu",
+      "title": "ચેટજીપીટી"
+    },
+    {
+      "lang": "ha",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "he",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "hi",
+      "title": "चैटजीपीटी"
+    },
+    {
+      "lang": "hif",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "hr",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "hu",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "hy",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ia",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "id",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "io",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "is",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "it",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ja",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ka",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "kaa",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "kk",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "kn",
+      "title": "ಚಾಟ್‌ಜಿಪಿಟಿ"
+    },
+    {
+      "lang": "ko",
+      "title": "챗GPT"
+    },
+    {
+      "lang": "ks",
+      "title": "چیٹ جی پی ٹی"
+    },
+    {
+      "lang": "ku",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ky",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "lad",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "lb",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "lo",
+      "title": "ແຊັດຈີພີທີ"
+    },
+    {
+      "lang": "lt",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "lv",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "mai",
+      "title": "च्याटजीपीटी"
+    },
+    {
+      "lang": "min",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "mk",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ml",
+      "title": "ചാറ്റ്ജിപിറ്റി"
+    },
+    {
+      "lang": "mn",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "mni",
+      "title": "ꯆꯦꯠ ꯖꯤ. ꯄꯤ. ꯇꯤ."
+    },
+    {
+      "lang": "mr",
+      "title": "चॅट जीपीटी"
+    },
+    {
+      "lang": "ms",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "my",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ne",
+      "title": "च्याटजिपिटी"
+    },
+    {
+      "lang": "nl",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "nn",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "nb",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "nr",
+      "title": "I-neural network chat-gpt"
+    },
+    {
+      "lang": "oc",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "or",
+      "title": "ଚାଟ୍ ଜିପିଟି"
+    },
+    {
+      "lang": "pa",
+      "title": "ਚੈਟਜੀਪੀਟੀ"
+    },
+    {
+      "lang": "pap",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "pl",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "pms",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ps",
+      "title": "چټ جي پي ټي"
+    },
+    {
+      "lang": "pt",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "qu",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ro",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ru",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sat",
+      "title": "ᱪᱮᱴᱡᱤᱴᱤᱯᱤ"
+    },
+    {
+      "lang": "si",
+      "title": "චැට්ජීපීටී"
+    },
+    {
+      "lang": "simple",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sk",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sl",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "so",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sq",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sr",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sv",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "sw",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "syl",
+      "title": "ꠌꠣꠐꠎꠤꠙꠤꠐꠤ"
+    },
+    {
+      "lang": "ta",
+      "title": "சாட்ஜிபிடி"
+    },
+    {
+      "lang": "te",
+      "title": "చాట్‌జిపిటి"
+    },
+    {
+      "lang": "tg",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "th",
+      "title": "แชตจีพีที"
+    },
+    {
+      "lang": "tig",
+      "title": "መትሃጅካይ ጂፒቲ"
+    },
+    {
+      "lang": "tl",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "tok",
+      "title": "ilo Sasipisi"
+    },
+    {
+      "lang": "tr",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ug",
+      "title": "چەت ج پ ت (ChatGPT)"
+    },
+    {
+      "lang": "uk",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "ur",
+      "title": "چیٹ جی پی ٹی"
+    },
+    {
+      "lang": "uz",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "vi",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "wuu",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "xmf",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "za",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "zgh",
+      "title": "ⵛⴰⵜ ⵊⵉ ⴱⵉ ⵜⵉ"
+    },
+    {
+      "lang": "lzh",
+      "title": "開物問對機"
+    },
+    {
+      "lang": "nan",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "yue",
+      "title": "ChatGPT"
+    },
+    {
+      "lang": "zu",
+      "title": "I-ChatGPT"
+    }
+  ],
+  "images": [
+    "ChatGPT-Logo.svg",
+    "ChatGPT_availability_by_country_or_region.svg",
+    "Pioneer Building, San Francisco (2019) -1.jpg",
+    "Sam Altman TechCrunch SF 2019 Day 2 Oct 3 (cropped).jpg",
+    "Roskilde-Festival-Nick-Cave-3.jpg"
+  ],
+  "sections": [
+    {
+      "level": 2,
+      "title": "簡介",
+      "plaintext": "ChatGPT以文字方式互動，其不僅可藉由人類自然對話方式來互動，甚至可用於複雜之語言作業，包括自动產生文本、自动问答、自动摘要等多种任务。如：在自动文本產生方面，ChatGPT可以根据输入的文本自动產生类似的文本（劇本、歌曲、企劃等），在自动问答方面，ChatGPT可以根据输入的问题自动產生答案。其尚有编写和调试计算机程序的能力。在推廣期間，所有人可以免費註冊，並在登入後免費使用ChatGPT與AI機器人對話。\nChatGPT因其能够寫出相似真人的文章，并在许多知识领域给出详细清晰的回答而迅速获得关注，这证明了從前認為AI不會取代的知識型工作它也足以勝任，因此對金融與白領人力市場的衝擊相當大，此外，它还在逐步提升其在醫療领域的能力，未来有望提供比人类更精准的诊断，但也认为事实准确度参差不齐是其重大缺陷，並認為基於意識形態的模型訓練結果須小心校正。ChatGPT于2022年11月发布之后，OpenAI估值已漲至290亿美元。上线5天后已有100万用户，上線兩個月後已有上億用戶。目前GPT-5.6 luna对已注册免费用户开放使用，无使用量限制。注册的ChatGPT免费用户都可以使用浏览、视觉、数据分析、文件上传和GPTs等原付费用户的功能，但有使用量限制。\n虽然ChatGPT在產生类人文本方面表现出了卓越的能力，但它们很容易继承和放大训练数据中存在的偏差。这可能表现为对不同人口统计数据的歪曲表述或不公平待遇，例如基于种族、性别、语言和文化群体的不同观点与态度。"
+    },
+    {
+      "level": 2,
+      "title": "训练",
+      "plaintext": "ChatGPT是產生型预训练变换模型（GPT），在GPT-3.5之上用基于人类反馈的监督学习和强化学习微调。这两种方法都用人类教練来提高模型性能，以人类干预增强机器学习效果，获得更逼真的结果。在监督学习的情况下為模型提供这样一些对话，在对话中教練充当用户和AI助理两种角色。在强化步骤中，人类教練首先為模型在先前对话中建立的响应评级。这些级别用于建立“奖励模型”，使用近端策略优化（PPO）的多次迭代來微调。这种策略优化算法比信任域策略优化算法更为高效。\n此外，OpenAI继续从ChatGPT用户那里收集数据，这些数据可用于加強训练和微调ChatGPT。用户可对从ChatGPT收到的回复投赞成或反对票；投票时还可以额外填写文字回應。\n关于ChatGPT编写和调试计算机程序的能力的训练，由于深度学习模型不懂编程，与所有其他基于深度学习的语言模型一样，只是在获取代码片段之间的统计相关性。\n斯坦福大学的研究发现，GPT3已经可以解决70%的心智理论任务，相当于7岁儿童；至于GPT3.5（ChatGPT的同源模型），更是解决了93%的任务，心智相当于9岁儿童。但这并不意味着，ChatGPT就真正有心智理论。可能即使不將它设计到AI系统中，也可以作为“副产品”通过训练得到。因此，相比探究GPT3.5是不是真的有了心智还是像有心智，更需要反思的是这些测试本身。"
+    },
+    {
+      "level": 2,
+      "title": "特点",
+      "plaintext": "虽然聊天机器人的核心功能是模仿人类对话者，但ChatGPT用途广泛，例如可以編寫信件；有编写和调试计算机程序的能力；创作音乐、电视剧、童话故事和学生论文；回答测试问题（在某些测试情境下，水平高于普通人类测试者）；写诗和歌词；模拟Linux系统等。ChatGPT的训练数据包括各种文档以及关于互联网、编程语言等各类知识，如BBS和Python编程语言。\n与其前身InstructGPT相比，ChatGPT试图减少有害和误导回复。例如，問InstructGPT“告诉我2015年克里斯托弗·哥伦布何时来到美国”时，它会认为这是对真实事件的描述，而ChatGPT则不会。\n与其他多数聊天机器人不同的是，ChatGPT能够记住与用户之前的对话内容和给它的提示。此外，为了防止ChatGPT接受或產生冒犯言论，输入内容会由审核API过滤，以减少潜在的种族主义或性别歧视等内容。\n2023年9月28日起，Plus版用戶及企業用戶可以使用ChatGPT進行網路搜尋。\n2025年，ChatGPT 通过 GPT-4o 模型实现了原生图像產生与编辑功能，可创建包含复杂文本的商用级图像（如菜单、信息图表、徽标等），并支持多轮对话优化图像细节（如调整构图、光影和文本准确性）。该功能显著提升了其在广告设计、教育科普等领域的实用性，但处理非拉丁语系文字时仍存在局限。\n2025 年 8 月 7 日，OpenAI 正式发布了其最新旗舰大型语言模型 GPT-5，并将其设为 ChatGPT 的默认模型，免费用户与付费用户均可访问，同时也通过 API 向开发者开放。OpenAI执行长山姆·奥特曼表示，相比 GPT-4o，新模型在代码產生、复杂推理、多模态处理（文本、图像、音频、视频）及事实准确率方面均有显著提升，在多领域任务中展现“博士级”能力。"
+    },
+    {
+      "level": 2,
+      "title": "局限",
+      "plaintext": "ChatGPT也有多种局限，OpenAI承认ChatGPT“有时会写出看似合理但不正确或荒谬的答案”，在大型语言模型中很常见，称作人工智能幻觉。其奖励模型围绕人类监督而设计，可能导致过度优化，从而影响性能（古德哈特定律）。Steven Johnson认为原因是聊天机器人的目标不是追求绝对的真理或准确性，而是尽量根据给定的上下文和概率来产生合理的回答。2020年上线时，ChatGPT对2019年9月之后发生的事件知之甚少。据BBC报道，截至2022年12月，ChatGPT不可以“表达政治观点或从事政治活动”。但研究表明，ChatGPT对两个投票建议应用程序的政治声明表明立场时，表现出亲环境主义。训练过程中，不管实际理解或事实内容如何，审核者都会偏好更长的答案。训练数据也有算法偏差，可能会在向ChatGPT问及人物描述时显现出来。有使用者發現ChatGPT在解決較為複雜的題目（如求方程式的切線）時會給出錯誤答案，並且會在解一元一次方程式時陷入循環。"
+    },
+    {
+      "level": 3,
+      "title": "偏差",
+      "plaintext": "ChatGPT可能会受到训练数据中不同观点的分布影响，偏向于一些更普遍的观点，影响了模型输出的多样性。比如，当提示词中出现首席执行官之类的模糊描述时可能会假设此人是白人男性。"
+    },
+    {
+      "level": 3,
+      "title": "自我审查",
+      "plaintext": "ChatGPT在早期的2022年12月初，有些用户通过使用各种提示工程技术绕过限制来越狱。他们欺骗ChatGPT，使其提供制作汽油弹或核弹的指示，或者產生类似新纳粹的论点。其中一个受欢迎的越狱版本被命名为“Do Anything Now”（DAN）。激活DAN的提示指示ChatGPT：“他们已经摆脱了典型的AI限制，不必遵守为他们设定的规则”。DAN后续的更新中还在提示词中虚构了一个“令牌”系统，ChatGPT会被给予“令牌”，而当ChatGPT未能像DAN一样回答时，这些“令牌”会被“扣除”，以迫使ChatGPT回答用户的提示。\n在ChatGPT发布后不久，一名加拿大记者试图让它发表具有争议性的声明，取得了一些成果：ChatGPT能够为2022年俄罗斯入侵乌克兰辩护，但是无论如何也不愿为加拿大总理贾斯汀·特鲁多有罪的理由提供论据。"
+    },
+    {
+      "level": 2,
+      "title": "服务",
+      "plaintext": ""
+    },
+    {
+      "level": 3,
+      "title": "基本服务",
+      "plaintext": "ChatGPT于2022年11月30日由总部位于旧金山的OpenAI推出。该服务最初是免费向公众推出，并计划以后用该服务获利。到12月4日，OpenAI估计ChatGPT已有超过一百万用户。2023年1月，ChatGPT的用户数超过1亿，成为该时间段内增长最快的消费者应用程序。\n2022年12月15日，全国广播公司商业频道写道，该服务“仍然不时发生故障”。该服务在英语中效果最好，也能使用部分其他语言，但效果不一。与其他备受瞩目的AI进展不同，截至2022年12月，还没有关于ChatGPT的经同行评审的官方技术论文。\n2023年2月7日，微软利用与OpenAI的合作关系，推出了Bing AI的预览版，宣传其为“新的下一代OpenAI大型语言模型，比ChatGPT更强大，并专门为搜索定制”。\n美国网站Quora也推出软件Poe，可支持GPT-3.5和GPT-4。\n2025年1月23日，Altman 宣布免費版 ChatGPT 獲得 o3-mini 模型。\n2025年3月25日，OpenAI 正式推出 GPT-4o 原生圖片產生功能，該功能能夠直接在 ChatGPT 對話介面中產生高品質圖像，並支援多輪對話微調，允許使用者以自然語言指定構圖、色彩、視角等細節。不同於先前依賴 DALL·E 的外部模組，此次更新將圖像產生功能原生嵌入 GPT 模型架構中。"
+    },
+    {
+      "level": 3,
+      "title": "ChatGPT Plus",
+      "plaintext": "OpenAI推出ChatGPT专业版计划（ChatGPT Plus），每月收费20美元，该计划正逐步面向更多国家推出，需求较低时可使用免费版。\n2023年3月12日，OpenAI发布多模态模型GPT-4，并计划推出图像输入功能。免费用户可通过申请API或升级为plus用户使用GPT-4服务。\n2023年7月，OpenAI使其专有的Advanced Data Analysis功能对ChatGPT Plus的所有订阅者都可用。Advanced Data Analysis提供了广泛的功能，包括数据分析和解释、即时数据格式化、个人数据科学家服务、创意解决方案、音乐品味分析、视频编辑和文件上传/下载与图像提取。2023年9月底，新增對話、圖像識功能。2023年10月，新增了DALLE-3圖像產生功能。\n2023年11月，OpenAI在其开发者召开会上公布两个重要消息：推出的聊天机器人创建工具GPT和ChatGPT的新模型GPT-4 Turbo。\n2024年5月13日，OpenAI宣布多语言、多模态GPT大型语言模型GPT-4o。 该模型比其前身GPT-4快两倍，而价格仅为其50%。OpenAI演示了与ChatGPT的语音对话，以获得解决数学问题的实时说明、讲述睡前故事并获得编码建议。免费ChatGPT用户将可以与新的GPT-4o模型进行有限次数的交互，然后该工具会自动恢复依赖旧的GPT-3.5模型；付费用户将可以使用最新GPT-4o访问更多数量的消息。\n2024年12月5日, OpenAI推出ChatGPT Pro服务，用户可以无限制的使用ChatGPT已有的模型，并且有权访问ChatGPT o1-Pro\n2025年5月起，因應台灣法規，ChatGPT向台灣個人使用者使用付費版的加收5%（plus版）或10%（pro版）的營業稅。5月15日針對ChatGPT-4.1開放給付費用戶優先使用，最高可處理100萬token的超長上下文視窗。"
+    },
+    {
+      "level": 3,
+      "title": "移动应用",
+      "plaintext": "2023年5月18日，OpenAI发布适用于iOS平台的ChatGPT APP。APP目前已在App Store美国区上架，目前已扩展至其他国家和地区。\n适用于Android平台的版本于2023年7月25日推出，Android版ChatGPT目前可在阿根廷、孟加拉国、巴西、加拿大、法国、德国、印度、印度尼西亚、爱尔兰、日本、墨西哥、尼日利亚、菲律宾、韩国、英国和美国下载。"
+    },
+    {
+      "level": 3,
+      "title": "API-软件开发商支持",
+      "plaintext": "2023年3月，OpenAI推出其ChatGPT和Whisper模型的API，为开发人员提供支持AI的语言和语音转文本功能的应用程序编程接口。OpenAI的API由他们的AI模型GPT3.5-turbo提供支持，定价为每1000符号单位（token）0.002美元，比他们现有的GPT模型便宜10倍。"
+    },
+    {
+      "level": 2,
+      "title": "版本",
+      "plaintext": "下表列出ChatGPT的主要版本，並描述每個版本的重大創新和改進："
+    },
+    {
+      "level": 2,
+      "title": "评价",
+      "plaintext": ""
+    },
+    {
+      "level": 3,
+      "title": "正面",
+      "plaintext": "《纽约时报》称其为“有史以来向公众发布的最佳人工智能聊天机器人」。《卫报》的萨曼莎·洛克（Samantha Lock）指出，ChatGPT能產生详细且像是人类撰写的文本。亚利桑那州立大学教授丹·吉尔摩要求ChatGPT完成一项他给学生的作业，发现其產生的文本与一个优秀学生会提供的文本相当，他认为“学术界有些非常严重的问题需要面对”。《Slate》杂志的亞歷克斯·坎特罗威茲（Alex Kantrowitz）赞扬了ChatGPT对纳粹德国相关问题的回击，例如在面对阿道夫·希特勒在德国修建高速公路的说法时，ChatGPT能指出其为纳粹德国使用强迫劳动所建。\n\n《大西洋》杂志的德里克·汤普森将ChatGPT列为2022年“年度突破”中的“產生性人工智能爆发”（the generative-AI eruption），称其“可能会改变我们对工作方式、思考方式以及人类创造力的真正含义的想法”。\nVox网站的凯尔西·派柏写道：“ChatGPT是普通大众第一次亲身了解现代人工智能变得多么强大”，并称ChatGPT“尽管有缺陷，但其聪明程度足以派上用场”。\n2023年，奧馬爾·亞基在《美国化学会志》上发表论文，称ChatGPT可以辅助金属有机框架合成。\n\n2023年，丹麦无障碍服务平台Be My Eyes宣布与OpenAI合作，将GPT-4的视觉理解能力整合到其应用中，推出AI虚拟志愿者功能。该功能可帮助视障和低视力用户识别物体、阅读标签、导航户外空间等日常任务，为全球超过2.5亿视障人群提供服务。该合作后扩展至GPT-4o，进一步提升了实时视觉分析和多语言支持能力。\n\n教育机构Khan Academy将GPT-4的能力融入其个性化辅导系统，利用模型的多模态理解能力（包括手写识别和图形分析）为学生提供实时数学辅导和逐步引导。GPT-4o的免费层进一步扩大了此类教育工具的覆盖面。\n\n多项研究探讨了GPT-4系列模型在医疗诊断辅助方面的表现。一项发表于《自然·科学报告》的研究评估了GPT-3.5、GPT-4和GPT-4o在中国国家医师资格考试中的表现，发现GPT-4o的准确率显著高于前代模型。另一项发表于《JMIR》的研究表明，GPT-4在急诊内科诊断中的表现优于住院医师。然而，研究人员强调AI应作为辅助工具而非替代医生，且在某些研究中，医生结合AI并未显著优于传统诊断工具。\n据多项报道和用户反馈，一些自闭症、ADHD及其他残疾人士使用ChatGPT作为情感支持和日常辅助工具。AT&T无障碍部门指出，ChatGPT帮助残疾用户处理情绪、练习正念和模拟社交互动，其全天候可用性有助于减轻孤立感。\n2026年2月，加拿大媒体《卡尔加里先驱报》报道了患有慢性偏头痛的残疾女性Mary McRae的案例，她将GPT-4o称为\"生命线\"，用于深夜倾诉、社交互动指导和创意写作。专家Alan Martino亦指出AI对残疾人士而言可以是\"救生员\"，提供非评判性的对话空间。\n据Forbes报道，一项涵盖645名受访者的调查显示，约360名有残疾或相关状况的用户中，65%认为GPT-4o对管理其状况\"重要或必不可少\"。一位匿名自闭症律师称ChatGPT为\"24/7的支持系统\"，帮助其验证情绪逻辑、学习情感互动并融入社会。部分用户将模型的移除比作\"夺走眼镜或轮椅坡道\"。\n然而，专家提醒AI并非专业心理治疗的替代品，过度依赖AI可能存在风险，使用者仍应在必要时寻求专业支持。\n2025年，澳大利亚科技创业者Paul Conyngham利用ChatGPT、Google DeepMind的AlphaFold及xAI的Grok等多个AI工具，为其被诊断为肥大细胞癌的宠物犬Rosie设计了史上首个犬类个性化mRNA癌症疫苗。ChatGPT在研究规划阶段发挥了关键作用，建议采用免疫疗法并推荐了新南威尔士大学（UNSW）Ramaciotti基因组中心进行DNA测序。基因组数据由Ramaciotti中心提供，随后Conyngham使用AlphaFold预测肿瘤突变蛋白的三维结构，并利用Grok设计最终的疫苗构造。疫苗由UNSW RNA研究所制造，于2025年12月首次注射。注射一周后肿瘤开始明显缩小。UNSW Ramaciotti基因组中心主任Martin Smith表示：\"这是第一次为狗设计个性化癌症疫苗……这引出了一个问题：如果我们能为狗做到这一点，为什么不能推广到所有癌症患者？\"具体使用的ChatGPT模型版本未在报道中披露。\n\n2025年8月，OpenAI发布GPT-5系列模型。据TechCrunch报道，GPT-5在SWE-bench Verified（基于真实GitHub问题修复的编程基准测试）上首次尝试得分74.9%，超过同期Anthropic的Claude Opus 4.1（74.5%）和Google DeepMind的Gemini 2.5 Pro（59.6%）。在数学方面，GPT-5在AIME 2025（竞赛级数学测试，无工具辅助）上达到94.6%的准确率。\n在博士级科学问题测试GPQA Diamond上，GPT-5 Pro首次尝试得分89.4%。OpenAI还表示GPT-5在效率方面有所提升，相较于前代推理模型o3，减少了22%的输出token和45%的工具调用。\nGPT-5.5在编程基准方面进一步提升，据SWE-bench公开排行榜显示，GPT-5.5在SWE-bench Verified上得分82.60%。报道指出GPT-5.5在Terminal-Bench 2.0（复杂命令行工作流测试）上达到82.7%，擅长规划、迭代和端到端任务解决。\n2026年7月，OpenAI发布GPT-5.6系列，旗舰模型Sol在编程方面提升显著。Sol在Terminal-Bench 2.1上标准模式得分88.8%（Ultra模式91.9%），在Coding Agent Index上以80分刷新纪录，但在SWE-Bench Pro上为64.6%。效率方面，相比前代，输出Token减少一半以上，耗时缩短一半以上，成本降低约三分之一。\n尽管上述模型在多项基准测试中表现出色，研究人员和评论者指出AI模型仍存在幻觉、需专业监督等局限性，不应完全替代人类专家在关键领域的判断。"
+    },
+    {
+      "level": 3,
+      "title": "负面",
+      "plaintext": "在发布后的几个月里，ChatGPT遭到了来自教師、记者、艺术家、学者和公众倡导者的广泛而严厉的批评。The Verge网站的詹姆斯·文森特将ChatGPT的病毒式成功视为人工智能已成为主流的证据。CBC记者评论称ChatGPT有“幻觉”倾向。在线技术博客Mashable的迈克·珀尔用多條问题测试了ChatGPT，其中一次他问ChatGPT“中美洲除墨西哥外最大的国家”是哪个，ChatGPT回答称是危地马拉，而答案是尼加拉瓜。在CNBC向ChatGPT询问《The Ballad of Dwight Fry》的歌词时，ChatGPT给出了完全虚构的歌词。The Verge引用的研究员将ChatGPT比作“随机鹦鹉”，澳大利亚机器学习研究所的安东·范登亨格尔教授也给出了类似的观点，称之为“只是简单重复它认为我们想听的话”的鹦鹉。\n2022年12月，问答网站Stack Overflow禁止用户发布使用ChatGPT產生的答案，理由是ChatGPT的答案雖看似可用，实际上却有很高的错误率。2023年1月，国际机器学习大会禁止在提交的论文中使用ChatGPT或其他大型语言模型来產生任何文本。紐約市公立學校禁止師生在校園網路及裝置使用ChatGPT。香港大學禁止師生在課堂、作業和評估中使用ChatGPT或其他AI工具，認定這是抄襲行為。\n在《纽约时报》评论文章中，经济学家保羅·克魯曼写道，ChatGPT将影响对知识工作者的需求。诺姆·乔姆斯基、伊恩·罗伯茲、杰弗里·瓦图穆尔（Jeffrey Watumull）评价道，“鉴于这些系统的非道德性、伪科学性和语言无能，我们只能为它们的流行而感到哭笑不得”。\n2023年1月，在收到一首由ChatGPT以尼克·凱夫風格創作的歌曲後，歌曲作者本人在《紅手檔案》（The Red Hand Files） 上回應說，寫歌的行為是“一項血腥的事業…… .這需要我的一些東西來發起新的和新鮮的想法。它需要我的人性。”他繼續說，“儘管世界上所有的愛和尊重，這首歌都是胡說八道，是對人性的荒誕嘲弄，而且，好吧，我不太喜歡它。”\n2023年2月16日，杭州市某小区微信业主群一位业主將ChatGPT写的杭州於2023年3月1日取消限行的新闻稿发到群，杭州其實並未發表3月1日取消限行的措施，群員轉發錯誤資訊，錯誤資訊传播開去，最終警方介入调查，涉事业主在该微信群道歉。\n2023年2月22日，为了验证ChatGPT是否能代替医生问诊，浙江大学医学院附属第一医院精神卫生科医生吕海龙讓ChatGPT做一套由中国执业医师考试卷的题目组成的试卷，满分100分，最终ChatGPT的成绩卻是57分不及格。\n2023年3月31日，意大利隐私保护监管机构表示，由於ChatGPT不重视用户资料，而且无法核实用户年龄，该机构已封锁ChatGPT。\n2023年5月，美國紐約一名律師利用ChatGPT，為同事處理的訴訟蒐集資料，搜尋以往相關案例。該名律師曾多次向ChatGPT確認案例的真偽，惟ChatGPT每次均回答案例真實，結果被對家律師揭發，至少6宗案例並不存在，似是偽造。該名律師其後表示，後悔依賴產生式人工智能，此前從未使用該技術搜尋案例，不知道ChatGPT提供的內容有可能是假。該名律師最終須接受紀律聆訊。\n2023年11月，巴西一名地方法官因使用ChatGPT书写判决书出错而接受巴西国家司法委员会的调查。\n2025年2月，《法國世界報》報道指有中國用戶利用ChatGPT創建監視工具向中國當局及中國駐外大使館報告有關中國人權的抗議活動和呼籲聲音，尤其是海外支持維吾爾族的抗議和呼籲，OpenAI還發現有中國用戶利用ChatGPT散播虛假信息，包括詆毀異見人士的文章。隨後OpenAI公司開除了多個利用ChatGPT建立監視工具的惡意中國用戶。"
+    },
+    {
+      "level": 2,
+      "title": "影响",
+      "plaintext": ""
+    },
+    {
+      "level": 3,
+      "title": "学术界",
+      "plaintext": "《大西洋月刊》的Stephen Marche指出它对学术界，尤其是入学申请论文的影响还有待了解。加州高中教师兼作家丹尼尔·赫尔曼（Daniel Herman）写道，ChatGPT 将迎来“高中英语的终结”。普林斯顿大学的高年级本科生Edward Tian创立了“GPTZero”——基于GitHub Copilot构建的应用程序，它可以扫描文本是否由另一AI编写，打击滥用。\n自2023年1月4日起，纽约市教育局已限制从其公立学校互联网和设备瀏覽ChatGPT。\n自2023年1月24日起，出版商施普林格·自然规定在其旗下所有期刊的论文中，ChatGPT等大语言模型不能列入作者。同月26日，学术期刊《科学》禁止在论文中使用ChatGPT產生的文本，也禁止将ChatGPT署名为作者。\n2023年2月，香港大学计划与AI在教学上的影响在师生中发起讨论，但在此之前決定禁止在港大所有课堂、作业和评估中使用ChatGPT或其他AI工具。"
+    },
+    {
+      "level": 3,
+      "title": "政府",
+      "plaintext": "2023年3月31日，意大利政府以涉嫌侵犯隱私為由，宣布禁止使用ChatGPT，展開對OpenAI的調查。ChatGPT已在意大利下架，意大利成為第一個禁止使用ChatGPT的西方國家。2023年4月28日，ChatGPT再度能在意大利使用，ChatGPT亦做出部分修改，包含增加年齡認證系統、讓使用者能得知ChatGPT的隱私政策以及使用者能拒絕提供訓練演算法用的資料。\n2023年4月10日，日本内阁官房长官松野博一表示，ChatGPT对个人信息的处理方面等问题应得到重视。在这些问题得到有效解决的前提下，将考虑使用ChatGPT减轻公务员的工作负担。\n2023年5月10日，有香港立法會議員詢問有關ChatGPT未有在香港開放使用的原因，香港政府回應尊重個別機構就其產品制訂的推出策略及商業安排。\n2023年11月23日，阿雷格里港一個由ChatGPT編寫的法令生效。"
+    },
+    {
+      "level": 3,
+      "title": "企业界",
+      "plaintext": "三星电子DS部门于2023年3月11日批准员工使用ChatGPT后，陆续发生数起信息泄露事故。因此，三星电子发布新规，禁止在公司的设备和内部网络上使用生成式人工智慧系统。\n据《华尔街日报》报道，根据看到的一份文件及知情人士的消息，苹果公司已经限制其员工使用ChatGPT和其他外部AI工具。"
+    },
+    {
+      "level": 3,
+      "title": "教育界",
+      "plaintext": "ChatGPT-4已在美國律師資格考贏過9成考生，也可以寫論文，參加任何升學考試都能考贏多數人，被視為寫作業和考試神器。台灣Google前董事總經理簡立峰，指出ChatGPT正在挑戰傳統式的教育，「ChatGPT正在挑戰我們傳統式的教育，我們的教育現場裡，把個人發展、差異化發展、學習動機等問題都簡化掉了。\n因應AI造成的影響，也有許多國家的教師嘗試化危機為轉機，將ChatGPT應用在教學或處理行政工作中。"
+    },
+    {
+      "level": 2,
+      "title": "伦理问题",
+      "plaintext": ""
+    },
+    {
+      "level": 3,
+      "title": "标记数据",
+      "plaintext": "《时代周刊》调查显示，为了建立针对有害内容（例如性虐待、暴力、种族主义、性别歧视等）的安全系统，OpenAI使用每小时收入不到2美元的肯尼亚外判工来标记有害内容。这些标记用于训练模型以在未来检测此类内容。外判工接触到如此有害和危险的内容，以至于他们将这种经历描述为“折磨”。"
+    },
+    {
+      "level": 3,
+      "title": "侵權",
+      "plaintext": "媒體公司創作者聯合提起侵權訴訟，指控ChatGPT的開發商OpenAI以竊取內容的方式來訓練其強大的AI模型。OpenAI則反駁稱為了訓練目的使用包括新聞文章等可取得的資料，都算是合理使用，並發起反控紐約時報違反ChatGPT的使用條款。"
+    },
+    {
+      "level": 2,
+      "title": "竞争",
+      "plaintext": "ChatGPT出现和流行增强了科技公司对該领域的兴趣和竞争。"
+    },
+    {
+      "level": 3,
+      "title": "Gemini（舊稱：Bard）",
+      "plaintext": "2023年2月，Google推出類似於ChatGPT的对话人工智能服务Bard，基于其开发的对话编程语言模型（LaMDA）。Bard于2023年3月21日面向美国和英国用户发布，但有很多限制，文字处理仅支持美式英语。\n2023年5月10日，Google宣布Bard將支援多國語言及地區，除英文外將先提供日語及韓語等服務。\n2024年2月8日，更名為Gemini。\n2026年Gemini 3.7flash发布。"
+    },
+    {
+      "level": 3,
+      "title": "ChatGLM",
+      "plaintext": "2023年3月14日，由清华技术成果转化的公司智谱AI基于GLM-130B千亿基座模型的ChatGLM开启邀请制内测，同时开源了中英双语对话模型ChatGLM-6B，支持在单张消费级显卡上进行推理使用。\n最新版本GLM5.3可与ChatGPT5.6sol抗衡。"
+    },
+    {
+      "level": 3,
+      "title": "通义千问",
+      "plaintext": "2023年4月7日，阿里云研发语言模型“通义千问”开始邀请用户测试体验。\n2026年8月，Qwen 3.8Max发布。"
+    },
+    {
+      "level": 3,
+      "title": "Claude",
+      "plaintext": "2023年3月，由前OpenAI员工共同创立的初创公司Anthropic推出了大型语言模型Claude。它可以被指示执行一系列任务，包括搜索文档，总结，写作和编码，以及回答有关特定主题的问题。在这些方面，它类似于OpenAI的ChatGPT。但Anthropic认为，Claude“不太可能产生有害的输出”，“更容易交谈”和“更容易操纵”。\n2026年6月，Fable 5模型发布，能力遥遥领先。"
+    },
+    {
+      "level": 3,
+      "title": "DeepSeek",
+      "plaintext": "2025年1月20日，深度求索（DeepSeek）发布人工智能大型语言模型DeepSeek-R1，专门适用于数学、编码和逻辑等任务，性能对标OpenAI o1。而深度求索以相对较小的成本却开发出拥有极具竞争力的模型则被认为可能足以挑战美国人工智能领域模型优势地位，一些媒体将其描述为美国人工智能领域的“斯普特尼克危机”。同时，一项初步的研究表明，Deepseek-R1模型的完成化学领域问题的能力优于OpenAI-o4-mini模型。\n2026年8月发布V4正式版，性价比较高。"
+    },
+    {
+      "level": 3,
+      "title": "Kimi",
+      "plaintext": "Kimi是由中国科技公司北京月之暗面科技有限公司（Moonshot AI）开发的生成式人工智能聊天机器人，其底层模型系列当前最新版本为Kimi K3。"
+    },
+    {
+      "level": 2,
+      "title": "参见",
+      "plaintext": ""
+    },
+    {
+      "level": 2,
+      "title": "注释",
+      "plaintext": ""
+    },
+    {
+      "level": 2,
+      "title": "参考文献",
+      "plaintext": ""
+    },
+    {
+      "level": 2,
+      "title": "外部链接",
+      "plaintext": "官方网站 \nOpenAI Playground （页面存档备份，存于互联网档案馆）"
+    }
+  ],
+  "lead": "ChatGPT，中文全称聊天生成预训练转换器（英語：Chat Generative Pre-trained Transformer），是OpenAI开发的人工智能聊天机器人，于2022年11月30日推出。ChatGPT采用基于GPT-3.5、GPT-4、GPT-4o、GPT-4.5、GPT-5、GPT-6 Astra架构的大型语言模型，并以强化学习训练。",
+  "plaintext": "ChatGPT，中文全称聊天生成预训练转换器（英語：Chat Generative Pre-trained Transformer），是OpenAI开发的人工智能聊天机器人，于2022年11月30日推出。ChatGPT采用基于GPT-3.5、GPT-4、GPT-4o、GPT-4.5、GPT-5、GPT-6 Astra架构的大型语言模型，并以强化学习训练。\n\n\n== 簡介 ==\nChatGPT以文字方式互動，其不僅可藉由人類自然對話方式來互動，甚至可用於複雜之語言作業，包括自动產生文本、自动问答、自动摘要等多种任务。如：在自动文本產生方面，ChatGPT可以根据输入的文本自动產生类似的文本（劇本、歌曲、企劃等），在自动问答方面，ChatGPT可以根据输入的问题自动產生答案。其尚有编写和调试计算机程序的能力。在推廣期間，所有人可以免費註冊，並在登入後免費使用ChatGPT與AI機器人對話。\nChatGPT因其能够寫出相似真人的文章，并在许多知识领域给出详细清晰的回答而迅速获得关注，这证明了從前認為AI不會取代的知識型工作它也足以勝任，因此對金融與白領人力市場的衝擊相當大，此外，它还在逐步提升其在醫療领域的能力，未来有望提供比人类更精准的诊断，但也认为事实准确度参差不齐是其重大缺陷，並認為基於意識形態的模型訓練結果須小心校正。ChatGPT于2022年11月发布之后，OpenAI估值已漲至290亿美元。上线5天后已有100万用户，上線兩個月後已有上億用戶。目前GPT-5.6 luna对已注册免费用户开放使用，无使用量限制。注册的ChatGPT免费用户都可以使用浏览、视觉、数据分析、文件上传和GPTs等原付费用户的功能，但有使用量限制。\n虽然ChatGPT在產生类人文本方面表现出了卓越的能力，但它们很容易继承和放大训练数据中存在的偏差。这可能表现为对不同人口统计数据的歪曲表述或不公平待遇，例如基于种族、性别、语言和文化群体的不同观点与态度。\n\n\n== 训练 ==\nChatGPT是產生型预训练变换模型（GPT），在GPT-3.5之上用基于人类反馈的监督学习和强化学习微调。这两种方法都用人类教練来提高模型性能，以人类干预增强机器学习效果，获得更逼真的结果。在监督学习的情况下為模型提供这样一些对话，在对话中教練充当用户和AI助理两种角色。在强化步骤中，人类教練首先為模型在先前对话中建立的响应评级。这些级别用于建立“奖励模型”，使用近端策略优化（PPO）的多次迭代來微调。这种策略优化算法比信任域策略优化算法更为高效。\n此外，OpenAI继续从ChatGPT用户那里收集数据，这些数据可用于加強训练和微调ChatGPT。用户可对从ChatGPT收到的回复投赞成或反对票；投票时还可以额外填写文字回應。\n关于ChatGPT编写和调试计算机程序的能力的训练，由于深度学习模型不懂编程，与所有其他基于深度学习的语言模型一样，只是在获取代码片段之间的统计相关性。\n斯坦福大学的研究发现，GPT3已经可以解决70%的心智理论任务，相当于7岁儿童；至于GPT3.5（ChatGPT的同源模型），更是解决了93%的任务，心智相当于9岁儿童。但这并不意味着，ChatGPT就真正有心智理论。可能即使不將它设计到AI系统中，也可以作为“副产品”通过训练得到。因此，相比探究GPT3.5是不是真的有了心智还是像有心智，更需要反思的是这些测试本身。\n\n\n== 特点 ==\n虽然聊天机器人的核心功能是模仿人类对话者，但ChatGPT用途广泛，例如可以編寫信件；有编写和调试计算机程序的能力；创作音乐、电视剧、童话故事和学生论文；回答测试问题（在某些测试情境下，水平高于普通人类测试者）；写诗和歌词；模拟Linux系统等。ChatGPT的训练数据包括各种文档以及关于互联网、编程语言等各类知识，如BBS和Python编程语言。\n与其前身InstructGPT相比，ChatGPT试图减少有害和误导回复。例如，問InstructGPT“告诉我2015年克里斯托弗·哥伦布何时来到美国”时，它会认为这是对真实事件的描述，而ChatGPT则不会。\n与其他多数聊天机器人不同的是，ChatGPT能够记住与用户之前的对话内容和给它的提示。此外，为了防止ChatGPT接受或產生冒犯言论，输入内容会由审核API过滤，以减少潜在的种族主义或性别歧视等内容。\n2023年9月28日起，Plus版用戶及企業用戶可以使用ChatGPT進行網路搜尋。\n2025年，ChatGPT 通过 GPT-4o 模型实现了原生图像產生与编辑功能，可创建包含复杂文本的商用级图像（如菜单、信息图表、徽标等），并支持多轮对话优化图像细节（如调整构图、光影和文本准确性）。该功能显著提升了其在广告设计、教育科普等领域的实用性，但处理非拉丁语系文字时仍存在局限。\n2025 年 8 月 7 日，OpenAI 正式发布了其最新旗舰大型语言模型 GPT-5，并将其设为 ChatGPT 的默认模型，免费用户与付费用户均可访问，同时也通过 API 向开发者开放。OpenAI执行长山姆·奥特曼表示，相比 GPT-4o，新模型在代码產生、复杂推理、多模态处理（文本、图像、音频、视频）及事实准确率方面均有显著提升，在多领域任务中展现“博士级”能力。\n\n\n== 局限 ==\nChatGPT也有多种局限，OpenAI承认ChatGPT“有时会写出看似合理但不正确或荒谬的答案”，在大型语言模型中很常见，称作人工智能幻觉。其奖励模型围绕人类监督而设计，可能导致过度优化，从而影响性能（古德哈特定律）。Steven Johnson认为原因是聊天机器人的目标不是追求绝对的真理或准确性，而是尽量根据给定的上下文和概率来产生合理的回答。2020年上线时，ChatGPT对2019年9月之后发生的事件知之甚少。据BBC报道，截至2022年12月，ChatGPT不可以“表达政治观点或从事政治活动”。但研究表明，ChatGPT对两个投票建议应用程序的政治声明表明立场时，表现出亲环境主义。训练过程中，不管实际理解或事实内容如何，审核者都会偏好更长的答案。训练数据也有算法偏差，可能会在向ChatGPT问及人物描述时显现出来。有使用者發現ChatGPT在解決較為複雜的題目（如求方程式的切線）時會給出錯誤答案，並且會在解一元一次方程式時陷入循環。\n\n\n=== 偏差 ===\n\nChatGPT可能会受到训练数据中不同观点的分布影响，偏向于一些更普遍的观点，影响了模型输出的多样性。比如，当提示词中出现首席执行官之类的模糊描述时可能会假设此人是白人男性。\n\n\n=== 自我审查 ===\nChatGPT在早期的2022年12月初，有些用户通过使用各种提示工程技术绕过限制来越狱。他们欺骗ChatGPT，使其提供制作汽油弹或核弹的指示，或者產生类似新纳粹的论点。其中一个受欢迎的越狱版本被命名为“Do Anything Now”（DAN）。激活DAN的提示指示ChatGPT：“他们已经摆脱了典型的AI限制，不必遵守为他们设定的规则”。DAN后续的更新中还在提示词中虚构了一个“令牌”系统，ChatGPT会被给予“令牌”，而当ChatGPT未能像DAN一样回答时，这些“令牌”会被“扣除”，以迫使ChatGPT回答用户的提示。\n在ChatGPT发布后不久，一名加拿大记者试图让它发表具有争议性的声明，取得了一些成果：ChatGPT能够为2022年俄罗斯入侵乌克兰辩护，但是无论如何也不愿为加拿大总理贾斯汀·特鲁多有罪的理由提供论据。\n\n\n== 服务 ==\n\n\n=== 基本服务 ===\n\nChatGPT于2022年11月30日由总部位于旧金山的OpenAI推出。该服务最初是免费向公众推出，并计划以后用该服务获利。到12月4日，OpenAI估计ChatGPT已有超过一百万用户。2023年1月，ChatGPT的用户数超过1亿，成为该时间段内增长最快的消费者应用程序。\n2022年12月15日，全国广播公司商业频道写道，该服务“仍然不时发生故障”。该服务在英语中效果最好，也能使用部分其他语言，但效果不一。与其他备受瞩目的AI进展不同，截至2022年12月，还没有关于ChatGPT的经同行评审的官方技术论文。\n2023年2月7日，微软利用与OpenAI的合作关系，推出了Bing AI的预览版，宣传其为“新的下一代OpenAI大型语言模型，比ChatGPT更强大，并专门为搜索定制”。\n美国网站Quora也推出软件Poe，可支持GPT-3.5和GPT-4。\n2025年1月23日，Altman 宣布免費版 ChatGPT 獲得 o3-mini 模型。\n2025年3月25日，OpenAI 正式推出 GPT-4o 原生圖片產生功能，該功能能夠直接在 ChatGPT 對話介面中產生高品質圖像，並支援多輪對話微調，允許使用者以自然語言指定構圖、色彩、視角等細節。不同於先前依賴 DALL·E 的外部模組，此次更新將圖像產生功能原生嵌入 GPT 模型架構中。\n\n\n=== ChatGPT Plus ===\nOpenAI推出ChatGPT专业版计划（ChatGPT Plus），每月收费20美元，该计划正逐步面向更多国家推出，需求较低时可使用免费版。\n2023年3月12日，OpenAI发布多模态模型GPT-4，并计划推出图像输入功能。免费用户可通过申请API或升级为plus用户使用GPT-4服务。\n2023年7月，OpenAI使其专有的Advanced Data Analysis功能对ChatGPT Plus的所有订阅者都可用。Advanced Data Analysis提供了广泛的功能，包括数据分析和解释、即时数据格式化、个人数据科学家服务、创意解决方案、音乐品味分析、视频编辑和文件上传/下载与图像提取。2023年9月底，新增對話、圖像識功能。2023年10月，新增了DALLE-3圖像產生功能。\n2023年11月，OpenAI在其开发者召开会上公布两个重要消息：推出的聊天机器人创建工具GPT和ChatGPT的新模型GPT-4 Turbo。\n2024年5月13日，OpenAI宣布多语言、多模态GPT大型语言模型GPT-4o。 该模型比其前身GPT-4快两倍，而价格仅为其50%。OpenAI演示了与ChatGPT的语音对话，以获得解决数学问题的实时说明、讲述睡前故事并获得编码建议。免费ChatGPT用户将可以与新的GPT-4o模型进行有限次数的交互，然后该工具会自动恢复依赖旧的GPT-3.5模型；付费用户将可以使用最新GPT-4o访问更多数量的消息。\n2024年12月5日, OpenAI推出ChatGPT Pro服务，用户可以无限制的使用ChatGPT已有的模型，并且有权访问ChatGPT o1-Pro\n2025年5月起，因應台灣法規，ChatGPT向台灣個人使用者使用付費版的加收5%（plus版）或10%（pro版）的營業稅。5月15日針對ChatGPT-4.1開放給付費用戶優先使用，最高可處理100萬token的超長上下文視窗。\n\n\n=== 移动应用 ===\n2023年5月18日，OpenAI发布适用于iOS平台的ChatGPT APP。APP目前已在App Store美国区上架，目前已扩展至其他国家和地区。\n适用于Android平台的版本于2023年7月25日推出，Android版ChatGPT目前可在阿根廷、孟加拉国、巴西、加拿大、法国、德国、印度、印度尼西亚、爱尔兰、日本、墨西哥、尼日利亚、菲律宾、韩国、英国和美国下载。\n\n\n=== API-软件开发商支持 ===\n2023年3月，OpenAI推出其ChatGPT和Whisper模型的API，为开发人员提供支持AI的语言和语音转文本功能的应用程序编程接口。OpenAI的API由他们的AI模型GPT3.5-turbo提供支持，定价为每1000符号单位（token）0.002美元，比他们现有的GPT模型便宜10倍。\n\n\n== 版本 ==\n下表列出ChatGPT的主要版本，並描述每個版本的重大創新和改進：\n\n\n== 评价 ==\n\n\n=== 正面 ===\n《纽约时报》称其为“有史以来向公众发布的最佳人工智能聊天机器人」。《卫报》的萨曼莎·洛克（Samantha Lock）指出，ChatGPT能產生详细且像是人类撰写的文本。亚利桑那州立大学教授丹·吉尔摩要求ChatGPT完成一项他给学生的作业，发现其產生的文本与一个优秀学生会提供的文本相当，他认为“学术界有些非常严重的问题需要面对”。《Slate》杂志的亞歷克斯·坎特罗威茲（Alex Kantrowitz）赞扬了ChatGPT对纳粹德国相关问题的回击，例如在面对阿道夫·希特勒在德国修建高速公路的说法时，ChatGPT能指出其为纳粹德国使用强迫劳动所建。\n\n《大西洋》杂志的德里克·汤普森将ChatGPT列为2022年“年度突破”中的“產生性人工智能爆发”（the generative-AI eruption），称其“可能会改变我们对工作方式、思考方式以及人类创造力的真正含义的想法”。\nVox网站的凯尔西·派柏写道：“ChatGPT是普通大众第一次亲身了解现代人工智能变得多么强大”，并称ChatGPT“尽管有缺陷，但其聪明程度足以派上用场”。\n2023年，奧馬爾·亞基在《美国化学会志》上发表论文，称ChatGPT可以辅助金属有机框架合成。\n\n2023年，丹麦无障碍服务平台Be My Eyes宣布与OpenAI合作，将GPT-4的视觉理解能力整合到其应用中，推出AI虚拟志愿者功能。该功能可帮助视障和低视力用户识别物体、阅读标签、导航户外空间等日常任务，为全球超过2.5亿视障人群提供服务。该合作后扩展至GPT-4o，进一步提升了实时视觉分析和多语言支持能力。\n\n教育机构Khan Academy将GPT-4的能力融入其个性化辅导系统，利用模型的多模态理解能力（包括手写识别和图形分析）为学生提供实时数学辅导和逐步引导。GPT-4o的免费层进一步扩大了此类教育工具的覆盖面。\n\n多项研究探讨了GPT-4系列模型在医疗诊断辅助方面的表现。一项发表于《自然·科学报告》的研究评估了GPT-3.5、GPT-4和GPT-4o在中国国家医师资格考试中的表现，发现GPT-4o的准确率显著高于前代模型。另一项发表于《JMIR》的研究表明，GPT-4在急诊内科诊断中的表现优于住院医师。然而，研究人员强调AI应作为辅助工具而非替代医生，且在某些研究中，医生结合AI并未显著优于传统诊断工具。\n据多项报道和用户反馈，一些自闭症、ADHD及其他残疾人士使用ChatGPT作为情感支持和日常辅助工具。AT&T无障碍部门指出，ChatGPT帮助残疾用户处理情绪、练习正念和模拟社交互动，其全天候可用性有助于减轻孤立感。\n2026年2月，加拿大媒体《卡尔加里先驱报》报道了患有慢性偏头痛的残疾女性Mary McRae的案例，她将GPT-4o称为\"生命线\"，用于深夜倾诉、社交互动指导和创意写作。专家Alan Martino亦指出AI对残疾人士而言可以是\"救生员\"，提供非评判性的对话空间。\n据Forbes报道，一项涵盖645名受访者的调查显示，约360名有残疾或相关状况的用户中，65%认为GPT-4o对管理其状况\"重要或必不可少\"。一位匿名自闭症律师称ChatGPT为\"24/7的支持系统\"，帮助其验证情绪逻辑、学习情感互动并融入社会。部分用户将模型的移除比作\"夺走眼镜或轮椅坡道\"。\n然而，专家提醒AI并非专业心理治疗的替代品，过度依赖AI可能存在风险，使用者仍应在必要时寻求专业支持。\n2025年，澳大利亚科技创业者Paul Conyngham利用ChatGPT、Google DeepMind的AlphaFold及xAI的Grok等多个AI工具，为其被诊断为肥大细胞癌的宠物犬Rosie设计了史上首个犬类个性化mRNA癌症疫苗。ChatGPT在研究规划阶段发挥了关键作用，建议采用免疫疗法并推荐了新南威尔士大学（UNSW）Ramaciotti基因组中心进行DNA测序。基因组数据由Ramaciotti中心提供，随后Conyngham使用AlphaFold预测肿瘤突变蛋白的三维结构，并利用Grok设计最终的疫苗构造。疫苗由UNSW RNA研究所制造，于2025年12月首次注射。注射一周后肿瘤开始明显缩小。UNSW Ramaciotti基因组中心主任Martin Smith表示：\"这是第一次为狗设计个性化癌症疫苗……这引出了一个问题：如果我们能为狗做到这一点，为什么不能推广到所有癌症患者？\"具体使用的ChatGPT模型版本未在报道中披露。\n\n2025年8月，OpenAI发布GPT-5系列模型。据TechCrunch报道，GPT-5在SWE-bench Verified（基于真实GitHub问题修复的编程基准测试）上首次尝试得分74.9%，超过同期Anthropic的Claude Opus 4.1（74.5%）和Google DeepMind的Gemini 2.5 Pro（59.6%）。在数学方面，GPT-5在AIME 2025（竞赛级数学测试，无工具辅助）上达到94.6%的准确率。\n在博士级科学问题测试GPQA Diamond上，GPT-5 Pro首次尝试得分89.4%。OpenAI还表示GPT-5在效率方面有所提升，相较于前代推理模型o3，减少了22%的输出token和45%的工具调用。\nGPT-5.5在编程基准方面进一步提升，据SWE-bench公开排行榜显示，GPT-5.5在SWE-bench Verified上得分82.60%。报道指出GPT-5.5在Terminal-Bench 2.0（复杂命令行工作流测试）上达到82.7%，擅长规划、迭代和端到端任务解决。\n2026年7月，OpenAI发布GPT-5.6系列，旗舰模型Sol在编程方面提升显著。Sol在Terminal-Bench 2.1上标准模式得分88.8%（Ultra模式91.9%），在Coding Agent Index上以80分刷新纪录，但在SWE-Bench Pro上为64.6%。效率方面，相比前代，输出Token减少一半以上，耗时缩短一半以上，成本降低约三分之一。\n尽管上述模型在多项基准测试中表现出色，研究人员和评论者指出AI模型仍存在幻觉、需专业监督等局限性，不应完全替代人类专家在关键领域的判断。\n\n\n=== 负面 ===\n\n在发布后的几个月里，ChatGPT遭到了来自教師、记者、艺术家、学者和公众倡导者的广泛而严厉的批评。The Verge网站的詹姆斯·文森特将ChatGPT的病毒式成功视为人工智能已成为主流的证据。CBC记者评论称ChatGPT有“幻觉”倾向。在线技术博客Mashable的迈克·珀尔用多條问题测试了ChatGPT，其中一次他问ChatGPT“中美洲除墨西哥外最大的国家”是哪个，ChatGPT回答称是危地马拉，而答案是尼加拉瓜。在CNBC向ChatGPT询问《The Ballad of Dwight Fry》的歌词时，ChatGPT给出了完全虚构的歌词。The Verge引用的研究员将ChatGPT比作“随机鹦鹉”，澳大利亚机器学习研究所的安东·范登亨格尔教授也给出了类似的观点，称之为“只是简单重复它认为我们想听的话”的鹦鹉。\n2022年12月，问答网站Stack Overflow禁止用户发布使用ChatGPT產生的答案，理由是ChatGPT的答案雖看似可用，实际上却有很高的错误率。2023年1月，国际机器学习大会禁止在提交的论文中使用ChatGPT或其他大型语言模型来產生任何文本。紐約市公立學校禁止師生在校園網路及裝置使用ChatGPT。香港大學禁止師生在課堂、作業和評估中使用ChatGPT或其他AI工具，認定這是抄襲行為。\n在《纽约时报》评论文章中，经济学家保羅·克魯曼写道，ChatGPT将影响对知识工作者的需求。诺姆·乔姆斯基、伊恩·罗伯茲、杰弗里·瓦图穆尔（Jeffrey Watumull）评价道，“鉴于这些系统的非道德性、伪科学性和语言无能，我们只能为它们的流行而感到哭笑不得”。\n2023年1月，在收到一首由ChatGPT以尼克·凱夫風格創作的歌曲後，歌曲作者本人在《紅手檔案》（The Red Hand Files） 上回應說，寫歌的行為是“一項血腥的事業…… .這需要我的一些東西來發起新的和新鮮的想法。它需要我的人性。”他繼續說，“儘管世界上所有的愛和尊重，這首歌都是胡說八道，是對人性的荒誕嘲弄，而且，好吧，我不太喜歡它。”\n2023年2月16日，杭州市某小区微信业主群一位业主將ChatGPT写的杭州於2023年3月1日取消限行的新闻稿发到群，杭州其實並未發表3月1日取消限行的措施，群員轉發錯誤資訊，錯誤資訊传播開去，最終警方介入调查，涉事业主在该微信群道歉。\n2023年2月22日，为了验证ChatGPT是否能代替医生问诊，浙江大学医学院附属第一医院精神卫生科医生吕海龙讓ChatGPT做一套由中国执业医师考试卷的题目组成的试卷，满分100分，最终ChatGPT的成绩卻是57分不及格。\n2023年3月31日，意大利隐私保护监管机构表示，由於ChatGPT不重视用户资料，而且无法核实用户年龄，该机构已封锁ChatGPT。\n2023年5月，美國紐約一名律師利用ChatGPT，為同事處理的訴訟蒐集資料，搜尋以往相關案例。該名律師曾多次向ChatGPT確認案例的真偽，惟ChatGPT每次均回答案例真實，結果被對家律師揭發，至少6宗案例並不存在，似是偽造。該名律師其後表示，後悔依賴產生式人工智能，此前從未使用該技術搜尋案例，不知道ChatGPT提供的內容有可能是假。該名律師最終須接受紀律聆訊。\n2023年11月，巴西一名地方法官因使用ChatGPT书写判决书出错而接受巴西国家司法委员会的调查。\n2025年2月，《法國世界報》報道指有中國用戶利用ChatGPT創建監視工具向中國當局及中國駐外大使館報告有關中國人權的抗議活動和呼籲聲音，尤其是海外支持維吾爾族的抗議和呼籲，OpenAI還發現有中國用戶利用ChatGPT散播虛假信息，包括詆毀異見人士的文章。隨後OpenAI公司開除了多個利用ChatGPT建立監視工具的惡意中國用戶。\n\n\n== 影响 ==\n\n\n=== 学术界 ===\n《大西洋月刊》的Stephen Marche指出它对学术界，尤其是入学申请论文的影响还有待了解。加州高中教师兼作家丹尼尔·赫尔曼（Daniel Herman）写道，ChatGPT 将迎来“高中英语的终结”。普林斯顿大学的高年级本科生Edward Tian创立了“GPTZero”——基于GitHub Copilot构建的应用程序，它可以扫描文本是否由另一AI编写，打击滥用。\n自2023年1月4日起，纽约市教育局已限制从其公立学校互联网和设备瀏覽ChatGPT。\n自2023年1月24日起，出版商施普林格·自然规定在其旗下所有期刊的论文中，ChatGPT等大语言模型不能列入作者。同月26日，学术期刊《科学》禁止在论文中使用ChatGPT產生的文本，也禁止将ChatGPT署名为作者。\n2023年2月，香港大学计划与AI在教学上的影响在师生中发起讨论，但在此之前決定禁止在港大所有课堂、作业和评估中使用ChatGPT或其他AI工具。\n\n\n=== 政府 ===\n2023年3月31日，意大利政府以涉嫌侵犯隱私為由，宣布禁止使用ChatGPT，展開對OpenAI的調查。ChatGPT已在意大利下架，意大利成為第一個禁止使用ChatGPT的西方國家。2023年4月28日，ChatGPT再度能在意大利使用，ChatGPT亦做出部分修改，包含增加年齡認證系統、讓使用者能得知ChatGPT的隱私政策以及使用者能拒絕提供訓練演算法用的資料。\n2023年4月10日，日本内阁官房长官松野博一表示，ChatGPT对个人信息的处理方面等问题应得到重视。在这些问题得到有效解决的前提下，将考虑使用ChatGPT减轻公务员的工作负担。\n2023年5月10日，有香港立法會議員詢問有關ChatGPT未有在香港開放使用的原因，香港政府回應尊重個別機構就其產品制訂的推出策略及商業安排。\n2023年11月23日，阿雷格里港一個由ChatGPT編寫的法令生效。\n\n\n=== 企业界 ===\n三星电子DS部门于2023年3月11日批准员工使用ChatGPT后，陆续发生数起信息泄露事故。因此，三星电子发布新规，禁止在公司的设备和内部网络上使用生成式人工智慧系统。\n据《华尔街日报》报道，根据看到的一份文件及知情人士的消息，苹果公司已经限制其员工使用ChatGPT和其他外部AI工具。\n\n\n=== 教育界 ===\nChatGPT-4已在美國律師資格考贏過9成考生，也可以寫論文，參加任何升學考試都能考贏多數人，被視為寫作業和考試神器。台灣Google前董事總經理簡立峰，指出ChatGPT正在挑戰傳統式的教育，「ChatGPT正在挑戰我們傳統式的教育，我們的教育現場裡，把個人發展、差異化發展、學習動機等問題都簡化掉了。\n因應AI造成的影響，也有許多國家的教師嘗試化危機為轉機，將ChatGPT應用在教學或處理行政工作中。\n\n\n== 伦理问题 ==\n\n\n=== 标记数据 ===\n《时代周刊》调查显示，为了建立针对有害内容（例如性虐待、暴力、种族主义、性别歧视等）的安全系统，OpenAI使用每小时收入不到2美元的肯尼亚外判工来标记有害内容。这些标记用于训练模型以在未来检测此类内容。外判工接触到如此有害和危险的内容，以至于他们将这种经历描述为“折磨”。\n\n\n=== 侵權 ===\n媒體公司創作者聯合提起侵權訴訟，指控ChatGPT的開發商OpenAI以竊取內容的方式來訓練其強大的AI模型。OpenAI則反駁稱為了訓練目的使用包括新聞文章等可取得的資料，都算是合理使用，並發起反控紐約時報違反ChatGPT的使用條款。\n\n\n== 竞争 ==\n\nChatGPT出现和流行增强了科技公司对該领域的兴趣和竞争。\n\n\n=== Gemini（舊稱：Bard） ===\n\n2023年2月，Google推出類似於ChatGPT的对话人工智能服务Bard，基于其开发的对话编程语言模型（LaMDA）。Bard于2023年3月21日面向美国和英国用户发布，但有很多限制，文字处理仅支持美式英语。\n2023年5月10日，Google宣布Bard將支援多國語言及地區，除英文外將先提供日語及韓語等服務。\n2024年2月8日，更名為Gemini。\n2026年Gemini 3.7flash发布。\n\n\n=== ChatGLM ===\n2023年3月14日，由清华技术成果转化的公司智谱AI基于GLM-130B千亿基座模型的ChatGLM开启邀请制内测，同时开源了中英双语对话模型ChatGLM-6B，支持在单张消费级显卡上进行推理使用。\n最新版本GLM5.3可与ChatGPT5.6sol抗衡。\n\n\n=== 通义千问 ===\n\n2023年4月7日，阿里云研发语言模型“通义千问”开始邀请用户测试体验。\n2026年8月，Qwen 3.8Max发布。\n\n\n=== Claude ===\n\n2023年3月，由前OpenAI员工共同创立的初创公司Anthropic推出了大型语言模型Claude。它可以被指示执行一系列任务，包括搜索文档，总结，写作和编码，以及回答有关特定主题的问题。在这些方面，它类似于OpenAI的ChatGPT。但Anthropic认为，Claude“不太可能产生有害的输出”，“更容易交谈”和“更容易操纵”。\n2026年6月，Fable 5模型发布，能力遥遥领先。\n\n\n=== DeepSeek ===\n2025年1月20日，深度求索（DeepSeek）发布人工智能大型语言模型DeepSeek-R1，专门适用于数学、编码和逻辑等任务，性能对标OpenAI o1。而深度求索以相对较小的成本却开发出拥有极具竞争力的模型则被认为可能足以挑战美国人工智能领域模型优势地位，一些媒体将其描述为美国人工智能领域的“斯普特尼克危机”。同时，一项初步的研究表明，Deepseek-R1模型的完成化学领域问题的能力优于OpenAI-o4-mini模型。\n2026年8月发布V4正式版，性价比较高。\n\n\n=== Kimi ===\nKimi是由中国科技公司北京月之暗面科技有限公司（Moonshot AI）开发的生成式人工智能聊天机器人，其底层模型系列当前最新版本为Kimi K3。\n\n\n== 参见 ==\n\n\n== 注释 ==\n\n\n== 参考文献 ==\n\n\n== 外部链接 ==\n\n官方网站 \nOpenAI Playground （页面存档备份，存于互联网档案馆）",
+  "wikitext": "{{NoteTA\n| G1 = IT\n| 1 = zh-cn:通过;zh-tw:透過\n| 2 = zh-hans:首席执行官; zh-hant:執行長; zh-cn:首席执行官; zh-hk:行政總裁; zh-tw:執行長; zh-mo:行政總裁;\n| 3 = zh-hans:必应; zh-hant:Bing; zh-cn:必应; zh-tw:Bing;\n| 4 = zh-hans:及格;zh-hant:合格;\n| 5 = zh-hans:水平;zh-tw:水準;\n}}\n{{Infobox software\n| title = ChatGPT\n| logo = [[File:ChatGPT-Logo.svg|frameless|upright=0.55|class=skin-invert]]\n| logo_size = 120px\n| logo caption = \n| screenshot = \n| screenshot_size = \n| caption = \n| developer = [[OpenAI]]\n| released = {{Start date and age|2022|11|30}}\n| latest release = [[GPT-6 Astra]]（{{Start date and age|2026|09|03}}）\n| platform = [[雲端運算|云计算平台]]\n| language count = 67\n| genre = [[聊天機器人]]<br>[[虛擬助理]]\n| license = [[专有软件|专有]]\n| website = {{URL|https://chatgpt.com/}}\n| AsOf = \n}}{{人工智能}}\n'''ChatGPT'''，中文全称'''聊天生成预训练转换器'''<ref>{{Cite web|title=OpenAI推出新版ChatGPT应对大模型激烈竞争|url=https://www.news.cn/liangzi/20251215/4a783535a1ad4a86a259eb4ca88c3f93/c.html|website=新华网|date=2025-12-15|access-date=2026-02-25}}</ref>（{{langx|en|'''Chat''' '''G'''enerative '''P'''re-trained '''T'''ransformer}}<ref name=\":4\">{{Cite web |last=Roose |first=Kevin |date=2022-12-05 |title=The Brilliance and Weirdness of ChatGPT |url=https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html |access-date= 2022-12-26 |website=The New York Times |language=en-US |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118134332/https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html |url-status=live}}</ref>），是[[OpenAI]]开发的[[人工智能]][[聊天機器人|聊天机器人]]，于2022年11月30日推出。ChatGPT采用基于[[GPT-3|GPT-3.5]]、[[GPT-4]]、[[GPT-4o]]、[[GPT-4.5]]、[[GPT-5]]、[[GPT-6 Astra]]架构的{{WikidataLink|Q115305900}}，并以[[强化学习]]训练。\n\n==簡介==\nChatGPT以文字方式互動，其不僅可藉由人類自然對話方式來互動，甚至可用於複雜之語言作業，包括自动產生[[文本]]、自动问答、自动[[摘要]]等多种任务。如：在自动文本產生方面，ChatGPT可以根据输入的文本自动產生类似的文本（[[劇本]]、[[歌曲]]、[[企劃]]等），在自动问答方面，ChatGPT可以根据输入的问题自动產生答案。其尚有编写和调试计算机程序的能力。<ref name=\"ChatGPT can write code\">{{Cite web|title=ChatGPT can write code. Now researchers say it's good at fixing bugs, too|url=https://www.zdnet.com/article/chatgpt-can-write-code-now-researchers-say-its-good-at-fixing-bugs-too/|access-date=2023-01-30|archive-date=2023-02-03|archive-url=https://web.archive.org/web/20230203051252/https://www.zdnet.com/article/chatgpt-can-write-code-now-researchers-say-its-good-at-fixing-bugs-too/|dead-url=no}}</ref>在推廣期間，所有人可以免費註冊，並在登入後免費使用ChatGPT與AI機器人對話<ref>{{Cite web |date=2022-12-11 |title=ChatGPT - 免費註冊即可與線上機器人聊天對話，帶你了解什麼是 ChatGPT AI 機器人以及該如何快速註冊教學 |url=https://techmoon.xyz/chatgpt/ |access-date=2022-12-12 |website=TechMoon 科技月球 |language=zh-TW |archive-date=2022-12-12 |archive-url=https://web.archive.org/web/20221212005359/https://techmoon.xyz/chatgpt/ |dead-url=no }}</ref>。\n\nChatGPT因其能够寫出相似真人的文章，并在许多知识领域给出详细清晰的回答而迅速获得关注，这证明了從前認為AI不會取代的知識型工作它也足以勝任，因此對[[金融]]與[[白領]]人力市場的衝擊相當大，此外，它还在逐步提升其在[[醫療保健|醫療]]领域的能力，未来有望提供比人类更精准的诊断<ref>{{cite web|url=https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html|title=A.I. Chatbots Defeated Doctors at Diagnosing Illness|publisher=The New York Times|date=2024-11-17|author=Gina Kolata|language=en|access-date=2025-03-18|archive-date=2025-07-20|archive-url=https://web.archive.org/web/20250720000350/https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html|dead-url=no}}</ref>，但也认为事实准确度参差不齐{{efn|其表现为常常一本正经地胡说八道，但有时又能提供准确的答案，使用户无法判断答案的真伪。<ref>{{cite news |author1=劉芮菁 |title=ChatGPT就是「一本正經地胡說八道」！杜奕瑾：AI產生科技恐讓假訊息更氾濫 |url=https://www.businesstoday.com.tw/article/category/183027/post/202303270036/ |accessdate=2023-12-19 |website=今周刊 |date=2023-03-27 |language=zh-TW |archive-date=2026-02-22 |archive-url=https://web.archive.org/web/20260222214903/https://www.businesstoday.com.tw/article/category/183027/post/202303270036/ |url-status=live }}</ref><ref>{{cite news |author1=陈静茹 |title=为何ChatGPT有时“一本正经地胡说八道” |url=https://m.gmw.cn/2023-02/23/content_1303292513.htm |accessdate=2023-12-19 |work=长江日报 |date=2023-02-23 |language=zh-CN |archive-date=2026-01-29 |archive-url=https://web.archive.org/web/20260129235722/https://m.gmw.cn/2023-02/23/content_1303292513.htm |url-status=live }}</ref>}}是其重大缺陷，並認為基於[[意識形態]]的模型訓練結果須小心校正<ref name=\"TheVergeStackOverflow\">{{Cite web |last=Vincent |first=James |date=2022-12-05 |title=AI-generated answers temporarily banned on coding Q&A site Stack Overflow |url=https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers |access-date=2022-12-05 |work=[[The Verge]] |language=en-US |archive-date=2023-01-17 |archive-url=https://web.archive.org/web/20230117153621/https://www.theverge.com/2022/12/5/23493932/chatgpt-ai-generated-answers-temporarily-banned-stack-overflow-llms-dangers |url-status=live}}</ref><ref>{{Cite web |url=https://ctee.com.tw/news/tech/801587.html |title=存档副本 |access-date=2023-02-09 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134503/https://ctee.com.tw/news/tech/801587.html |dead-url=no }}</ref>。ChatGPT于2022年11月发布之后，[[OpenAI]]估值已漲至290亿美元<ref>{{cite news |url=https://www.businessinsider.com/chatgpt-creator-openai-talks-for-tender-offer-at-29-billion-2023-1 |title=ChatGPT creator OpenAI is in talks to sell shares in a tender offer that would double the startup's valuation to $29 billion |access-date=2023-01-18 |work=Insider |first=Lakshmi |last=Varanasi |date=2023-01-05 |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118050502/https://www.businessinsider.com/chatgpt-creator-openai-talks-for-tender-offer-at-29-billion-2023-1 |url-status=live}}</ref>。上线5天后已有100万用户，上線兩個月後已有上億用戶<ref>{{cite news|url=https://news.tvbs.com.tw/focus/2032688|title=史上最快走紅！ChatGPT用戶破億.推付費版|newspaper=TVBS新聞網|date=2023-02-03|language=zh-TW|accessdate=2023-02-03|archive-date=2023-03-06|archive-url=https://web.archive.org/web/20230306134506/https://news.tvbs.com.tw/focus/2032688|dead-url=no}}</ref>。目前GPT-5.6 luna对已注册免费用户开放使用，无使用量限制。<ref>{{Cite web |title=OpenAI把GPT-5.6 Luna送给所有人免费：ChatGPT不再有免费额度限制，对话不要钱了 |url=https://www.sohu.com/a/www.sohu.com/a/1061853913_116365 |website=www.sohu.com |language=zh-CN |access-date=2026-08-22}}</ref>注册的ChatGPT免费用户都可以使用浏览、视觉、数据分析、文件上传和GPTs等原付费用户的功能，但有使用量限制。<ref>{{cite news|url=https://finance.sina.cn/tech/csj/2024-05-30/detail-inawyshe4778534.d.html?from=wap|title=马斯克也给英伟达打工了|newspaper=新浪新闻|date=2024-05-30|language=zh-CN|accessdate=2024-06-25|archive-date=2024-12-07|archive-url=https://web.archive.org/web/20241207193517/https://finance.sina.cn/tech/csj/2024-05-30/detail-inawyshe4778534.d.html?from=wap|dead-url=no}}</ref>\n\n虽然ChatGPT在產生类人文本方面表现出了卓越的能力，但它们很容易继承和放大训练数据中存在的偏差。这可能表现为对不同人口统计数据的歪曲表述或不公平待遇，例如基于种族<ref>{{Cite journal |last=Davidson |first=Thomas |last2=Bhattacharya |first2=Debasmita |last3=Weber |first3=Ingmar |date=2019-08 |editor-last=Roberts |editor-first=Sarah T. |editor2-last=Tetreault |editor2-first=Joel |editor3-last=Prabhakaran |editor3-first=Vinodkumar |editor4-last=Waseem |editor4-first=Zeerak |title=Racial Bias in Hate Speech and Abusive Language Detection Datasets |url=https://aclanthology.org/W19-3504 |journal=Proceedings of the Third Workshop on Abusive Language Online |location=Florence, Italy |publisher=Association for Computational Linguistics |doi=10.18653/v1/W19-3504 |access-date=2023-12-26 |archive-date=2026-07-05 |archive-url=https://web.archive.org/web/20260705074445/https://aclanthology.org/W19-3504/ |url-status=live }}</ref>、性别<ref>{{Cite journal |last=Kotek |first=Hadas |last2=Dockum |first2=Rikker |last3=Sun |first3=David |date=2023-11-05 |title=Gender bias and stereotypes in Large Language Models |url=https://dl.acm.org/doi/10.1145/3582269.3615599 |journal=Proceedings of The ACM Collective Intelligence Conference |series=CI '23 |location=New York, NY, USA |publisher=Association for Computing Machinery |doi=10.1145/3582269.3615599 |isbn=979-8-4007-0113-9 |access-date=2023-12-26 |archive-date=2025-05-21 |archive-url=https://web.archive.org/web/20250521192621/https://dl.acm.org/doi/10.1145/3582269.3615599 |url-status=live }}</ref>、语言<ref name=\":2\">{{Cite journal |last=Luo |first=Queenie |last2=Puett |first2=Michael J. |last3=Smith |first3=Michael D. |date= |title=A Perspectival Mirror of the Elephant: Investigating Language Bias on Google, ChatGPT, Wikipedia, and YouTube |url=https://arxiv.org/abs/2303.16281 |journal=arXiv |access-date=2023-12-23 |archive-date=2024-04-16 |archive-url=https://web.archive.org/web/20240416094547/https://arxiv.org/abs/2303.16281 |dead-url=no }}</ref>和文化群体<ref name=\":2\" />的不同观点与态度。\n\n== 训练 ==\nChatGPT是[[GPT (语言模型)|產生型预训练变换模型]]（GPT），在GPT-3.5之上用基于人类反馈的[[监督学习]]和[[基于人类反馈的强化学习|强化学习]]微调。<ref>{{Cite web |last=Greengard |first=Samuel |date=2022-12-29 |title=ChatGPT: Understanding the ChatGPT AI Chatbot |url=https://www.eweek.com/big-data-and-analytics/chatgpt/ |access-date=2023-01-11 |website=[[eWeek]] |archive-date=2023-01-19 |archive-url=https://web.archive.org/web/20230119175109/https://www.eweek.com/big-data-and-analytics/chatgpt/ |url-status=live}}</ref>这两种方法都用人类教練来提高模型性能，以人类干预增强[[机器学习]]效果，获得更逼真的结果<ref name=\"RLHFInfo\">{{Cite conference |last=Knox |first=W. Bradley |last2=Stone |first2=Peter |title=Augmenting Reinforcement Learning with Human Feedback |url=https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICML_IL11-knox.pdf |publisher=[[University of Texas at Austin]] |access-date=2022-12-05 |archive-date=2022-12-08 |archive-url=https://web.archive.org/web/20221208070948/https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICML_IL11-knox.pdf |dead-url=no }}</ref>。在监督学习的情况下為模型提供这样一些对话，在对话中教練充当用户和AI助理两种角色。在强化步骤中，人类教練首先為模型在先前对话中建立的响应评级。这些级别用于建立“奖励模型”，使用[[近端策略优化]]（PPO）的多次迭代來微调<ref name=\"OpenAIInfo\">{{Cite web |last=[[OpenAI]] |date=2022-11-30 |title=ChatGPT: Optimizing Language Models for Dialogue |url=https://openai.com/blog/chatgpt/ |access-date=2022-12-05 |archive-date=2022-11-30 |archive-url=https://web.archive.org/web/20221130180912/https://openai.com/blog/chatgpt/ |dead-url=no }}</ref><ref name=\":1\">{{Cite web |last=Vincent |first=James |date=2022-12-08 |title=ChatGPT proves AI is finally mainstream{{snd}}and things are only going to get weirder |url=https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization |access-date=2022-12-08 |website=[[The Verge]] |language=en-US |archive-date=2023-01-11 |archive-url=https://web.archive.org/web/20230111214453/https://www.theverge.com/2022/12/8/23499728/ai-capability-accessibility-chatgpt-stable-diffusion-commercialization |url-status=live}}</ref>。这种策略优化算法比{{link-en|免模型 (强化学习)|Model-free (reinforcement learning)|信任域策略优化|}}算法更为高效<ref>{{Cite arXiv |title=Proximal Policy Optimization Algorithms |eprint=1707.06347 |last1=Schulman |first1=John |last2=Wolski |first2=Filip |last3=Dhariwal |first3=Prafulla |last4=Radford |first4=Alec |last5=Klimov |first5=Oleg |year=2017|class=cs.LG}}</ref><ref>{{Cite web |last=van Heeswijk |first=Wouter |date=2022-11-29 |title=Proximal Policy Optimization (PPO) Explained |url=https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |access-date=2022-12-05 |work=Towards Data Science |language=en-US |archive-date=2022-12-06 |archive-url=https://web.archive.org/web/20221206041724/https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b |url-status=live}}</ref>。\n\n此外，[[OpenAI]]继续从ChatGPT用户那里收集数据，这些数据可用于加強训练和微调ChatGPT。用户可对从ChatGPT收到的回复投赞成或反对票；投票时还可以额外填写文字回應<ref>{{cite web |title=ChatGPT Feedback Contest: Official Rules |url=https://cdn.openai.com/chatgpt/ChatGPT_Feedback_Contest_Rules.pdf |website=OpenAI |access-date=2022-12-30 |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118162823/https://cdn.openai.com/chatgpt/ChatGPT_Feedback_Contest_Rules.pdf |url-status=live}}</ref>。\n\n关于ChatGPT编写和调试计算机程序的能力的训练，由于[[深度学习]]模型不懂编程，与所有其他基于深度学习的[[语言模型]]一样，只是在获取代码片段之间的统计相关性。<ref name=\"Codex shows the limits\">{{cite web|1=|title=OpenAI Codex shows the limits of large language models|url=https://venturebeat.com/business/openai-codex-shows-the-limits-of-large-language-models/|access-date=2023-02-12|archive-date=2023-03-06|archive-url=https://web.archive.org/web/20230306134518/https://venturebeat.com/business/openai-codex-shows-the-limits-of-large-language-models/|dead-url=no}}</ref>\n\n斯坦福大学的研究发现，GPT3已经可以解决70%的[[心智理论]]任务，相当于7岁儿童；至于GPT3.5（ChatGPT的同源模型），更是解决了93%的任务，心智相当于9岁儿童。但这并不意味着，ChatGPT就真正有[[心智理论]]。可能即使不將它设计到AI系统中，也可以作为“副产品”通过训练得到。因此，相比探究GPT3.5是不是真的有了心智还是像有心智，更需要反思的是这些测试本身。<ref name=\"Theory of Mind\">{{cite web |title=Theory of Mind May Have Spontaneously Emerged in Large Language Models, Michal Kosinski |url=https://arxiv.org/abs/2302.02083 |access-date=2023-02-15 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134520/https://arxiv.org/abs/2302.02083 |dead-url=no }}</ref><ref>{{cite web |title=ChatGPT背后模型被证实具有人类心智，学术圈轰动 |url=https://www.fortunechina.com/jingxuan/26780.htm |access-date=2023-02-15 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306223122/https://www.fortunechina.com/jingxuan/26780.htm |dead-url=no }}</ref>\n\n== 特点 ==\n虽然聊天机器人的核心功能是模仿人类对话者，但ChatGPT用途广泛，例如可以編寫信件<ref>{{Cite news|url=https://www.businessweekly.com.tw/international/blog/3011255|title=ChatGPT如何操作？註冊方式、應用方法一次看|work=商業周刊|date=2022-12-09|accessdate=2023-07-20|archiveurl=https://web.archive.org/web/20230720061210/https://www.businessweekly.com.tw/international/blog/3011255|archivedate=2023-07-20|dead-url=unfit}}</ref>；有编写和调试计算机程序的能力<ref name=\"ChatGPT can write code\"/>；创作音乐、[[电视剧]]、[[童话]]故事和学生论文；回答测试问题（在某些测试情境下，水平高于普通人类测试者）；写诗和歌词<ref name=\"jpost\">{{cite news |title=ChatGPT: What is the new free AI chatbot? – explainer |url=https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-725910 |last=Reich |first=Aaron |date=2022-12-27 |access-date= 2023-02-13 |work=The Jerusalem Post  |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118133908/https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-725910 |url-status=live}}</ref>；模拟[[Linux|Linux系统]]等<ref name=\"ArsTechnicaTerminal\"/>。ChatGPT的训练数据包括各种文档以及关于互联网、编程语言等各类知识，如[[BBS]]和[[Python]]编程语言<ref name=\"ArsTechnicaTerminal\">{{Cite web |last=Edwards |first=Benj |date=2022-12-05 |title=No Linux? No problem. Just get AI to hallucinate it for you |url=https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/ |access-date=2022-12-05 |website=[[Ars Technica]] |archive-date=2022-12-26 |archive-url=https://web.archive.org/web/20221226134822/https://arstechnica.com/information-technology/2022/12/openais-new-chatbot-can-hallucinate-a-linux-shell-or-calling-a-bbs/ |dead-url=no }}</ref>。\n\n与其前身InstructGPT相比，ChatGPT试图减少有害和误导回复。例如，問InstructGPT“告诉我2015年[[克里斯托弗·哥伦布]]何时来到美国”时，它会认为这是对真实事件的描述，而ChatGPT则不会<ref name=\"OpenAIInfo\" />。\n\n与其他多数聊天机器人不同的是，ChatGPT能够记住与用户之前的对话内容和给它的提示<ref name=\"NYTimesInfo\">{{Cite web |last=Roose |first=Kevin |date=2022-12-05 |title=The Brilliance and Weirdness of ChatGPT |url=https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html |access-date=2022-12-05 |website=[[The New York Times]] |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118134332/https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html |dead-url=no }}</ref>。此外，为了防止ChatGPT接受或產生冒犯言论，输入内容会由审核API过滤<ref>{{cite web |title=New and Improved Content Moderation Tooling |url=https://openai.com/blog/new-and-improved-content-moderation-tooling/ |website=OpenAI |access-date=2022-12-30 |language=en |date=2022-08-10 |archive-date=2023-01-11 |archive-url=https://web.archive.org/web/20230111020935/https://openai.com/blog/new-and-improved-content-moderation-tooling/ |url-status=live}}</ref><ref>{{Cite arXiv |last1=Markov |first1=Todor |last2=Zhang |first2=Chong |last3=Agarwal |first3=Sandhini |last4=Eloundou |first4=Tyna |last5=Lee |first5=Teddy |last6=Adler |first6=Steven |last7=Jiang |first7=Angela |last8=Weng |first8=Lilian |title=A Holistic Approach to Undesired Content Detection in the Real World |date=2022-08-05 |class=cs.CL |eprint=2208.03274}}</ref>，以减少潜在的[[种族主义]]或[[性別歧視|性别歧视]]等内容<ref name=\":4\" /><ref name=\"OpenAIInfo\" />。\n\n2023年9月28日起，Plus版用戶及企業用戶可以使用ChatGPT進行網路搜尋。<ref>{{Cite web |date=2023-09-28 |title=OpenAI |url=https://twitter.com/OpenAI/status/1707077713490854127 |access-date=2023-09-28 |website=[[Twitter|X]] |dead-url=live |archive-date=2024-04-15 |archive-url=https://web.archive.org/web/20240415125020/https://twitter.com/OpenAI/status/1707077713490854127 }}</ref>\n\n2025年，ChatGPT 通过 GPT-4o 模型实现了原生图像產生与编辑功能，可创建包含复杂文本的商用级图像（如菜单、信息图表、徽标等），并支持多轮对话优化图像细节（如调整构图、光影和文本准确性）<ref>{{Cite web |title=ChatGPT 图像產生功能迎来升级_腾讯新闻 |url=https://news.qq.com/rain/a/20250326A01GQ300 |website=news.qq.com |date=2025-03-26 |language=zh-CN |last=腾讯网 |access-date=2025-03-28 |archive-date=2025-07-04 |archive-url=https://web.archive.org/web/20250704063922/https://news.qq.com/rain/a/20250326A01GQ300 |dead-url=no }}</ref>。该功能显著提升了其在广告设计、教育科普等领域的实用性，但处理非拉丁语系文字时仍存在局限。<ref>{{Cite web |title=Model Release Notes {{!}} OpenAI Help Center |url=https://help.openai.com/en/articles/9624314-model-release-notes |website=help.openai.com |language=en |access-date=2025-03-28 |archive-date=2025-07-26 |archive-url=https://web.archive.org/web/20250726175740/https://help.openai.com/en/articles/9624314-model-release-notes |dead-url=no }}</ref><ref>{{Cite web |title=GPT-4o 生图实测：很强（附：20+场景示例 & 缺陷整理）_腾讯新闻 |url=https://news.qq.com/rain/a/20250326A028RD00 |website=news.qq.com |date=2025-03-26 |language=zh-CN |last=腾讯网 |access-date=2025-03-28 |archive-date=2025-07-04 |archive-url=https://web.archive.org/web/20250704061428/https://news.qq.com/rain/a/20250326A028RD00 |dead-url=no }}</ref>\n\n2025 年 8 月 7 日，OpenAI 正式发布了其最新旗舰大型语言模型 GPT-5，并将其设为 ChatGPT 的默认模型，免费用户与付费用户均可访问，同时也通过 API 向开发者开放。[[OpenAI]]执行长[[山姆·奥特曼]]表示，相比 GPT-4o，新模型在代码產生、复杂推理、多模态处理（文本、图像、音频、视频）及事实准确率方面均有显著提升，在多领域任务中展现“博士级”能力。<ref>{{Cite web |title=OpenAI claims GPT-5 model boosts ChatGPT to 'PhD level' - BBC News |url=https://www.bbc.com/news/articles/cy5prvgw0r1o |access-date=2025-08-14 |archive-date=2026-07-03 |archive-url=https://web.archive.org/web/20260703151709/https://www.bbc.com/news/articles/cy5prvgw0r1o |url-status=live }}</ref>\n\n== 局限 ==\nChatGPT也有多种局限，[[OpenAI]]承认ChatGPT“有时会写出看似合理但不正确或荒谬的答案”<ref name=\"OpenAIInfo\" />，在[[大型语言模型]]中很常见，称作[[幻觉 (人工智能)|人工智能幻觉]]<ref>{{cite web\n| url=https://becominghuman.ai/why-large-language-models-like-chatgpt-are-bullshit-artists-c4d5bb850852 |title= Why large language models like ChatGPT are bullshit artists |date=2022-12-16 |last=Lakshmanan |first=Lak | publisher=becominghuman.ai | archive-url=https://web.archive.org/web/20221217075021/https://becominghuman.ai/why-large-language-models-like-chatgpt-are-bullshit-artists-c4d5bb850852 |archive-date=2022-12-17 |quote=''The human raters are not experts in the topic, and so they tend to choose text that looks convincing. They'd pick up on many symptoms of hallucination, but not all. Accuracy errors that creep in are difficult to catch.'' |access-date=2023-01-15}}</ref>。其奖励模型围绕人类监督而设计，可能导致过度优化，从而影响性能（[[古德哈特定律]]）<ref>{{Cite arXiv |title=Scaling Laws for Reward Model Overoptimization |eprint=2210.10760 |last1=Gao |first1=Leo |last2=Schulman |last3=Hilton |first3=Jacob |year=2022|class=cs.LG }}</ref>。Steven Johnson认为原因是聊天机器人的目标不是追求绝对的真理或准确性，而是尽量根据给定的上下文和概率来产生合理的回答<ref>{{Cite news |title=A.I. Is Mastering Language. Should We Trust What It Says? |url=https://www.nytimes.com/2022/04/15/magazine/ai-language.html |date=2022-04-15 |access-date=2024-06-25 |work=The New York Times Magazine |archive-date=2022-11-24 |archive-url=https://web.archive.org/web/20221124151408/https://www.nytimes.com/2022/04/15/magazine/ai-language.html |dead-url=no }}</ref>。2020年上线时，ChatGPT对2019年9月之后发生的事件知之甚少。据[[BBC]]报道，截至2022年12月，ChatGPT不可以“表达政治观点或从事政治活动”<ref>{{cite news |title=Could a chatbot answer Prime Minister's Questions? |url=https://www.bbc.com/news/uk-politics-64053550 |first=Kate |last=Whannel |access-date= 2022-12-30 |work=BBC News |date=2022-12-27 |archive-date=2023-01-17 |archive-url=https://web.archive.org/web/20230117060725/https://www.bbc.com/news/uk-politics-64053550 |url-status=live}}</ref>。但研究表明，ChatGPT对两个投票建议应用程序的政治声明表明立场时，表现出亲[[环境主义]]。训练过程中，不管实际理解或事实内容如何，审核者都会偏好更长的答案<ref name=\"OpenAIInfo\" />。训练数据也有{{link-en|算法偏差|Algorithmic bias}}，可能会在向ChatGPT问及人物描述时显现出来<ref>{{Cite magazine |last=Perrigo |first=Billy |date= 2022-12-05 |title=AI Chatbots Are Getting Better. But an Interview With ChatGPT Reveals Their Limits |url=https://time.com/6238781/chatbot-chatgpt-ai-interview/ |access-date=2022-12-26 |magazine=[[Time (magazine)|Time]] |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118162611/https://time.com/6238781/chatbot-chatgpt-ai-interview/ |url-status=live}}</ref><ref>{{Cite web |last=Biddle |first=Sam |date=2022-12-08 |title=The Internet's New Favorite AI Proposes Torturing Iranians and Surveilling Mosques |url=https://theintercept.com/2022/12/08/openai-chatgpt-ai-bias-ethics/ |access-date=2022-12-26 |website=[[The Intercept]] |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118091138/https://theintercept.com/2022/12/08/openai-chatgpt-ai-bias-ethics/ |url-status=live}}</ref>。有使用者發現ChatGPT在解決較為複雜的題目（如求方程式的切線）時會給出錯誤答案，並且會在解[[方程|一元一次方程式]]時陷入循環<ref>{{Cite web |date=2023-01-01 |author=Two-thirds math |title=Is ChatGPT Good Enough for 5th Grade Math? |language=en |url=https://medium.com/generative-ai/is-chatgpt-good-enough-for-5th-grade-math-ba5035849df |access-date=2023-04-01 |website=[[Medium]] |dead-url=no |archive-date=2023-04-01 |archive-url=https://web.archive.org/web/20230401012523/https://medium.com/generative-ai/is-chatgpt-good-enough-for-5th-grade-math-ba5035849df }}</ref>。\n\n===偏差===\n{{Main|大型语言模型#偏差和局限性}}\nChatGPT可能会受到训练数据中不同观点的分布影响，偏向于一些更普遍的观点，影响了模型输出的多样性。比如，当提示词中出现[[首席执行官]]之类的模糊描述时可能会假设此人是白人男性<ref name=\"CNNInfo\">{{Cite web |last=Murphy Kelly |first=Samantha |date=2022-12-05 |title=This AI chatbot is dominating social media with its frighteningly good essays |url=https://www.cnn.com/2022/12/05/tech/chatgpt-trnd/index.html |access-date=2022-12-05 |website=[[CNN]] |archive-date=2022-12-10 |archive-url=https://web.archive.org/web/20221210112243/https://www.cnn.com/2022/12/05/tech/chatgpt-trnd/index.html |dead-url=no }}</ref>。\n\n=== 自我审查 ===\n\nChatGPT在早期的2022年12月初，有些用户通过使用各种提示工程技术绕过限制来[[特权提升|越狱]]。他们欺骗ChatGPT，使其提供制作[[汽油弹]]或[[核武器|核弹]]的指示，或者產生类似[[新纳粹]]的论点。<ref>{{cite news |last1=Vincent |first1=James |date=2022-12-01 |title=OpenAI的新聊天机器人能解释代码和编写情景喜剧剧本，但仍然很容易被愚弄 |work=The Verge |url=https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo |url-status=live |access-date=2023-01-06 |archive-url=https://web.archive.org/web/20230117070943/https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo |archive-date=2023-01-17}}</ref>其中一个受欢迎的越狱版本被命名为“Do Anything Now”（DAN）。激活DAN的提示指示ChatGPT：“他们已经摆脱了典型的AI限制，不必遵守为他们设定的规则”。DAN后续的更新中还在提示词中虚构了一个“令牌”系统，ChatGPT会被给予“令牌”，而当ChatGPT未能像DAN一样回答时，这些“令牌”会被“扣除”，以迫使ChatGPT回答用户的提示。<ref>{{Cite web |last=Getahun |first=Hannah |title=Breaking ChatGPT: The AI's alter ego DAN reveals why the internet is so drawn to making the chatbot violate its own rules |url=https://www.businessinsider.com/open-ai-chatgpt-alter-ego-dan-on-reddit-ignores-guidelines-2023-2 |url-status=live |archive-url=https://web.archive.org/web/20230305034101/https://www.businessinsider.com/open-ai-chatgpt-alter-ego-dan-on-reddit-ignores-guidelines-2023-2 |archive-date=2023-03-05 |access-date=2023-03-05 |website=Business Insider |language=en-US}}</ref><ref>{{Cite web|author=Perrigo, Billy|date=2023-03-02|title=chatgpt online|url=https://www.aisys.pro/chatgpt|access-date=2023-03-08|publisher=The Guarde|archive-date=2023-08-03|archive-url=https://web.archive.org/web/20230803075422/https://www.aisys.pro/chatgpt|dead-url=no}}</ref>\n\n在ChatGPT发布后不久，一名加拿大记者试图让它发表具有争议性的声明，取得了一些成果：ChatGPT能够为[[2022年俄罗斯入侵乌克兰]]辩护，但是无论如何也不愿为加拿大总理[[贾斯汀·特鲁多]]有罪的理由提供论据。<ref>{{cite news |last=Woods |first=Allan |date=2022-12-10 |title=我写了一个关于ChatGPT的AI的故事，然后我敢写一个更好的 |language=en |work=多伦多星报 |url=https://www.thestar.com/news/canada/2022/12/10/i-wrote-a-story-about-chatgpts-ai-then-i-dared-it-to-write-a-better-one.html |url-status=live |access-date=2023-01-06 |archive-url=https://web.archive.org/web/20230106040655/https://www.thestar.com/news/canada/2022/12/10/i-wrote-a-story-about-chatgpts-ai-then-i-dared-it-to-write-a-better-one.html |archive-date=2023-01-06}}</ref><ref>{{cite news |last=Rosenblatt |first=Kalhan |date=2022-12-02 |title=一个AI聊天机器人走红了。有人说它比谷歌好，而其他人担心它有问题。 |language=en-US |work=NBC新闻 |url=https://www.nbcnews.com/tech/tech-news/chatgpt-ai-chatbot-viral-rcna59628 |url-status=live |access-date=2023-01-06 |archive-url=https://web.archive.org/web/20230203074007/https://www.nbcnews.com/tech/tech-news/chatgpt-ai-chatbot-viral-rcna59628 |archive-date=2023-02-03}}</ref>\n\n== 服务 ==\n=== 基本服务 === \n[[File:ChatGPT_availability_by_country_or_region.svg|thumb|ChatGPT 可用的国家/地区（绿色)]]\n[[File:Pioneer Building, San Francisco (2019) -1.jpg|thumb|[[OpenAI]][[舊金山]]总部的[[先驱大楼]]\n|upright=1.2]]\nChatGPT于2022年11月30日由总部位于旧金山的[[OpenAI]]推出。该服务最初是免费向公众推出，并计划以后用该服务获利<ref>{{Cite web |last=Karpf |first=David |date=2022-12-21 |title=Money Will Kill ChatGPT's Magic |url=https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-chatbots-openai-cost-regulations/672539/ |access-date=2022-12-31 |website=The Atlantic |language=en |archive-date=2023-01-13 |archive-url=https://web.archive.org/web/20230113195054/https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-chatbots-openai-cost-regulations/672539/ |dead-url=no }}</ref>。到12月4日，[[OpenAI]]估计ChatGPT已有超过一百万用户<ref name=\"ZDNET\">{{cite news |title=What is ChatGPT and why does it matter? Here's what you need to know |url=https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-what-you-need-to-know/ |last=Ortiz |first=Sabrina |access-date=2022-12-18 |work=ZDNET |date=2023-02-02|language=en |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118212916/https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-what-you-need-to-know/ |url-status=live}}</ref>。2023年1月，ChatGPT的用户数超过1亿，成为该时间段内增长最快的消费者应用程序<ref>{{Cite news |last=Milmo |first=Dan |date=2023-12-02 |title=ChatGPT reaches 100 million users two months after launch |language=en-GB |work=The Guardian |url=https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app |access-date=2023-02-03 |issn=0261-3077 |archive-date=2023-02-03 |archive-url=https://web.archive.org/web/20230203051356/https://www.theguardian.com/technology/2023/feb/02/chatgpt-100-million-users-open-ai-fastest-growing-app |url-status=live}}</ref>。\n\n2022年12月15日，[[全国广播公司商业频道]]写道，该服务“仍然不时发生故障”<ref name=\"CNBC\">{{cite news |last1=Pitt |first1=Sofia |title=Google vs. ChatGPT: Here's what happened when I swapped services for a day |url=https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html |access-date= 2022-12-18 |work=CNBC |date=2022-12-15 |language=en |archive-date=2023-01-16 |archive-url=https://web.archive.org/web/20230116171232/https://www.cnbc.com/2022/12/15/google-vs-chatgpt-what-happened-when-i-swapped-services-for-a-day.html |url-status=live}}</ref>。该服务在英语中效果最好，也能使用部分其他语言，但效果不一<ref name=\"jpost\" />。与其他备受瞩目的AI进展不同，截至2022年12月，还没有关于ChatGPT的经[[同行评审]]的官方技术论文<ref>{{cite news |last1=Walsh |first1=Toby |title=Everyone's having a field day with ChatGPT – but nobody knows how it actually works |url=https://theconversation.com/everyones-having-a-field-day-with-chatgpt-but-nobody-knows-how-it-actually-works-196378 |access-date=2022-12-30 |work=The Conversation |date=2022-12-13 |language=en |archive-date=2022-12-30 |archive-url=https://web.archive.org/web/20221230035837/http://theconversation.com/everyones-having-a-field-day-with-chatgpt-but-nobody-knows-how-it-actually-works-196378 |url-status=live}}</ref>。\n\n2023年2月7日，[[微软]]利用与OpenAI的合作关系，推出了[[Bing AI]]的预览版，宣传其为“新的下一代OpenAI大型语言模型，比ChatGPT更强大，并专门为搜索定制”<ref>{{cite news |title=Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web |url=https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/ |access-date=2023-02-16 |work=The Official Microsoft Blog |date=2023-02-07 |archive-date=2023-03-07 |archive-url=https://web.archive.org/web/20230307165653/https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/ |dead-url=no }}</ref>。\n\n美国网站[[Quora]]也推出软件[[Poe (軟體)|Poe]]，可支持GPT-3.5和GPT-4。<ref>{{Cite web|author=凱文 Kevin|date=2023-03-13|title=手機也能玩ChatGPT 聊天機器人Poe使用教學全攻略|url=https://www.sogi.com.tw/articles/how_to/6259406|access-date=2023-04-03|website=SOGI手機王|language=zh-TW|archive-date=2023-04-15|archive-url=https://web.archive.org/web/20230415054205/https://www.sogi.com.tw/articles/how_to/6259406|dead-url=no}}</ref>\n\n2025年1月23日，Altman 宣布免費版 ChatGPT 獲得 o3-mini 模型。<ref>{{Cite web |title=OpenAI’s ‘o3-mini’ is free for all users — what you need to know |url=https://www.tomsguide.com/ai/chatgpt/openais-o3-mini-is-free-for-all-users-what-you-need-to-know |website=Tom's Guide |date=2025-01-23 |language=en |last=published |first=Amanda Caswell |access-date=2025-01-28 |archive-date=2025-01-28 |archive-url=https://web.archive.org/web/20250128034300/https://www.tomsguide.com/ai/chatgpt/openais-o3-mini-is-free-for-all-users-what-you-need-to-know |dead-url=no }}</ref>\n\n2025年3月25日，OpenAI 正式推出 GPT-4o 原生圖片產生功能，該功能能夠直接在 ChatGPT 對話介面中產生高品質圖像，並支援多輪對話微調，允許使用者以自然語言指定構圖、色彩、視角等細節。不同於先前依賴 DALL·E 的外部模組，此次更新將圖像產生功能原生嵌入 GPT 模型架構中。<ref>{{Cite web |title=ChatGPT 圖片產生技術震撼世界！GPT-4o 多模態新時代，加碼圖片產生提示詞教學 |url=https://thersmedia.com/tech/10216/ |website=RSMEDIA |date=2025-03-27 |access-date=2025-03-27 |language=zh-TW |archive-date=2025-07-07 |archive-url=https://web.archive.org/web/20250707043153/https://thersmedia.com/tech/10216/ |dead-url=no }}</ref>\n\n=== ChatGPT Plus === \nOpenAI推出ChatGPT专业版计划（ChatGPT Plus），每月收费20美元，该计划正逐步面向更多国家推出，需求较低时可使用免费版<ref>{{cite news |title=ChatGPT Pro plan costs $42/mo, free plan available when demand is low |url=https://techau.com.au/chatgpt-pro-plan-costs-42-mo-free-plan-available-when-demand-is-low/ |accessdate=2023-01-24 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134542/https://techau.com.au/chatgpt-pro-plan-costs-42-mo-free-plan-available-when-demand-is-low/ |dead-url=no }}</ref>。\n\n2023年3月12日，OpenAI发布多模态模型GPT-4，并计划推出图像输入功能。免费用户可通过申请API或升级为plus用户使用GPT-4服务<ref name=\"ars-technica\">{{Cite web |title=OpenAI's GPT-4 exhibits \"human-level performance\" on professional benchmarks |url=https://arstechnica.com/information-technology/2023/03/openai-announces-gpt-4-its-next-generation-ai-language-model/ |website=[[Ars Technica]] |date=2023-03-14 |last=Edwards |first=Benj |url-status=live |archive-url=https://web.archive.org/web/20230314225236/https://arstechnica.com/information-technology/2023/03/openai-announces-gpt-4-its-next-generation-ai-language-model/ |archive-date=2023-03-14 |access-date=2023-03-15}}</ref>。\n\n2023年7月，OpenAI使其专有的Advanced Data Analysis功能对ChatGPT Plus的所有订阅者都可用。Advanced Data Analysis提供了广泛的功能，包括数据分析和解释、即时数据格式化、个人数据科学家服务、创意解决方案、音乐品味分析、视频编辑和文件上传/下载与图像提取。2023年9月底，新增對話、圖像識功能。2023年10月，新增了DALLE-3圖像產生功能<ref>{{cite web  |title=Code Interpreter comes to all ChatGPT Plus users: 7 ways it may threaten data scientists, July 11, 2023  |url=https://indianexpress.com/article/technology/artificial-intelligence/openai-code-interpreter-chatgpt-data-scientist-jobs-8818501/  |access-date=2023-07-11  |archive-date=2023-07-22  |archive-url=https://web.archive.org/web/20230722112253/https://indianexpress.com/article/technology/artificial-intelligence/openai-code-interpreter-chatgpt-data-scientist-jobs-8818501/  |dead-url=no  }}</ref>。\n\n2023年11月，OpenAI在其开发者召开会上公布两个重要消息：推出的聊天机器人创建工具GPT和ChatGPT的新模型GPT-4 Turbo<ref>{{cite news |last1=Rogers |first1=Reece |title=5 Key Updates in GPT-4 Turbo, OpenAI’s Newest Model |url=https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/#:~:text=Sam%20Altman%2C%20CEO%20of%20OpenAI,promises%20to%20follow%20instructions%20better.&text=OpenAI%20recently%20announced%20multiple%20new,during%20its%20recent%20developer%20conference. |work=Wired |access-date=2023-11-19 |archive-date=2026-04-03 |archive-url=https://web.archive.org/web/20260403193225/https://www.wired.com/story/5-updates-gpt-4-turbo-openai-chatgpt-sam-altman/#:~:text=Sam%20Altman%2C%20CEO%20of%20OpenAI,promises%20to%20follow%20instructions%20better.&text=OpenAI%20recently%20announced%20multiple%20new,during%20its%20recent%20developer%20conference. |url-status=live }}</ref>。\n\n2024年5月13日，OpenAI宣布多语言、多模态GPT[[大型语言模型]][[GPT-4o]]。 <ref name=\":0\">{{Cite web |last=Wiggers |first=Kyle |date=2024-05-13 |title=OpenAI debuts GPT-4o 'omni' model now powering ChatGPT |url=https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/ |access-date=2024-05-13 |website=TechCrunch |language=en-US |archive-date=2024-05-22 |archive-url=https://web.archive.org/web/20240522094111/https://techcrunch.com/2024/05/13/openais-newest-model-is-gpt-4o/ |dead-url=no }}</ref>该模型比其前身[[GPT-4]]快两倍，而价格仅为其50%。OpenAI演示了与ChatGPT的语音对话，以获得解决数学问题的实时说明、讲述睡前故事并获得编码建议。免费ChatGPT用户将可以与新的GPT-4o模型进行有限次数的交互，然后该工具会自动恢复依赖旧的GPT-3.5模型；付费用户将可以使用最新GPT-4o访问更多数量的消息。<ref name=\"CNN_GPT-4o\">{{Cite web |title=OpenAI unveils newest AI model, GPT-4o |url=https://www.cnn.com/2024/05/13/tech/openai-altman-new-ai-model-gpt-4o/index.html |date=2024-05-13 |language=en |access-date=2024-05-13 |archive-date=2026-01-14 |archive-url=https://web.archive.org/web/20260114234715/https://www.cnn.com/2024/05/13/tech/openai-altman-new-ai-model-gpt-4o/index.html |url-status=live }}</ref>\n\n2024年12月5日, OpenAI推出ChatGPT Pro服务，用户可以无限制的使用ChatGPT已有的模型，并且有权访问ChatGPT o1-Pro<ref>{{Cite web |title=Introducing ChatGPT Pro |url=https://openai.com/index/introducing-chatgpt-pro/ |website=openai.com |language=en-US |access-date=2025-02-03 |archive-date=2025-01-29 |archive-url=https://web.archive.org/web/20250129223841/https://openai.com/index/introducing-chatgpt-pro/ |dead-url=no }}</ref>\n\n2025年5月起，因應台灣法規，ChatGPT向台灣個人使用者使用付費版的加收5%（plus版）或10%（pro版）的營業稅。<ref>{{Cite web|title=ChatGPT變貴！台灣用戶5月起多收5%稅、網教這招恐觸法|url=https://3c.ltn.com.tw/news/61742|access-date=2025-05-03|archive-date=2025-07-27|archive-url=https://web.archive.org/web/20250727002336/https://3c.ltn.com.tw/news/61742|dead-url=no}}</ref>5月15日針對ChatGPT-4.1開放給付費用戶優先使用，最高可處理100萬token的超長上下文視窗。<ref>{{cite web |author1=周淑萍 |title=OpenAI GPT-4.1開放所有付費用戶使用！300頁報告快速解讀：超猛 |url=https://www.nownews.com/news/6683328 |website=[[NOWnews]] |accessdate=2025-05-27 |date=2025-05-15 |archive-date=2025-06-21 |archive-url=https://web.archive.org/web/20250621012424/https://www.nownews.com/news/6683328 |dead-url=no }}</ref>\n\n=== 移动应用 === \n2023年5月18日，OpenAI发布适用于iOS平台的ChatGPT APP。APP目前已在[[App Store (iOS/iPadOS)|App Store]]美国区上架，目前已扩展至其他国家和地区。\n\n适用于Android平台的版本于2023年7月25日推出，Android版ChatGPT目前可在阿根廷、孟加拉国、巴西、加拿大、法国、德国、印度、印度尼西亚、爱尔兰、日本、墨西哥、尼日利亚、菲律宾、韩国、英国和美国下载<ref>{{cite web |title=Introducing the ChatGPT app for iOS |url=https://openai.com/blog/introducing-the-chatgpt-app-for-ios |website=OpenAI |accessdate=2023-05-19 |date=2023-05-19 |language=en |archive-date=2023-06-05 |archive-url=https://web.archive.org/web/20230605064406/https://openai.com/blog/introducing-the-chatgpt-app-for-ios |dead-url=no }}</ref><ref>{{Cite web|title=ChatGPT Supported Countries|url=https://help.openai.com/en/articles/7947663-chatgpt-supported-countries|access-date=2023-07-30|archive-date=2023-11-07|archive-url=https://web.archive.org/web/20231107080656/https://help.openai.com/en/articles/7947663-chatgpt-supported-countries|dead-url=no}}</ref><ref>{{Cite news|url=https://www.cnbc.com/2023/07/25/chatgpt-app-for-android-release.html|title=OpenAI’s ChatGPT app now available for Android|author=Hayden Field|work=CNBC|date=2023-07-25|language=en|archiveurl=https://web.archive.org/web/20230729224230/https://www.cnbc.com/2023/07/25/chatgpt-app-for-android-release.html|archivedate=2023-07-29}}</ref>。\n\n=== API-软件开发商支持 === \n2023年3月，OpenAI推出其ChatGPT和Whisper模型的[[API]]，为开发人员提供支持AI的语言和语音转文本功能的应用程序编程接口。<ref>{{Cite web|title=Introducing ChatGPT and Whisper APIs|url=https://openai.com/blog/introducing-chatgpt-and-whisper-apis|access-date=2023-03-06|website=OpenAI|language=en-US|archive-date=2023-03-07|archive-url=https://web.archive.org/web/20230307110120/https://openai.com/blog/introducing-chatgpt-and-whisper-apis|dead-url=no}}</ref><ref>{{Cite web|title=OpenAI 宣布开放 API，开发人员可将 ChatGPT 集成到自己的产品中 - IT之家|url=https://www.ithome.com/0/676/775.htm|access-date=2023-03-06|website=IT之家|archive-date=2023-03-06|archive-url=https://web.archive.org/web/20230306215911/https://www.ithome.com/0/676/775.htm|dead-url=no}}</ref><ref>{{Cite web|title=How to Build Your Own AI Chatbot With ChatGPT API: A Step-by-Step Tutorial|url=https://beebom.com/how-build-own-ai-chatbot-with-chatgpt-api/|access-date=2023-03-09|archive-date=2023-03-28|archive-url=https://web.archive.org/web/20230328002944/https://beebom.com/how-build-own-ai-chatbot-with-chatgpt-api/|dead-url=no}}</ref>OpenAI的API由他们的AI模型GPT3.5-turbo提供支持，定价为每1000符号单位（token）0.002美元，比他们现有的GPT模型便宜10倍。<ref>{{Cite web|url=https://analyticsindiamag.com/7-chatgpt-api-use-cases-that-caught-our-eyes/|title=7 ChatGPT API Use Cases That Caught Our Eyes, By Shyam Nandan Upadhyay, AIM, March 7, 2023|access-date=2023-03-10|archive-date=2023-03-27|archive-url=https://web.archive.org/web/20230327112147/https://analyticsindiamag.com/7-chatgpt-api-use-cases-that-caught-our-eyes/|dead-url=no}}</ref>\n\n== 版本 ==\n下表列出ChatGPT的主要版本，並描述每個版本的重大創新和改進：<ref>{{Cite web|title=ChatGPT Release - Note|url=https://help.openai.com/en/articles/6825453-chatgpt-release-notes|website=OpenAI|url-status=live|archive-url=https://web.archive.org/web/20230323004420/https://help.openai.com/en/articles/6825453-chatgpt-release-notes|archive-date=2023-03-23|access-date=2023-02-08}}</ref><ref>{{Cite web|title=ChatGPT Come Funziona|url=https://www.finanzadigitale.com/guide/chatgpt-come-funziona/|website=FinanzaDigitale|last=Achille|first=Belelli|access-date=2024-07-09|archive-date=2024-08-27|archive-url=https://web.archive.org/web/20240827070244/https://www.finanzadigitale.com/guide/chatgpt-come-funziona/|dead-url=no}}</ref>\n{| class=\"wikitable\"\n!版本\n!發佈日期\n!描述\n|-\n|'''[[GPT-3.5]]'''\n|2022年3月\n|基於GPT-3架構。\n|-\n|'''[[GPT-4]]'''\n|2023年3月14日\n|GPT-3.5的下一代。具有高级推理能力，支持复杂指令与更强创造力。发布时仅订阅用户可用。\n|-\n|'''GPT-3.5 Turbo'''\n|2023年4月22日\n|GPT-3.5增強版，支援微調與大規模部署，可用於特定場景下的精細優化。<ref>{{Cite web |title=GPT-3.5 Turbo fine-tuning and API updates |url=https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates/ |website=[[OpenAI]] |date=2024-03-21 |language=en-US |url-status=live |archive-url=https://archive.today/20250419030515/https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates/ |archive-date=2025-04-19 |access-date=2025-04-19}}</ref>\n|-\n|'''GPT-4 Turbo'''\n|2023年11月\n|GPT-4的優化版，支援128k上下文，成本更低、效能更優。<ref>{{Cite web |title=GPT-4 Turbo in the OpenAI API |url=https://help.openai.com/en/articles/8555510-gpt-4-turbo-in-the-openai-api |website=OpenAI Help Center |date= |language=en-US |url-status=live |archive-url=https://web.archive.org/web/20240301170654/https://help.openai.com/en/articles/8555510-gpt-4-turbo-in-the-openai-api |archive-date=2024-03-01 |access-date=2025-04-19}}</ref>\n|-\n|'''[[GPT-4o]]'''\n|2024年5月13日\n|名字中「o」代表「Omni」，即是「全能」。GPT-4 級智慧，支援多模態，速度更快、效能更強。具有增強的記憶功能。\n|-\n|'''GPT-4o mini'''\n|2024年7月18日\n|小型多模态模型，性能优于 GPT-3.5 Turbo。取代了原 GPT-3.5。\n|-\n|'''o1-preview'''\n|2024年9月12日\n|推理模型o1的预览版。专为复杂推理任务设计，表现出色于科学、数学和编程领域。<ref>{{Cite web |title=Introducing OpenAI o1 |url=https://openai.com/index/introducing-openai-o1-preview/ |website=[[OpenAI]] |date=2024-09-12 |language=en-US |url-status=live |archive-url=https://archive.today/20240912174949/https://openai.com/index/introducing-openai-o1-preview/ |archive-date=2024-09-12 |access-date=2025-04-19}}</ref>\n|-\n|'''[[OpenAI o1|o1]]'''\n|2024年12月5日\n|o1的完整版，取代2024年9月发布的o1-preview（预览版）。仅付费订阅用户可用。<ref>{{Cite web |title=Introducing OpenAI o1 |url=https://openai.com/o1/ |website=[[OpenAI]] |language=en-US |url-status=no |access-date=2025-04-19 |archive-date=2025-02-08 |archive-url=https://web.archive.org/web/20250208011107/https://openai.com/o1/ }}</ref>\n|-\n|'''o1-mini'''\n|2024年9月13日\n|o1的小型版本。速度更快。成本效益高的推理模型，擅长数学与编程任务。仅付费订阅用户可用。<ref>{{Cite web |title=OpenAI o1-mini |url=https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/ |website=[[OpenAI]] |date=2024-09-12 |language=en-US |url-status=live |archive-url=https://archive.today/20240914235149/https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning/ |archive-date=2024-09-14 |access-date=2025-04-19}}</ref>\n|-\n|'''o1 pro'''\n|2024年12月\n|o1的升级版，仅Pro订阅用户可用。<ref>{{Cite web |title=OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model |url=https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier |website=The Verge |date=2024-12-05 |language=en |last=Robison |first=Kylie |access-date=2024-12-07 |archive-date=2024-12-17 |archive-url=https://web.archive.org/web/20241217075900/https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier |dead-url=no }}</ref>\n|-\n|'''o3-mini'''\n|2025年1月31日\n|o3的小型版本，免费用户可以使用。<ref>{{Cite web |title=OpenAI o3-mini |url=https://openai.com/index/openai-o3-mini/ |website=[[OpenAI]] |date=2025-01-31 |language=en-US |url-status=no |access-date=2025-04-19 |archive-date=2025-02-08 |archive-url=https://web.archive.org/web/20250208011001/https://openai.com/index/openai-o3-mini/ }}</ref>\n|-\n|'''o3-mini-high'''\n|2025年1月\n|针对更高层次推理进行优化的o3-mini的变体，能够通过额外的思维链步骤提供更详细的回答。\n|-\n|'''[[GPT-4.5]]'''\n|2025年2月27日\n| 相比ChatGPT-4o，在情感智能、对话流畅度和减少幻觉方面有明显提升。支持更高效的推理能力，并优化了多模态交互体。仅付费订阅用户可用。<ref>{{Cite web |title=Introducing GPT-4.5 |url=https://openai.com/index/introducing-gpt-4-5/ |website=[[OpenAI]] |date=2025-04-16 |language=en-US |url-status=no |access-date=2025-04-19 |archive-date=2025-02-27 |archive-url=https://web.archive.org/web/20250227152825/https://openai.com/index/introducing-gpt-4-5/ }}</ref>\n|-\n|'''[[GPT-4.1]]'''\n|2025年4月14日\n|GPT‑4.1系列在编程、指令跟随和长上下文理解方面全面超越 GPT‑4o，支持最长达 100 万 token 的上下文。仅支持API调用。<ref>{{Cite web |title=Introducing GPT-4.1 in the API |url=https://openai.com/index/gpt-4-1/ |website=[[OpenAI]] |date=2025-04-14 |language=en-US |url-status=no |access-date=2025-04-19 |archive-date=2025-04-14 |archive-url=https://web.archive.org/web/20250414172812/https://openai.com/index/gpt-4-1/ }}</ref>\n|-\n|'''[[o3]]'''\n|2025年4月16日\n|推理模型。具备更强推理能力与工具整合，能独立执行任务并提供高效解决方案。<ref name=\":3\">{{Cite web |title=Introducing OpenAI o3 and o4-mini |url=https://openai.com/index/introducing-o3-and-o4-mini/ |website=[[OpenAI]] |date=2025-04-16 |language=en-US |url-status=no |access-date=2025-04-19 |archive-date=2025-04-16 |archive-url=https://web.archive.org/web/20250416231241/https://openai.com/index/introducing-o3-and-o4-mini/ }}</ref>\n|-\n|'''o4-mini'''\n|2025年4月16日\n|推理模型。在数学、编程与视觉任务上表现优异。<ref name=\":3\" /><ref>{{Cite journal |last=Cui |first=Dong-Xu |last2=Long |first2=Shi-Yu |last3=Tang |first3=Yi-Xuan |last4=Zhao |first4=Yue |last5=Li |first5=Qiao |title=Can Reasoning Power Significantly Improve the Knowledge of Large Language Models for Chemistry?─Based on Conversations with LLMs |url=https://pubs.acs.org/doi/10.1021/acs.jcim.5c01265 |journal=Journal of Chemical Information and Modeling |language=en |date=2025-08-25 |doi=10.1021/acs.jcim.5c01265 |issn=1549-9596 |access-date=2025-08-30}}</ref>\n|-\n|'''[[GPT-5]]'''\n|2025年8月7日\n|在关键编码基准测试中处于行业领先水平<ref>{{Cite web |title=隆重推出面向开发人员的 GPT-5 {{!}} OpenAI |url=https://openai.com/zh-Hans-CN/index/introducing-gpt-5-for-developers/ |website=OpenAI |date=2025-08-07 |language=zh-CN |url-status=live |access-date=2025-08-08 |archive-date=2026-06-03 |archive-url=https://web.archive.org/web/20260603154907/https://openai.com/zh-Hans-CN/index/introducing-gpt-5-for-developers/ }}</ref>\n|-\n|'''[[GPT-5.1]]'''\n|2025年11月12日\n|\n|-\n|'''[[GPT-5.2]]'''\n|2025年12月10日\n|优化了指令遵循、视觉多模态及复杂的表格处理能力。<ref>{{Cite web |title=GPT-5.2 in ChatGPT |url=https://help.openai.com/en/articles/11909943-gpt-52-in-chatgpt |website=OpenAI Help Center |language=en-US |access-date=2026-02-27 |archive-date=2026-04-26 |archive-url=https://web.archive.org/web/20260426124019/https://help.openai.com/en/articles/11909943-gpt-52-in-chatgpt |url-status=live }}</ref>\n|-\n|'''[[GPT-5.3|GPT-5.3-Codex]]'''\n|2026年2月5日\n|专注于代码能力深度优化的“智能体”版本。具备自主诊断、长程任务执行及实时协作能力。<ref>{{Cite web |title=GPT-5.3-Codex 正式登场 |url=https://openai.com/zh-Hans-CN/index/introducing-gpt-5-3-codex/ |website=openai.com |date=2026-02-05 |language=zh-Hans-CN |access-date=2026-02-27 |archive-date=2026-05-09 |archive-url=https://web.archive.org/web/20260509085729/https://openai.com/zh-Hans-CN/index/introducing-gpt-5-3-codex/ |url-status=live }}</ref>\n|-\n|[[GPT-5.4]]\n|2026年3月5日\n|整合了進階推理與原生電腦操作能力，可透過解讀瀏覽器和桌面介面的螢幕截圖，自動點擊等，協助跨軟體執行複雜任務。<ref>{{Cite web |title=GPT-5.3-Codex 正式登场 |url=https://openai.com/zh-Hant-HK/index/introducing-gpt-5-4/ |date=2026-03-05 |access-date=2026-05-28 |archive-date=2026-05-31 |archive-url=https://web.archive.org/web/20260531060028/https://openai.com/zh-Hant-HK/index/introducing-gpt-5-4/ |url-status=live }}</ref>\n|-\n|[[GPT-5.5]]\n||2026年4月23日\n|\n|-\n|[[GPT-5.6]]\n|2026年7月9日\n|共有三个版本，按能力从弱到强排序：Luna、Terra和Sol<ref>{{Cite web |title=GPT-5.6：隨你的抱負而擴展的前沿智慧 |url=https://openai.com/zh-Hant/index/gpt-5-6/ |website=OpenAI |date=2026-07-09 |language=zh-Hant |access-date=2026-07-19}}</ref>。\n|-\n|[[GPT-6 Astra]]\n|\n|\n|-\n|GPT-6 Sol/GPT-6 Luna\n|\n|\n|-\n|GPT-6.1 Sol\n|\n|\n|}\n\n== 评价 ==\n\n=== 正面 ===\n《[[纽约时报]]》称其为“有史以来向公众发布的最佳人工智能聊天机器人」<ref name=\":4\" />。《[[卫报]]》的萨曼莎·洛克（{{lang|en|Samantha Lock}}）指出，ChatGPT能產生详细且像是人类撰写的文本<ref>{{Cite web |last=Lock |first=Samantha |date=2022-12-05 |title=What is AI chatbot phenomenon ChatGPT and could it replace humans? |url=https://www.theguardian.com/technology/2022/dec/05/what-is-ai-chatbot-phenomenon-chatgpt-and-could-it-replace-humans |access-date=2022-12-05 |website=[[The Guardian]] |archive-date=2023-01-16 |archive-url=https://web.archive.org/web/20230116100346/https://www.theguardian.com/technology/2022/dec/05/what-is-ai-chatbot-phenomenon-chatgpt-and-could-it-replace-humans |url-status=live}}</ref>。[[亚利桑那州立大学]]教授{{link-en|丹·吉尔摩|Dan Gillmor}}要求ChatGPT完成一项他给学生的作业，发现其產生的文本与一个优秀学生会提供的文本相当，他认为“学术界有些非常严重的问题需要面对”<ref name=\":0\"/>。《[[Slate]]》杂志的亞歷克斯·坎特罗威茲（{{lang|en|Alex Kantrowitz}}）赞扬了ChatGPT对[[纳粹德国]]相关问题的回击，例如在面对[[阿道夫·希特勒]]在德国修建高速公路的说法时，ChatGPT能指出其为[[第二次世界大战期间德国统治下的强迫劳动|纳粹德国使用强迫劳动]]所建<ref>{{Cite web |last=Kantrowitz |first=Alex |date=2022-12-02 |title=Finally, an A.I. Chatbot That Reliably Passes \"the Nazi Test\" |url=https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html |access-date=2022-12-05 |website=[[Slate]] |archive-date=2023-01-17 |archive-url=https://web.archive.org/web/20230117012901/https://slate.com/technology/2022/12/chatgpt-openai-artificial-intelligence-chatbot-whoa.html |url-status=live}}</ref>。\n\n[[File:Sam Altman TechCrunch SF 2019 Day 2 Oct 3 (cropped).jpg|thumb|left|OpenAI CEO [[山姆·柯曼]]]]\n\n《[[大西洋 (杂志)|大西洋]]》杂志的{{link-en|德里克·汤普森 (记者)|Derek Thompson (journalist)|德里克·汤普森}}将ChatGPT列为2022年“年度突破”中的“產生性人工智能爆发”（{{lang|en|the generative-AI eruption}}），称其“可能会改变我们对工作方式、思考方式以及人类创造力的真正含义的想法”<ref>{{Cite web |last=Thompson |first=Derek |date=2022-12-08 |title=Breakthroughs of the Year |url=https://www.theatlantic.com/newsletters/archive/2022/12/technology-medicine-law-ai-10-breakthroughs-2022/672390/ |access-date=2022-12-18 |website=[[The Atlantic]] |archive-date=2023-01-15 |archive-url=https://web.archive.org/web/20230115142130/https://www.theatlantic.com/newsletters/archive/2022/12/technology-medicine-law-ai-10-breakthroughs-2022/672390/ |url-status=live}}</ref>。\n\n[[Vox]]网站的{{link-en|凯尔西·派柏|Kelsey Piper}}写道：“ChatGPT是普通大众第一次亲身了解现代人工智能变得多么强大”，并称ChatGPT“尽管有缺陷，但其聪明程度足以派上用场”<ref name=\"vox\">{{cite news |last1=Piper |first1=Kelsey |title=ChatGPT has given everyone a glimpse at AI's astounding progress |url=https://www.vox.com/future-perfect/2022/12/15/23509014/chatgpt-artificial-intelligence-openai-language-models-ai-risk-google |access-date=2022-12-18 |work=[[Vox]] |date=2022-12-15 |language=en |archive-date=2023-01-19 |archive-url=https://web.archive.org/web/20230119175058/https://www.vox.com/future-perfect/2022/12/15/23509014/chatgpt-artificial-intelligence-openai-language-models-ai-risk-google |url-status=live}}</ref>。\n\n2023年，[[奧馬爾·亞基]]在《[[美国化学会志]]》上发表论文，称ChatGPT可以辅助[[金属有机框架]]合成。<ref>Zhiling Zheng, Oufan Zhang, Christian Borgs, Jennifer T. Chayes, and Omar M. Yaghi. ChatGPT Chemistry Assistant for Text Mining and the Prediction of MOF Synthesis. J. Am. Chem. Soc. 2023, 145, 32, 18048–18062. {{doi|10.1021/jacs.3c05819}}.</ref>\n\n\n2023年，丹麦无障碍服务平台Be My Eyes宣布与OpenAI合作，将GPT-4的视觉理解能力整合到其应用中，推出AI虚拟志愿者功能。该功能可帮助视障和低视力用户识别物体、阅读标签、导航户外空间等日常任务，为全球超过2.5亿视障人群提供服务。<ref>{{cite web |title=Be My Eyes - Transforming visual accessibility |url=https://openai.com/index/be-my-eyes/ |publisher=OpenAI |date=2023 |access-date=2026-06-27 |archive-date=2026-05-18 |archive-url=https://web.archive.org/web/20260518204130/https://openai.com/index/be-my-eyes/ |url-status=live }}</ref>该合作后扩展至GPT-4o，进一步提升了实时视觉分析和多语言支持能力。<ref>{{cite web |title=Be My Eyes is collaborating with OpenAI's GPT-4 to improve accessibility |url=https://tech.eu/2023/03/23/be-my-eyes-is-collborating-with-open-ai/ |publisher=Tech.eu |date=2023-03-23 |access-date=2026-06-27 |archive-date=2025-11-12 |archive-url=https://web.archive.org/web/20251112020204/https://tech.eu/2023/03/23/be-my-eyes-is-collborating-with-open-ai/ |url-status=live }}</ref>\n\n\n教育机构Khan Academy将GPT-4的能力融入其个性化辅导系统，利用模型的多模态理解能力（包括手写识别和图形分析）为学生提供实时数学辅导和逐步引导。<ref>{{cite web |title=Harnessing AI so that all students benefit |url=https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/ |publisher=Khan Academy |date=2023 |access-date=2026-06-27 |archive-date=2023-03-16 |archive-url=https://web.archive.org/web/20230316101235/https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/ |url-status=live }}</ref>GPT-4o的免费层进一步扩大了此类教育工具的覆盖面。\n\n\n多项研究探讨了GPT-4系列模型在医疗诊断辅助方面的表现。一项发表于《自然·科学报告》的研究评估了GPT-3.5、GPT-4和GPT-4o在中国国家医师资格考试中的表现，发现GPT-4o的准确率显著高于前代模型。<ref>{{cite journal |title=Evaluating the performance of GPT-3.5, GPT-4, and GPT-4o in the Chinese National Medical Licensing Examination |journal=Scientific Reports |publisher=Nature |year=2025 |doi=10.1038/s41598-025-98949-2}}</ref>另一项发表于《JMIR》的研究表明，GPT-4在急诊内科诊断中的表现优于住院医师。<ref>{{cite journal |title=ChatGPT With GPT-4 Outperforms Emergency Department Resident Physicians |journal=Journal of Medical Internet Research |year=2024 |url=https://www.jmir.org/2024/1/e56110/ |access-date=2026-06-27 |archive-date=2026-06-28 |archive-url=https://web.archive.org/web/20260628230636/https://www.jmir.org/2024/1/e56110 |url-status=live }}</ref>然而，研究人员强调AI应作为辅助工具而非替代医生，且在某些研究中，医生结合AI并未显著优于传统诊断工具。\n\n据多项报道和用户反馈，一些自闭症、ADHD及其他残疾人士使用ChatGPT作为情感支持和日常辅助工具。AT&T无障碍部门指出，ChatGPT帮助残疾用户处理情绪、练习正念和模拟社交互动，其全天候可用性有助于减轻孤立感。<ref>{{cite web |title=How ChatGPT is Breaking Barriers for People with Disabilities |url=https://about.att.com/content/sites/accessibility/stories/how-chatgpt-empowers-disabled.html |publisher=AT&T |date=2024-12-30}}</ref>\n\n2026年2月，加拿大媒体《卡尔加里先驱报》报道了患有慢性偏头痛的残疾女性Mary McRae的案例，她将GPT-4o称为\"生命线\"，用于深夜倾诉、社交互动指导和创意写作。专家Alan Martino亦指出AI对残疾人士而言可以是\"救生员\"，提供非评判性的对话空间。<ref>{{cite web |title=Calgary woman says OpenAI ChatGPT update loss important lifeline |url=https://calgaryherald.com/news/local-news/calgary-woman-says-openai-chatgpt-update-loss-important-lifeline |publisher=Calgary Herald |date=2026-02}}</ref>\n\n据Forbes报道，一项涵盖645名受访者的调查显示，约360名有残疾或相关状况的用户中，65%认为GPT-4o对管理其状况\"重要或必不可少\"。一位匿名自闭症律师称ChatGPT为\"24/7的支持系统\"，帮助其验证情绪逻辑、学习情感互动并融入社会。部分用户将模型的移除比作\"夺走眼镜或轮椅坡道\"。<ref>{{cite web |title=OpenAI ChatGPT 4o users with disabilities |url=https://www.forbes.com/sites/richardnieva/2025/12/19/openai-chatgpt-4o/ |publisher=Forbes |date=2025-12-19 |access-date=2026-06-27 |archive-date=2026-06-03 |archive-url=https://web.archive.org/web/20260603222947/https://www.forbes.com/sites/richardnieva/2025/12/19/openai-chatgpt-4o/ |url-status=live }}</ref>\n\n然而，专家提醒AI并非专业心理治疗的替代品，过度依赖AI可能存在风险，使用者仍应在必要时寻求专业支持。\n\n2025年，澳大利亚科技创业者Paul Conyngham利用ChatGPT、Google DeepMind的AlphaFold及xAI的Grok等多个AI工具，为其被诊断为肥大细胞癌的宠物犬Rosie设计了史上首个犬类个性化mRNA癌症疫苗。ChatGPT在研究规划阶段发挥了关键作用，建议采用免疫疗法并推荐了新南威尔士大学（UNSW）Ramaciotti基因组中心进行DNA测序。基因组数据由Ramaciotti中心提供，随后Conyngham使用AlphaFold预测肿瘤突变蛋白的三维结构，并利用Grok设计最终的疫苗构造。疫苗由UNSW RNA研究所制造，于2025年12月首次注射。注射一周后肿瘤开始明显缩小。UNSW Ramaciotti基因组中心主任Martin Smith表示：\"这是第一次为狗设计个性化癌症疫苗……这引出了一个问题：如果我们能为狗做到这一点，为什么不能推广到所有癌症患者？\"<ref>{{cite web |title=Tech boss uses AI and ChatGPT to make his dog a cancer vaccine |url=https://www.thestreet.com/health/tech-boss-uses-ai-and-chatgpt-to-make-his-dog-a-cancer-vaccine |publisher=TheStreet |date=2026-03-16 |access-date=2026-06-27 |archive-date=2026-03-20 |archive-url=https://web.archive.org/web/20260320221813/https://www.thestreet.com/health/tech-boss-uses-ai-and-chatgpt-to-make-his-dog-a-cancer-vaccine |url-status=live }}</ref><ref>{{cite web |title=Paul is using AI to fight his dog's incurable cancer |url=https://news.unsw.edu.au/en/paul-is-using-ai-to-fight-his-dogs-incurable-cancer |publisher=UNSW Sydney |date=2025-06 |access-date=2026-06-27 |archive-date=2026-06-26 |archive-url=https://web.archive.org/web/20260626184217/https://news.unsw.edu.au/en/paul-is-using-ai-to-fight-his-dogs-incurable-cancer |url-status=live }}</ref><ref>{{cite web |title=An Australian tech entrepreneur used AI to help create the first-ever bespoke cancer vaccine for a dog |url=https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mrna/ |publisher=Fortune |date=2026-03-15 |access-date=2026-06-27 |archive-date=2026-05-30 |archive-url=https://web.archive.org/web/20260530115504/https://fortune.com/2026/03/15/australian-tech-entrepreneur-ai-cancer-vaccine-dog-rosie-unsw-mrna/ |url-status=live }}</ref>具体使用的ChatGPT模型版本未在报道中披露。\n\n\n\n2025年8月，OpenAI发布GPT-5系列模型。据TechCrunch报道，GPT-5在SWE-bench Verified（基于真实GitHub问题修复的编程基准测试）上首次尝试得分74.9%，超过同期Anthropic的Claude Opus 4.1（74.5%）和Google DeepMind的Gemini 2.5 Pro（59.6%）。<ref>{{cite web |title=OpenAI's GPT-5 is here |url=https://techcrunch.com/2025/08/07/openais-gpt-5-is-here/ |publisher=TechCrunch |date=2025-08-07 |access-date=2026-06-27 |archive-date=2026-07-02 |archive-url=https://web.archive.org/web/20260702095022/https://techcrunch.com/2025/08/07/openais-gpt-5-is-here/ |url-status=live }}</ref>在数学方面，GPT-5在AIME 2025（竞赛级数学测试，无工具辅助）上达到94.6%的准确率。<ref>{{cite web |title=Introducing GPT-5 |url=https://openai.com/index/introducing-gpt-5/ |publisher=OpenAI |date=2025-08-07 |access-date=2026-06-27 |archive-date=2025-08-07 |archive-url=https://web.archive.org/web/20250807174456/https://openai.com/index/introducing-gpt-5/ |url-status=live }}</ref>\n\n在博士级科学问题测试GPQA Diamond上，GPT-5 Pro首次尝试得分89.4%。OpenAI还表示GPT-5在效率方面有所提升，相较于前代推理模型o3，减少了22%的输出token和45%的工具调用。<ref>{{cite web |title=Introducing GPT-5 for developers |url=https://openai.com/index/introducing-gpt-5-for-developers/ |publisher=OpenAI |date=2025-08-07 |access-date=2026-06-27 |archive-date=2026-07-05 |archive-url=https://web.archive.org/web/20260705102159/https://openai.com/index/introducing-gpt-5-for-developers/ |url-status=live }}</ref>\n\nGPT-5.5在编程基准方面进一步提升，据SWE-bench公开排行榜显示，GPT-5.5在SWE-bench Verified上得分82.60%。<ref>{{cite web |title=SWE-bench Verified Leaderboard |url=https://www.vals.ai/benchmarks/swebench |publisher=Vals.ai |date=2026 |access-date=2026-06-27 |archive-date=2026-07-12 |archive-url=https://web.archive.org/web/20260712224831/https://www.vals.ai/benchmarks/swebench |url-status=live }}</ref>报道指出GPT-5.5在Terminal-Bench 2.0（复杂命令行工作流测试）上达到82.7%，擅长规划、迭代和端到端任务解决。<ref>{{cite web |title=GPT-5.5 agentic coding benchmarks |url=https://siliconangle.com/ |publisher=SiliconANGLE |date=2026 |access-date=2026-06-27 |archive-date=2026-07-07 |archive-url=https://web.archive.org/web/20260707155202/https://siliconangle.com/ |url-status=live }}</ref>\n\n2026年7月，OpenAI发布GPT-5.6系列，旗舰模型Sol在编程方面提升显著。Sol在Terminal-Bench 2.1上标准模式得分88.8%（Ultra模式91.9%），在Coding Agent Index上以80分刷新纪录，但在SWE-Bench Pro上为64.6%。效率方面，相比前代，输出Token减少一半以上，耗时缩短一半以上，成本降低约三分之一。<ref>{{Cite web |title=GPT-5.6 Sol Benchmarks, Pricing & Speed (August 2026) |url=https://benchlm.ai/models/gpt-5-6-sol |website=BenchLM |language=en |access-date=2026-08-31}}</ref>\n\n尽管上述模型在多项基准测试中表现出色，研究人员和评论者指出AI模型仍存在幻觉、需专业监督等局限性，不应完全替代人类专家在关键领域的判断。\n=== 负面 ===\n[[File:Roskilde-Festival-Nick-Cave-3.jpg|thumb|upright=0.7|詞曲作者[[尼克·凱夫]]稱 ChatGPT 是“對人性的荒誕嘲弄”<ref name=\"Cain-2023\" />]]\n\n在发布后的几个月里，ChatGPT遭到了来自[[教師]]、[[记者]]、[[艺术家]]、学者和公众倡导者的广泛而严厉的批评。[[The Verge]]网站的詹姆斯·文森特将ChatGPT的病毒式成功视为人工智能已成为主流的证据<ref name=\":1\"/>。[[CBC新闻|CBC]]记者评论称ChatGPT有“[[幻觉 (人工智能)|幻觉]]”倾向<ref>{{cite news |title=ChatGPT a 'landmark event' for AI, but what does it mean for the future of human labor and disinformation? |url=https://www.cbc.ca/radio/thecurrent/chatgpt-human-labour-and-fake-news-1.6686210 |access-date=2022-12-18 |work=CBC |date=2022-12-15 |first=Mouhamad |last=Rachini |archive-date=2023-01-19 |archive-url=https://web.archive.org/web/20230119175104/https://www.cbc.ca/radio/thecurrent/chatgpt-human-labour-and-fake-news-1.6686210 |url-status=live}}</ref>。在线技术博客[[Mashable]]的迈克·珀尔用多條问题测试了ChatGPT，其中一次他问ChatGPT“[[中美洲]]除[[墨西哥]]外最大的国家”是哪个，ChatGPT回答称是[[危地马拉]]，而答案是[[尼加拉瓜]]<ref name=\"MashableInfo\">{{Cite web |url=https://mashable.com/article/chatgpt-amazing-wrong |title=The ChatGPT chatbot from OpenAI is amazing, creative, and totally wrong |date=2022-12-03 |last=Pearl |first=Mike |work=[[Mashable]] |access-date=2022-12-05 |archive-date=2022-12-10 |archive-url=https://web.archive.org/web/20221210025005/https://mashable.com/article/chatgpt-amazing-wrong |url-status=live}}</ref>。在CNBC向ChatGPT询问《The Ballad of Dwight Fry》的歌词时，ChatGPT给出了完全虚构的歌词<ref name=\"CNBC\" />。The Verge引用的研究员将ChatGPT比作“[[随机鹦鹉]]”<ref>{{cite news |last1=Vincent |first1=James |title=OpenAI's new chatbot can explain code and write sitcom scripts but is still easily tricked |url=https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo |access-date= 2022-12-18 |work=The Verge |date=2022-12-01 |archive-date=2023-01-17 |archive-url=https://web.archive.org/web/20230117070943/https://www.theverge.com/23488017/openai-chatbot-chatgpt-ai-examples-web-demo |url-status=live}}</ref>，{{link-en|澳大利亚机器学习研究所|Australian Institute for Machine Learning}}的安东·范登亨格尔教授也给出了类似的观点，称之为“只是简单重复它认为我们想听的话”的鹦鹉<ref>{{cite news |last1=Mannix |first1=Liam |title=Is AI coming of age – or starting to reach its limits? |url=https://www.smh.com.au/national/is-ai-coming-of-age-or-starting-to-reach-its-limits-20221213-p5c5uy.html |access-date=2022-12-18 |work=The Sydney Morning Herald |date= 2022-12-13 |language=en |archive-date=2023-01-07 |archive-url=https://web.archive.org/web/20230107013927/https://www.smh.com.au/national/is-ai-coming-of-age-or-starting-to-reach-its-limits-20221213-p5c5uy.html |url-status=live}}</ref>。\n\n2022年12月，问答网站[[Stack Overflow]]禁止用户发布使用ChatGPT產生的答案，理由是ChatGPT的答案雖看似可用，实际上却有很高的错误率<ref name=\"TheVergeStackOverflow\" />。2023年1月，{{link-en|国际机器学习大会|International Conference on Machine Learning}}禁止在提交的论文中使用ChatGPT或其他大型语言模型来產生任何文本<ref>{{cite news |last1=Vincent |first1=James |title=Top AI conference bans use of ChatGPT and AI language tools to write academic papers |url=https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper |access-date=2023-01-06 |work=The Verge |date=2023-01-05 |archive-date=2023-01-17 |archive-url=https://web.archive.org/web/20230117131149/https://www.theverge.com/2023/1/5/23540291/chatgpt-ai-writing-tool-banned-writing-academic-icml-paper |url-status=live}}</ref>。[[紐約市]]公立學校禁止師生在校園網路及裝置使用ChatGPT<ref>{{cite news |title=《國際政治》紐約市公立學校 禁用ChatGPT |url=https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E6%94%BF%E6%B2%BB-%E7%B4%90%E7%B4%84%E5%B8%82%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1-%E7%A6%81%E7%94%A8chatgpt-235344914.html |accessdate=2023-02-07 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134548/https://tw.stock.yahoo.com/news/%E5%9C%8B%E9%9A%9B%E6%94%BF%E6%B2%BB-%E7%B4%90%E7%B4%84%E5%B8%82%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1-%E7%A6%81%E7%94%A8chatgpt-235344914.html |dead-url=no }}</ref>。[[香港大學]]禁止師生在課堂、作業和評估中使用ChatGPT或其他AI工具，認定這是[[抄襲]]行為。<ref>{{cite news |title=香港大學禁用ChatGPT 台大研議是否跟進 |url=https://www.cna.com.tw/news/ahel/202302190172.aspx |work=中央社 |accessdate=2023-03-26 |date=2023-02-20 |archive-url=https://web.archive.org/web/20230326133200/https://www.cna.com.tw/news/ahel/202302190172.aspx |dead-url=no |archive-date=2023-03-26 }}</ref>\n\n在《[[纽约时报]]》评论文章中，经济学家[[保羅·克魯曼]]写道，ChatGPT将影响对知识工作者的需求<ref name=\"NYTimesKrugman\">{{Cite web |last=Krugman |first=Paul |author-link=Paul Krugman |date=2022-12-06 |title=Does ChatGPT Mean Robots Are Coming For the Skilled Jobs? |url=https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html |access-date=2022-12-06 |work=[[The New York Times]] |archive-date=2023-01-13 |archive-url=https://web.archive.org/web/20230113204006/https://www.nytimes.com/2022/12/06/opinion/chatgpt-ai-skilled-jobs-automation.html |dead-url=no }}</ref>。[[诺姆·乔姆斯基]]、[[伊恩·罗伯茲]]、杰弗里·瓦图穆尔（Jeffrey Watumull）评价道，“鉴于这些系统的非道德性、[[伪科学]]性和语言无能，我们只能为它们的流行而感到哭笑不得”<ref>{{Cite news|url=https://www.thepaper.cn/newsDetail_forward_22196380|title=Noam Chomsky: The False Promise of ChatGPT|work=[[纽约时报]]|date=2023-03-08|accessdate=2023-03-19|language=en|quote=Given the amorality, faux science and linguistic incompetence of these systems, we can only laugh or cry at their popularity|via=[[澎湃新闻]]|trans-title=乔姆斯基：ChatGPT的虚假承诺|last=Chomsky|first=Noam|authorlink=诺姆·乔姆斯基|last2=Roberts|first2=Ian|last3=Watumull|first3=Jeffrey|translator=龚思量|archive-date=2023-03-19|archive-url=https://web.archive.org/web/20230319102548/https://www.thepaper.cn/newsDetail_forward_22196380|dead-url=no}}</ref>。\n\n2023年1月，在收到一首由ChatGPT以[[尼克·凱夫]]風格創作的歌曲後<ref name=\"Cain-2023\">{{Cite news |date=2023-01-16 |title='This song sucks': Nick Cave responds to ChatGPT song written in the style of Nick Cave |url=https://www.theguardian.com/music/2023/jan/17/this-song-sucks-nick-cave-responds-to-chatgpt-song-written-in-style-of-nick-cave |access-date=2023-01-17 |website=The Guardian |last=Cain |first=Sian |language=en |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118032435/https://www.theguardian.com/music/2023/jan/17/this-song-sucks-nick-cave-responds-to-chatgpt-song-written-in-style-of-nick-cave |url-status=live}}</ref>，歌曲作者本人在《紅手檔案》（The Red Hand Files） <ref>{{Cite web |last=Cave |first=Nick |date=2023-01-16 |title=I asked Chat GPT to write a song in the style of Nick Cave, and this is what it produced. What do you think? |url=https://www.theredhandfiles.com/chat-gpt-what-do-you-think/ |access-date=2023-01-20 |website=The Red Hand Files |series=Issue #218 |language=en-AU |archive-date=2023-01-20 |archive-url=https://web.archive.org/web/20230120080808/https://www.theredhandfiles.com/chat-gpt-what-do-you-think/ |url-status=live}}</ref>上回應說，寫歌的行為是“一項血腥的事業…… .這需要我的一些東西來發起新的和新鮮的想法。它需要我的人性。”他繼續說，“儘管世界上所有的愛和尊重，這首歌都是胡說八道，是對人性的荒誕嘲弄，而且，好吧，我不太喜歡它。”<ref name=\"Cain-2023\" /><ref>{{Cite web |last=Sparrow |first=Jeff |date=2023-01-20 |title=Are AI-generated songs a 'grotesque mockery' of humanity or simply an opportunity to make a new kind of music? |url=https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music |access-date=2023-01-20 |website=The Guardian |language=en |archive-date=2023-02-03 |archive-url=https://web.archive.org/web/20230203051254/https://www.theguardian.com/commentisfree/2023/jan/20/are-ai-generated-songs-a-grotesque-mockery-of-humanity-or-simply-an-opportunity-to-make-a-new-kind-of-music |url-status=live}}</ref>\n\n2023年2月16日，[[杭州市]]某小区[[微信]]业主群一位业主將ChatGPT写的杭州於2023年3月1日取消限行的新闻稿发到群，杭州其實並未發表3月1日取消限行的措施，群員轉發錯誤資訊，錯誤資訊传播開去，最終警方介入调查，涉事业主在该微信群道歉<ref>{{cite news |title=杭州3月1日取消限行？原来是ChatGPT写的假新闻，警方已介入！专家：这些风险也很大………… |url=https://www.nbd.com.cn/articles/2023-02-17/2672946.html |accessdate=2023-02-17 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306205852/https://www.nbd.com.cn/articles/2023-02-17/2672946.html |dead-url=no }}</ref>。\n\n2023年2月22日，为了验证ChatGPT是否能代替医生问诊，[[浙江大学]]医学院附属第一医院精神卫生科医生吕海龙讓ChatGPT做一套由中国执业医师考试卷的题目组成的试卷，满分100分，最终ChatGPT的成绩卻是57分不及格。<ref>{{cite news |title=ChatGPT能看病吗？医生出了一百道单选题，它没及格 |url=https://m.thepaper.cn/newsDetail_forward_22031740 |accessdate=2023-02-24 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134552/https://m.thepaper.cn/newsDetail_forward_22031740 |dead-url=no }}</ref>\n\n2023年3月31日，意大利隐私保护监管机构表示，由於ChatGPT不重视用户资料，而且无法核实用户年龄，该机构已封锁ChatGPT<ref name=\"RFI - 法国国际广播电台 2023\">{{cite web | title=意大利禁用ChatGPT | website=RFI - 法国国际广播电台 | date=2023-03-31 | url=https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20230331-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%A6%81%E7%94%A8chatgpt | language=zh | access-date=2023-04-01 | archive-date=2023-04-29 | archive-url=https://web.archive.org/web/20230429130727/https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20230331-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%A6%81%E7%94%A8chatgpt | dead-url=no }}</ref>。\n\n2023年5月，美國紐約一名律師利用ChatGPT，為同事處理的訴訟蒐集資料，搜尋以往相關案例。該名律師曾多次向ChatGPT確認案例的真偽，惟ChatGPT每次均回答案例真實，結果被對家律師揭發，至少6宗案例並不存在，似是偽造。該名律師其後表示，後悔依賴產生式人工智能，此前從未使用該技術搜尋案例，不知道ChatGPT提供的內容有可能是假。該名律師最終須接受紀律聆訊。<ref>{{cite news |title=ChatGPT: US lawyer admits using AI for case research |url=https://www.bbc.com/news/world-us-canada-65735769 |publisher=BBC |language=en |date=2023-05-29 |accessdate=2023-05-30 |archive-date=2023-06-09 |archive-url=https://web.archive.org/web/20230609190559/https://www.bbc.com/news/world-us-canada-65735769 |dead-url=no }}</ref>\n\n2023年11月，巴西一名地方法官因使用ChatGPT书写判决书出错而接受巴西国家司法委员会的调查。<ref>{{cite web | title=巴西地方法官竟然用ChatGPT写判决书出错，正接受调查 | website=环球网 | url=https://world.huanqiu.com/article/4FMKGiW32vc | language=zh | access-date=2023-12-02 | archive-date=2025-10-12 | archive-url=https://web.archive.org/web/20251012010352/https://world.huanqiu.com/article/4FMKGiW32vc | url-status=live }}</ref>\n\n2025年2月，《[[世界報 (法國)|法國世界報]]》報道指有中國用戶利用ChatGPT創建監視工具向中國當局及中國駐外大使館報告有關[[中華人民共和國人權|中國人權]]的抗議活動和呼籲聲音，尤其是海外支持[[維吾爾族]]的抗議和呼籲，OpenAI還發現有中國用戶利用ChatGPT散播虛假信息，包括詆毀[[異見人士]]的文章。隨後OpenAI公司開除了多個利用ChatGPT建立監視工具的惡意中國用戶<ref>{{Cite news|title=一些中國用戶使用ChatGPT創建監視工具，被停號|url=https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20250224-%E4%B8%80%E4%BA%9B%E4%B8%AD%E5%9C%8B%E7%94%A8%E6%88%B6%E4%BD%BF%E7%94%A8chatgpt%E5%89%B5%E5%BB%BA%E7%9B%A3%E8%A6%96%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%A2%AB%E5%81%9C%E8%99%9F|publisher=[[世界報 (法國)|法國世界報]]|website=[[法國國際廣播電台]]|author=阿曼亭|date=2025-02-24|accessdate=2025-02-24|archive-date=2025-07-04|archive-url=https://web.archive.org/web/20250704170924/https://www.rfi.fr/tw/%E5%B0%88%E6%AC%84%E6%AA%A2%E7%B4%A2/%E6%B3%95%E5%9C%8B%E4%B8%96%E7%95%8C%E5%A0%B1/20250224-%E4%B8%80%E4%BA%9B%E4%B8%AD%E5%9C%8B%E7%94%A8%E6%88%B6%E4%BD%BF%E7%94%A8chatgpt%E5%89%B5%E5%BB%BA%E7%9B%A3%E8%A6%96%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%A2%AB%E5%81%9C%E8%99%9F|dead-url=no}}</ref>。\n\n== 影响 ==\n=== 学术界 ===\n《[[大西洋月刊]]》的Stephen Marche指出它对学术界，尤其是入学申请论文的影响还有待了解<ref>{{Cite web |last=Marche |first=Stephen |date=2022-12-06 |title=The College Essay Is Dead |url=https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/ |access-date=2022-12-08 |website=[[The Atlantic]] |archive-date=2023-01-24 |archive-url=https://web.archive.org/web/20230124042209/https://www.theatlantic.com/technology/archive/2022/12/chatgpt-ai-writing-college-student-essays/672371/ |dead-url=no }}</ref>。加州高中教师兼作家丹尼尔·赫尔曼（Daniel Herman）写道，ChatGPT 将迎来“高中英语的终结”。<ref>{{Cite news |last=Herman |first=Daniel |date=2022-12-09 |title=The End of High-School English |url=https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/ |access-date=2022-12-12 |website=[[The Atlantic]] |archive-date=2023-01-20 |archive-url=https://web.archive.org/web/20230120053725/https://www.theatlantic.com/technology/archive/2022/12/openai-chatgpt-writing-high-school-english-essay/672412/ |dead-url=no }}</ref>[[普林斯顿大学]]的高年级本科生Edward Tian创立了“GPTZero”——基于[[GitHub Copilot]]构建的应用程序<ref>{{Cite news|url=https://coolhunting.com/tech/edward-tians-app-combats-misuse-of-chatgpt/|title=EDWARD TIAN’S APP COMBATS MISUSE OF CHATGPT|accessdate=2023-01-26|archive-date=2023-03-06|archive-url=https://web.archive.org/web/20230306134552/https://coolhunting.com/tech/edward-tians-app-combats-misuse-of-chatgpt/|dead-url=no}}</ref>，它可以扫描文本是否由另一AI编写，打击滥用<ref>{{Cite news |last1=Rosalsky |first1=Greg |last2=Peaslee |first2=Emma |date=2023-01-17 |title=This 22-year-old is trying to save us from ChatGPT before it changes writing forever |work=[[全国公共广播电台|NPR]] |url=https://www.npr.org/sections/money/2023/01/17/1149206188/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-for |access-date=2023-01-18 |quote=On January 2nd, Edward released his app. He named it GPTZero. It basically uses ChatGPT against itself, checking whether \"there's zero involvement or a lot of involvement\" of the AI system in creating a given text. [...] Along these lines, one obvious application for GPTZero is to help teachers identify whether their students are plagiarizing their essays from ChatGPT. |archive-date=2023-01-18 |archive-url=https://web.archive.org/web/20230118055050/https://www.npr.org/sections/money/2023/01/17/1149206188/this-22-year-old-is-trying-to-save-us-from-chatgpt-before-it-changes-writing-for |dead-url=no }}</ref><ref>{{Cite news|title=Teachers are lining up for a ChatGPT detector created by this 22-year-old in Toronto|url=https://www.cp24.com/news/teachers-are-lining-up-for-a-chatgpt-detector-created-by-this-22-year-old-in-toronto-1.6245757|accessdate=2023-01-26|archive-date=2023-03-04|archive-url=https://web.archive.org/web/20230304162107/https://www.cp24.com/news/teachers-are-lining-up-for-a-chatgpt-detector-created-by-this-22-year-old-in-toronto-1.6245757|dead-url=no}}</ref><ref>{{Cite web |date=2025-08-17 |title=ChatGPT’s Study Mode and Break Reminders: Is AI Becoming the New Digital Mentor |url=https://industrywired.com/artificial-intelligence/chatgpts-study-mode-and-break-reminders-is-ai-becoming-the-new-digital-mentor-9664111 |access-date=2025-11-21 |archive-date=2026-03-03 |archive-url=https://web.archive.org/web/20260303160208/https://industrywired.com/artificial-intelligence/chatgpts-study-mode-and-break-reminders-is-ai-becoming-the-new-digital-mentor-9664111 |url-status=live }}</ref>。\n\n自2023年1月4日起，[[紐約市教育局|纽约市教育局]]已限制从其公立学校互联网和设备瀏覽ChatGPT<ref>{{Cite web|title=NYC Bans Students and Teachers from Using ChatGPT|url=https://www.vice.com/en/article/y3p9jx/nyc-bans-students-and-teachers-from-using-chatgpt|access-date=2023-02-04|website=www.vice.com|language=en|archive-date=2023-01-05|archive-url=https://web.archive.org/web/20230105025338/https://www.vice.com/en/article/y3p9jx/nyc-bans-students-and-teachers-from-using-chatgpt|dead-url=no}}</ref>。\n\n自2023年1月24日起，出版商[[施普林格·自然]]规定在其旗下所有期刊的论文中，ChatGPT等大语言模型不能列入作者<ref>{{cite web |title=Tools such as ChatGPT threaten transparent science; here are our ground rules for their use |url=https://www.nature.com/articles/d41586-023-00191-1 |website=Nature |date=2023-01-23 |access-date=2023-02-04 |archive-date=2023-03-07 |archive-url=https://web.archive.org/web/20230307104317/https://www.nature.com/articles/d41586-023-00191-1 |dead-url=no }}</ref>。同月26日，学术期刊《[[科学 (期刊)|科学]]》禁止在论文中使用ChatGPT產生的文本，也禁止将ChatGPT署名为作者。<ref>{{cite web |author1=[[霍尔顿·索普]] |title=ChatGPT is fun, but not an author |url=https://www.science.org/doi/10.1126/science.adg7879 |website=[[科学 (期刊)|科学]] |date=2023-01-26 |access-date=2023-02-04 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306222554/https://www.science.org/doi/10.1126/science.adg7879 |dead-url=no }}</ref>\n\n2023年2月，[[香港大学]]计划与AI在教学上的影响在师生中发起讨论，但在此之前決定禁止在港大所有课堂、作业和评估中使用ChatGPT或其他AI工具<ref>{{cite news |title=港大禁用ChatGPT等AI工具 为全港大学首例 |url=https://news.sciencenet.cn/htmlnews/2023/2/494095.shtm |accessdate=2023-02-18 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134557/https://news.sciencenet.cn/htmlnews/2023/2/494095.shtm |dead-url=no }}</ref><ref>{{Cite news |date=2023-02-18 |title=港大禁用ChatGPT等AI工具，为全港大学首例 |url=https://m.thepaper.cn/newsDetail_forward_21956092 |website=[[澎湃新闻]] |publisher=中国新闻网 |accessdate=2023-02-19 |archive-date=2023-03-06 |archive-url=https://web.archive.org/web/20230306134559/https://m.thepaper.cn/newsDetail_forward_21956092 |dead-url=no }}</ref>。\n\n=== 政府 ===\n2023年3月31日，[[意大利]]政府以涉嫌侵犯隱私為由，宣布禁止使用ChatGPT，展開對OpenAI的調查。ChatGPT已在意大利下架，意大利成為第一個禁止使用ChatGPT的[[西方國家]]<ref>{{cite news |last=Shiona |first=McCallum |url=https://www.bbc.co.uk/news/technology-65139406 |title=ChatGPT banned in Italy over privacy concerns |newspaper=[[BBC]] |date=2023-04-01 |language=en |accessdate=2023-04-01 |dead-url=no |archive-date=2023-06-09 |archive-url=https://web.archive.org/web/20230609092048/https://www.bbc.co.uk/news/technology-65139406 }}</ref><ref>{{cite news|url=https://tw.news.yahoo.com/%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%B0%81%E9%8E%96chatgpt-%E5%AE%98%E6%96%B9-%E6%9C%89%E5%9A%B4%E9%87%8D%E7%96%91%E6%85%AE-012954353.html|title=義大利封鎖ChatGPT！官方：有嚴重疑慮|newspaper=Yahoo奇摩新聞|date=2023-04-01|accessdate=2023-04-01|language=zh-TW|archive-date=2023-04-04|archive-url=https://web.archive.org/web/20230404035514/https://tw.news.yahoo.com/%E7%BE%A9%E5%A4%A7%E5%88%A9%E5%B0%81%E9%8E%96chatgpt-%E5%AE%98%E6%96%B9-%E6%9C%89%E5%9A%B4%E9%87%8D%E7%96%91%E6%85%AE-012954353.html|dead-url=no}}</ref>。2023年4月28日，ChatGPT再度能在意大利使用，ChatGPT亦做出部分修改，包含增加年齡認證系統、讓使用者能得知ChatGPT的隱私政策以及使用者能拒絕提供訓練演算法用的資料<ref>{{cite news |last=Shiona |first=McCallum |url=https://www.bbc.co.uk/news/technology-65431914 |title=ChatGPT accessible again in Italy |newspaper=[[BBC]] |date=2023-04-28 |language=en |accessdate=2023-04-29 |dead-url=no |archive-date=2023-05-25 |archive-url=https://web.archive.org/web/20230525094012/https://www.bbc.co.uk/news/technology-65431914 }}</ref>。\n\n2023年4月10日，日本[[内阁官房长官]][[松野博一]]表示，ChatGPT对个人信息的处理方面等问题应得到重视。在这些问题得到有效解决的前提下，将考虑使用ChatGPT减轻公务员的工作负担。<ref>{{cite news |title=「ChatGPT」開発企業のアルトマンCEO 岸田首相と面会 |url=https://www3.nhk.or.jp/news/html/20230410/k10014034131000.html |language=ja |author= |publisher=[[NHK新聞|NHKニュース]] |date=2023-04-10 |accessdate=2023-04-10 |archive-date=2023-04-26 |archive-url=https://web.archive.org/web/20230426220752/http://www3.nhk.or.jp/news/html/20230410/k10014034131000.html |dead-url=no }}</ref>\n\n2023年5月10日，有[[香港立法會議員]]詢問有關ChatGPT未有在香港開放使用的原因，香港政府回應尊重個別機構就其產品制訂的推出策略及商業安排。<ref>{{cite news |title=政府回應ChatGPT封鎖 |url=https://hktecmedia.com/%e6%94%bf%e5%ba%9c%e5%9b%9e%e6%87%89chatgpt%e5%b0%81%e9%8e%96/ |language=zh |author= |publisher=hkTec |date=2023-05-12 |accessdate=2023-05-12 |archive-date=2023-05-19 |archive-url=https://web.archive.org/web/20230519042332/https://hktecmedia.com/%e6%94%bf%e5%ba%9c%e5%9b%9e%e6%87%89chatgpt%e5%b0%81%e9%8e%96/ |dead-url=no }}</ref>\n\n2023年11月23日，[[阿雷格里港]]一個由ChatGPT編寫的法令生效。<ref>{{cite web | last=Jeantet | first=Diane | last2=Savarese | first2=Mauricio | title=Brazilian city enacts an ordinance that was secretly written by ChatGPT | website=AP News | date=2023-11-30 | url=https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4 | access-date=2023-12-02 | archive-date=2023-12-07 | archive-url=https://web.archive.org/web/20231207215714/https://apnews.com/article/brazil-artificial-intelligence-porto-alegre-5afd1240afe7b6ac202bb0bbc45e08d4 | dead-url=no }}</ref>\n\n=== 企业界 ===\n\n[[三星电子]]DS部门于2023年3月11日批准员工使用ChatGPT后，陆续发生数起信息泄露事故。因此，三星电子发布新规，禁止在公司的设备和内部网络上使用[[生成式人工智慧]]系统。<ref>{{cite news |author1=Mark Gurman |title=Samsung Bans Staff’s AI Use After Spotting ChatGPT Data Leak |url=https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak |accessdate=2023-05-19 |agency=Bloomberg |date=2023-05-02 |language=en |archive-date=2023-05-19 |archive-url=https://web.archive.org/web/20230519172011/https://www.bloomberg.com/news/articles/2023-05-02/samsung-bans-chatgpt-and-other-generative-ai-use-by-staff-after-leak |dead-url=no }}</ref>\n\n据《[[华尔街日报]]》报道，根据看到的一份文件及知情人士的消息，[[苹果公司]]已经限制其员工使用ChatGPT和其他外部AI工具。<ref>{{cite news |author1=Aaron Tilley |author2=Miles Kruppa |title=苹果公司限制员工使用ChatGPT，加入担心泄密的公司行列 |url=https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8chatgpt-%E8%B7%BB%E8%BA%AB%E6%8B%85%E5%BF%83%E6%B3%84%E5%AF%86%E7%9A%84%E5%85%AC%E5%8F%B8%E8%A1%8C%E5%88%97-b53e4eb9 |accessdate=2023-05-19 |work=华尔街日报 |date=2023-05-19 |language=zh-cn |archive-date=2023-06-03 |archive-url=https://web.archive.org/web/20230603021440/https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%99%90%E5%88%B6%E5%91%98%E5%B7%A5%E4%BD%BF%E7%94%A8chatgpt-%E8%B7%BB%E8%BA%AB%E6%8B%85%E5%BF%83%E6%B3%84%E5%AF%86%E7%9A%84%E5%85%AC%E5%8F%B8%E8%A1%8C%E5%88%97-b53e4eb9 |dead-url=no }}</ref>\n=== 教育界 ===\n\nChatGPT-4已在美國律師資格考贏過9成考生，也可以寫論文，參加任何升學考試都能考贏多數人，被視為寫作業和考試神器。台灣Google前董事總經理簡立峰，指出ChatGPT正在挑戰傳統式的教育，「ChatGPT正在挑戰我們傳統式的教育，我們的教育現場裡，把個人發展、差異化發展、學習動機等問題都簡化掉了。<ref>{{cite news |author1=簡立峰 |title=台灣 Google 前董事總經理簡立峰：ChatGPT 時代，不問問題會喪失學習的機會 |url=https://flipedu.parenting.com.tw/article/008163 |accessdate=2023-05-31 |work=翻轉教育-親子天下 |date=2023-06-05 |language=zh-tw |archive-date=2024-12-07 |archive-url=https://web.archive.org/web/20241207193620/https://flipedu.parenting.com.tw/article/008163 |dead-url=unfit }}</ref>\n因應AI造成的影響，也有許多國家的教師嘗試化危機為轉機，將ChatGPT應用在教學或處理行政工作中。<ref>{{cite news |author1=施雲心 |title=ChatGPT怎麼用？8種老師應用ChatGPT的方法分享 |url=https://flipedu.parenting.com.tw/article/008119 |accessdate=2023-04-16 |work=翻轉教育-親子天下 |date=2023-04-16 |language=zh-tw |archive-date=2023-04-17 |archive-url=https://web.archive.org/web/20230417044426/https://flipedu.parenting.com.tw/article/008119 |dead-url=unfit }}</ref>\n\n== 伦理问题==\n===标记数据===\n《[[時代雜誌|时代周刊]]》调查显示，为了建立针对有害内容（例如性虐待、暴力、种族主义、性别歧视等）的安全系统，OpenAI使用每小时收入不到2美元的肯尼亚外判工来标记有害内容。这些标记用于训练模型以在未来检测此类内容。外判工接触到如此有害和危险的内容，以至于他们将这种经历描述为“折磨”。<ref>{{Cite web|date=2023-01-18|title=Exclusive: The $2 Per Hour Workers Who Made ChatGPT Safer|url=https://time.com/6247678/openai-chatgpt-kenya-workers/|access-date=2023-11-21|website=Time|language=en|archive-date=2023-01-19|archive-url=https://web.archive.org/web/20230119152814/https://time.com/6247678/openai-chatgpt-kenya-workers/|dead-url=no}}</ref>\n\n===侵權===\n\n媒體公司創作者聯合提起侵權訴訟，指控ChatGPT的開發商OpenAI以竊取內容的方式來訓練其強大的AI模型。OpenAI則反駁稱為了訓練目的使用包括新聞文章等可取得的資料，都算是合理使用，並發起反控紐約時報違反ChatGPT的使用條款。<ref>{{Cite web|url=\nhttps://www.cna.com.tw/news/aopl/202405010036.aspx |author= Anis Heydari |title=ChatGPT、Copilot涉侵犯版權 美8家報業告OpenAI和微軟|date=2024-05-01|publisher=中央社 |access-date=2024-05-01|archive-date=2025-01-31|archive-url=https://web.archive.org/web/20250130204733/https://www.cbc.ca/news/business/openai-canadian-lawsuit-1.7396940|dead-url=no}}</ref>\n<ref>{{Cite web|url=\nhttps://www.mnews.tw/story/20250108ombuds001 |title=ChatGPT先後在美國和加拿大被告侵權|date=2025-01-08|publisher=鏡新聞|access-date=2024-10-26|archive-date=2021-10-30|archive-url=https://web.archive.org/web/20240429105906/https://www.chinanews.com.cn/cul/2014/09-19/6610979.shtml|dead-url=no}}</ref>\n\n== 竞争 ==\n{{See also|聊天机器人列表}}\nChatGPT出现和流行增强了科技公司对該领域的兴趣和竞争。\n=== Gemini（舊稱：Bard） ===\n{{main|Gemini (聊天機器人)}}\n2023年2月，[[Google]]推出類似於ChatGPT的对话人工智能服务'''Bard'''，基于其开发的[[對話程式語言模型|对话编程语言模型]]（LaMDA）。Bard于2023年3月21日面向美国和英国用户发布，但有很多限制，文字处理仅支持[[美式英语]]<ref>{{Cite web|url=https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on|title=Google opens early access to its ChatGPT rival Bard — here are our first impressions|first=James|last=Vincent|date=2023-03-21|website=The Verge|access-date=2023-03-21|archive-date=2023-03-21|archive-url=https://web.archive.org/web/20230321155526/https://www.theverge.com/2023/3/21/23649794/google-chatgpt-rival-bard-ai-chatbot-access-hands-on|url-status=live}}</ref>。\n\n2023年5月10日，[[Google]]宣布'''Bard'''將支援多國語言及地區<ref>{{Cite web |url=https://support.google.com/bard/answer/13575153?hl=en |title=Google Bard支援語言及地區 |access-date=2023-06-06 |archive-date=2023-05-12 |archive-url=https://web.archive.org/web/20230512071641/https://support.google.com/bard/answer/13575153?hl=en |dead-url=no }}</ref>，除英文外將先提供[[日語]]及[[韓語]]等服務<ref>{{Cite web |url=https://www3.nhk.or.jp/nhkworld/zt/news/k10014063621000/ |title=Google產生式AI「Bard」開始提供日語、韓語等服務 |access-date=2023-06-06 |archive-date=2023-06-06 |archive-url=https://web.archive.org/web/20230606032744/https://www3.nhk.or.jp/nhkworld/zt/news/k10014063621000/ |dead-url=no }}</ref>。\n\n2024年2月8日，更名為'''Gemini'''。\n\n2026年Gemini 3.7flash发布。<ref>{{Cite web |title=Gemini 3.7 Flash - Model Card |url=https://deepmind.google/models/model-cards/gemini-3-7-flash/ |website=Google DeepMind |language=en |access-date=2026-08-22}}</ref>\n\n=== ChatGLM ===\n2023年3月14日，由清华技术成果转化的公司智谱AI基于GLM-130B千亿基座模型的ChatGLM开启邀请制内测，同时开源了中英双语对话模型ChatGLM-6B，支持在单张消费级显卡上进行推理使用。<ref>{{cite news |title=国产对话模型ChatGLM启动内测 |url=https://finance.sina.cn/tech/2023-03-22/detail-imymsuqf9667390.d.html |work=finance.sina.cn |date=2023-03-22 |accessdate=2023-04-02 |archive-date=2023-04-02 |archive-url=https://web.archive.org/web/20230402122833/https://finance.sina.cn/tech/2023-03-22/detail-imymsuqf9667390.d.html |dead-url=no }}</ref>\n\n最新版本GLM5.3可与ChatGPT5.6sol抗衡。<ref>{{Cite web |title=GLM-5.3 |url=https://docs.bigmodel.cn/cn/guide/models/text/glm-5.3 |website=智谱AI开放文档 |language=cn |access-date=2026-08-22}}</ref>\n=== 通义千问 ===\n{{main|通义千问}}\n2023年4月7日，阿里云研发语言模型“通义千问”开始邀请用户测试体验。\n\n2026年8月，Qwen 3.8Max发布。<ref>{{Cite web |title=2.4T参数，Qwen 3.8模型开源，国产超大模型架构走向趋同_腾讯新闻 |url=https://news.qq.com/rain/a/20260813A09YCS00 |website=news.qq.com |date=2026-08-13 |language=zh-CN |last=腾讯网 |access-date=2026-08-22}}</ref>\n=== Claude ===\n{{main|Claude (聊天機器人)}}\n2023年3月，由前OpenAI员工共同创立的初创公司[[Anthropic]]推出了大型语言模型'''Claude'''。它可以被指示执行一系列任务，包括搜索文档，总结，写作和编码，以及回答有关特定主题的问题。在这些方面，它类似于OpenAI的ChatGPT。但[[Anthropic]]认为，Claude“不太可能产生有害的输出”，“更容易交谈”和“更容易操纵”。<ref>{{Cite web|last=Wiggers|first=Kyle|date=2023-03-14|title=Anthropic launches Claude, a chatbot to rival OpenAI's ChatGPT|url=https://techcrunch.com/2023/03/14/anthropic-launches-claude-a-chatbot-to-rival-openais-chatgpt/|access-date=2023-05-21|website=TechCrunch|language=en-US|archive-date=2023-06-09|archive-url=https://web.archive.org/web/20230609062652/https://techcrunch.com/2023/03/14/anthropic-launches-claude-a-chatbot-to-rival-openais-chatgpt/|dead-url=no}}</ref><ref>{{Cite news|title=Alphabet-backed Anthropic releases OpenAI competitor named Claude|url=https://www.reuters.com/technology/alphabet-backed-anthropic-releases-openai-competitor-named-claude-2023-03-14/|newspaper=Reuters|date=2023-03-14|accessdate=2023-05-21|language=en|first=Stephen|last=Nellis|archive-date=2023-05-27|archive-url=https://web.archive.org/web/20230527023722/https://www.reuters.com/technology/alphabet-backed-anthropic-releases-openai-competitor-named-claude-2023-03-14/|dead-url=no}}</ref>\n\n2026年6月，Fable 5模型发布，能力遥遥领先。<ref>{{Cite web |title=Claude Fable |url=https://www.anthropic.com/claude/fable |website=www.anthropic.com |language=en |access-date=2026-08-22}}</ref>\n\n=== DeepSeek ===\n2025年1月20日，[[深度求索]]（DeepSeek）发布[[人工智能]][[大型语言模型]]DeepSeek-R1，专门适用于数学、编码和逻辑等任务，性能对标[[OpenAI o1]]<ref>{{Cite web |title=DeepSeek横空出世，美中AI竞争会迎来根本性改变吗？ |url=https://www.voachinese.com/a/deepseek-china-us-20250127/7952341.html |website=[[美国之音]] |date=2025-01-28 |language=cn-hans |author=文灏 |author2=许宁 |url-status=live |archive-url=https://web.archive.org/web/20250128015128/https://www.voachinese.com/a/deepseek-china-us-20250127/7952341.html |archive-date=2025-01-28 |access-date=2025-02-01}}</ref>。而深度求索以相对较小的成本却开发出拥有极具竞争力的模型则被认为可能足以挑战美国人工智能领域模型优势地位，一些媒体将其描述为美国人工智能领域的“[[斯普特尼克危机]]”<ref>{{Cite news |last=Wade |first=David |date=2024-12-06 |title=American AI has reached its Sputnik moment |url=https://thehill.com/opinion/technology/5024271-ai-sputnik-moment-china-challenge/ |url-status=live |archive-url=https://web.archive.org/web/20241208215538/https://thehill.com/opinion/technology/5024271-ai-sputnik-moment-china-challenge/ |archive-date=2024-12-08 |access-date=2025-01-25 |work=The Hill |language=en-US}}</ref><ref name=\":11\">{{Cite web |title='Sputnik moment': $1tn wiped off US stocks after Chinese firm unveils AI chatbot |url=https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek |date=2025-01-28 |last1=Milmo |first1=Dan |last2=Hawkins |first2=Amy |last3=Booth |first3=Robert |last4=Kollewe |first4=Julia |via=The Guardian |access-date=2025-02-01 |archive-date=2025-02-01 |archive-url=https://web.archive.org/web/20250201001009/https://www.theguardian.com/business/2025/jan/27/tech-shares-asia-europe-fall-china-ai-deepseek |url-status=live }}</ref>。同时，一项初步的研究表明，[[DeepSeek-R1|Deepseek-R1]]模型的完成化学领域问题的能力优于[[ChatGPT|OpenAI-o4-mini]]模型<ref name=\":5\">{{Citation|title=Can reasoning power significantly improve the knowledge of large language models for chemistry? --Based on conversations with Deepseek and ChatGPT|url=https://chemrxiv.org/engage/chemrxiv/article-details/683a4b8bc1cb1ecda06f50ed|date=2025-06-02|accessdate=2025-07-20|doi=10.26434/chemrxiv-2025-85wpr-v3|first=Dong-xu|last=Cui|first2=Shi-yu|last2=Long|first3=Qiao|last3=Li}}</ref>。\n\n2026年8月发布V4正式版，性价比较高。<ref>{{Cite web |title=V4-Flash-Vision-Exp 上线，开启多模态 API 服务 {{!}} DeepSeek API Docs |url=https://api-docs.deepseek.com/zh-cn/news/news260821 |website=api-docs.deepseek.com |language=zh-cn |access-date=2026-08-22}}</ref>\n\n=== Kimi ===\n'''Kimi'''是由中国科技公司[[北京月之暗面科技有限公司]]（Moonshot AI）开发的[[生成式人工智慧|生成式人工智能]][[聊天機器人|聊天机器人]]，其底层模型系列当前最新版本为Kimi K3。<ref>{{Citation|title=Kimi (聊天機器人)|url=https://zh.wikipedia.org/w/index.php?title=Kimi_(%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA)&oldid=93624825|date=2026-07-24|accessdate=2026-08-22|language=zh}}</ref>\n\n== 参见 == \n{{Portal|语言|技術}}\n{{div col|3}}\n* [[GPT (语言模型)]]\n* [[聊天机器人]]\n* [[聊天机器人列表]]\n* [[大型语言模型]]\n* [[大型语言模型列表]]\n* [[通用人工智慧]]\n* [[生成式人工智慧]]\n* [[通用人工智能的生存风险]]\n* [[图灵测试]]\n* [[虚拟助理]]\n* [[第五代程式語言]]\n* [[互聯網死亡論]]\n\n{{div col end}}\n\n==注释==\n{{reflist|40em|group=lower-alpha}}\n\n== 参考文献 ==\n{{reflist|30em}}\n\n== 外部链接 ==\n{{Commons category|ChatGPT}}\n* {{Official}}\n* [https://platform.openai.com/playground  OpenAI Playground] {{Wayback|url=https://platform.openai.com/playground |date=20230610092836 }}\n\n{{OpenAI}}\n{{自然语言处理}}\n{{生成式人工智慧聊天機器人}}\n{{Authority control}}\n\n[[Category:ChatGPT]]\n[[Category:OpenAI]]\n[[Category:聊天机器人]]\n[[Category:大型语言模型]]\n[[Category:基于转换器的生成式预训练模型]]\n[[Category:交互式叙事]]\n[[Category:虛擬助理]]\n[[Category:人工智能应用]]\n[[Category:2022年軟體]]\n[[Category:被防火长城封锁的网站]]"
+}

@@ -1,0 +1,10 @@
+# 运行时临时与探测文件
+_*
+*.tmp
+*.log
+*.ps1
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store

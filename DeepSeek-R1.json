@@ -1,0 +1,428 @@
+{
+  "scrapedAt": "2026-10-08T10:10:47.487Z",
+  "source": {
+    "site": "zh.wikipedia.org",
+    "url": "https://zh.wikipedia.org/wiki/DeepSeek-R1",
+    "proxy": "http://127.0.0.1:4088"
+  },
+  "page": {
+    "pageid": 8997249,
+    "title": "DeepSeek-R1",
+    "displayTitle": "DeepSeek-R1",
+    "language": "zh",
+    "lengthBytes": 26870,
+    "lastRevId": 94766665,
+    "lastEdited": "2026-10-05T06:08:37Z",
+    "lastEditor": "Rcst20",
+    "lastComment": "加入{{tl|DeepSeek}}導航框",
+    "touched": "2026-10-08T02:39:46Z"
+  },
+  "stats": {
+    "sectionCount": 15,
+    "referenceCount": 44,
+    "parsedReferenceCount": 35,
+    "categoryCount": 8,
+    "languageCount": 3,
+    "imageCount": 0,
+    "wikitextChars": 21872,
+    "plaintextChars": 3030
+  },
+  "infobox": {
+    "開發者": "深度求索",
+    "首次发布": "2025年1月20日 (2025-01-20)",
+    "当前版本": "1.0.0（2025年4月9日；穩定版本）",
+    "源代码库": "github.com/deepseek-ai/DeepSeek-R1",
+    "前任": "DeepSeek-R1-Lite",
+    "繼任": "DeepSeek-V3.1",
+    "类型": "大型语言模型 基于转换器的生成式预训练模型 基础模型",
+    "许可协议": "MIT",
+    "网站": "www.deepseek.com"
+  },
+  "references": [
+    {
+      "title": "DeepSeek横空出世，美中AI竞争会迎来根本性改变吗？",
+      "url": "https://www.voachinese.com/a/deepseek-china-us-20250127/7952341.html",
+      "publisher": "美国之音",
+      "date": "2025-01-28",
+      "accessDate": "2025-01-28",
+      "language": "zh"
+    },
+    {
+      "title": "DeepSeek推理模型预览版上线，解密o1推理过程 | DeepSeek API Docs",
+      "url": "https://api-docs.deepseek.com/zh-cn/news/news1120",
+      "publisher": "api-docs.deepseek.com",
+      "date": "",
+      "accessDate": "2025-01-29",
+      "language": "zh-cn"
+    },
+    {
+      "title": "DeepSeek-R1 发布，性能对标 OpenAI o1 正式版",
+      "url": "https://api-docs.deepseek.com/zh-cn/news/news250120",
+      "publisher": "DeepSeek API Docs",
+      "date": "2025-01-20",
+      "accessDate": "2025-01-20",
+      "language": "zh"
+    },
+    {
+      "title": "Release DeepSeek-R1 · deepseek-ai/DeepSeek-R1@23807ce",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1/commit/23807ced51627276434655dd9f27725354818974",
+      "publisher": "GitHub",
+      "date": "",
+      "accessDate": "21 January 2025",
+      "language": "en"
+    },
+    {
+      "title": "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning",
+      "url": "",
+      "publisher": "Springer Science and Business Media LLC",
+      "date": "2025-09-17",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "DeepSeek-R1/DeepSeek_R1.pdf at main · deepseek-ai/DeepSeek-R1",
+      "url": "https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "DeepSeek-V3/DeepSeek_V3.pdf at main · deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf",
+      "publisher": "",
+      "date": "",
+      "accessDate": "",
+      "language": ""
+    },
+    {
+      "title": "量化巨头幻方创始人梁文锋参加总理座谈会并发言，他还创办了\"AI界拼多多\"",
+      "url": "https://www.thepaper.cn/newsDetail_forward_29988888",
+      "publisher": "澎湃新闻",
+      "date": "2025-01-22",
+      "accessDate": "2025-01-28",
+      "language": "zh-CN"
+    },
+    {
+      "title": "DeepSeek\"恐惧感\"支配硅谷！Meta被曝组建4个小组专门研究",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30042298",
+      "publisher": "澎湃新闻",
+      "date": "2025-01-27",
+      "accessDate": "2025-01-29",
+      "language": "zh-CN"
+    },
+    {
+      "title": "DeepSeek-R1-0528 Release",
+      "url": "https://api-docs.deepseek.com/news/news250528",
+      "publisher": "DeepSeek API Docs",
+      "date": "2025-05-28",
+      "accessDate": "2025-05-28",
+      "language": ""
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-R1-0528",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1-0528",
+      "publisher": "Hugging Face",
+      "date": "",
+      "accessDate": "2025-05-28",
+      "language": ""
+    },
+    {
+      "title": "DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro",
+      "url": "https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/",
+      "publisher": "VentureBeat",
+      "date": "2025-05-28",
+      "accessDate": "2025-05-29",
+      "language": ""
+    },
+    {
+      "title": "“价格屠夫”DeepSeek的理想主义：开源、降本与AI普惠",
+      "url": "https://www.cls.cn/detail/1931111",
+      "publisher": "财联社",
+      "date": "2025-01-28",
+      "accessDate": "2025-01-28",
+      "language": "zh-CN"
+    },
+    {
+      "title": "DeepSeek’s first reasoning model R1-Lite-Preview turns heads, beating OpenAI o1 performance",
+      "url": "https://venturebeat.com/ai/deepseeks-first-reasoning-model-r1-lite-preview-turns-heads-beating-openai-o1-performance/",
+      "publisher": "VentureBeat",
+      "date": "2024-11-20",
+      "accessDate": "2025-01-29",
+      "language": "en-US"
+    },
+    {
+      "title": "多地政务系统接入DeepSeek意味着什么？",
+      "url": "https://www.news.cn/local/20250219/92e940caa34f4f4f8008d6ab1888389d/c.html",
+      "publisher": "新华网",
+      "date": "",
+      "accessDate": "2025-02-20",
+      "language": ""
+    },
+    {
+      "title": "广州、深圳政务系统接入DeepSeek",
+      "url": "https://news.sina.com.cn/c/2025-02-16/doc-inekshpa5027464.shtml",
+      "publisher": "新浪新闻",
+      "date": "",
+      "accessDate": "2025-02-20",
+      "language": ""
+    },
+    {
+      "title": "深圳70名“AI公务员”上岗，公文处理、招商引资等场景均有覆盖",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30184250",
+      "publisher": "澎湃新闻",
+      "date": "",
+      "accessDate": "2025-05-15",
+      "language": ""
+    },
+    {
+      "title": "首批“AI公务员”上岗！人类“饭碗”不保？",
+      "url": "https://finance.sina.com.cn/tech/2025-02-20/doc-inemarzm4048969.shtml#:~:text=DeepSeek%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%9E%E7%AD%94%E6%98%AF%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A4%8D%E6%9D%82%E4%B8%94%E5%A4%9A%E7%BB%B4%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E6%B6%89%E5%8F%8A%E6%8A%80%E6%9C%AF%E8%BF%9B%E6%AD%A5%E3%80%81%E5%B0%B1%E4%B8%9A%E7%BB%93%E6%9E%84%E3%80%81%E7%A4%BE%E4%BC%9A%E6%94%BF%E7%AD%96%E7%AD%89%E5%A4%9A%E4%B8%AA%E6%96%B9%E9%9D%A2%E3%80%82%20AI%E5%9C%A8%E5%A4%84%E7%90%86%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E3%80%81%E6%89%A7%E8%A1%8C%E9%87%8D%E5%A4%8D%E6%80%A7%E4%BB%BB%E5%8A%A1%E3%80%81%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E5%92%8C%E5%87%8F%E5%B0%91%E9%94%99%E8%AF%AF%E6%96%B9%E9%9D%A2%E5%85%B7%E6%9C%89%E6%98%BE%E8%91%97%E4%BC%98%E5%8A%BF%E3%80%82,%E4%BD%86AI%E7%9B%AE%E5%89%8D%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%8C%E5%85%A8%E6%9B%BF%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%88%9B%E9%80%A0%E5%8A%9B%E3%80%81%E6%83%85%E6%84%9F%E6%99%BA%E8%83%BD%E5%92%8C%E5%A4%8D%E6%9D%82%E5%86%B3%E7%AD%96%E8%83%BD%E5%8A%9B%E3%80%82%20%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E4%BD%9C%E4%B8%AD%E6%B6%89%E5%8F%8A%E7%9A%84%E8%AE%B8%E5%A4%9A%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A6%82%E6%94%BF%E7%AD%96%E5%88%B6%E5%AE%9A%E3%80%81%E5%85%AC%E4%BC%97%E6%B2%9F%E9%80%9A%E3%80%81%E5%8D%B1%E6%9C%BA%E7%AE%A1%E7%90%86%E7%AD%89%EF%BC%8C%E4%BB%8D%E7%84%B6%E9%9C%80%E8%A6%81%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%88%A4%E6%96%AD%E5%92%8C%E5%90%8C%E7%90%86%E5%BF%83%E3%80%82",
+      "publisher": "新浪财经",
+      "date": "",
+      "accessDate": "2025-02-20",
+      "language": ""
+    },
+    {
+      "title": "深圳福田引入 70 個 AI 公務員 基於 DeepSeek R1、錯誤率5% 內",
+      "url": "https://unwire.hk/2025/02/17/shenzhen-ai-civil-servants/ai/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-02-17",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "佛山“江义村智慧乡村平台”接入DeepSeek",
+      "url": "https://news.qq.com/rain/a/20250218A05C6H00",
+      "publisher": "腾讯网",
+      "date": "",
+      "accessDate": "2025-02-20",
+      "language": ""
+    },
+    {
+      "title": "中國引入 DeepSeek 開發新戰機 AI 協助決策系統革新",
+      "url": "https://unwire.hk/2025/05/06/deepseek-aero/ai/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-05-06",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "BMW 在中國車款接入 DeepSeek 推動車輛智能化升級",
+      "url": "https://unwire.hk/2025/04/24/bmw-deepseek/ai/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-04-24",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "DeepSeek 席捲中國汽車市場 東風、比亞迪、上汽紛紛加入 AI",
+      "url": "https://unwire.hk/2025/03/24/deepseek-ai-in-car/ai/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-03-24",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "Honda 中國車款接入 DeepSeek 並與 Momenta、寧德時代等中國廠商合作",
+      "url": "https://unwire.hk/2025/04/24/honda-deepseek/life-tech/auto/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-04-24",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "日產 N7 搭載 DeepSeek AI 技術 反攻中國市場",
+      "url": "https://unwire.hk/2025/02/13/nissan-n7-deepseek-ai/life-tech/auto/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-02-13",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "DeepSeek 應用緬甸地震救災 7 小時開發中英緬互譯系統",
+      "url": "https://unwire.hk/2025/04/02/7-hours-develop-deepseek-translator/ai/",
+      "publisher": "香港 unwire.hk 玩生活．樂科技",
+      "date": "2025-04-02",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "DeepSeek、衛星+AI、半機械昆蟲 人工智能助力緬甸地震救災",
+      "url": "https://www.wenweipo.com/a/202504/06/AP67f1f58ce4b04c1848ef87c3.html",
+      "publisher": "香港文匯網",
+      "date": "",
+      "accessDate": "2025-05-15",
+      "language": "zh-Hans-HK"
+    },
+    {
+      "title": "緬甸地震︱DeepSeek協助救災 7小時開發中緬英互譯系統",
+      "url": "https://www.stheadline.com/realtime-china/3443417/%E7%B7%AC%E7%94%B8%E5%9C%B0%E9%9C%87DeepSeek%E5%8D%94%E5%8A%A9%E6%95%91%E7%81%BD-7%E5%B0%8F%E6%99%82%E9%96%8B%E7%99%BC%E4%B8%AD%E7%B7%AC%E8%8B%B1%E4%BA%92%E8%AD%AF%E7%B3%BB%E7%B5%B1",
+      "publisher": "星島頭條",
+      "date": "2025-04-02",
+      "accessDate": "2025-05-15",
+      "language": "zh-HK"
+    },
+    {
+      "title": "DeepSeek超越ChatGPT，登顶苹果美国区免费APP下载排行榜",
+      "url": "https://www.thepaper.cn/newsDetail_forward_30041291",
+      "publisher": "澎湃新闻",
+      "date": "2025-01-27",
+      "accessDate": "2025-01-29",
+      "language": ""
+    },
+    {
+      "title": "ナスダック大幅下落 中国企業ディープシーク 生成AI開発受け",
+      "url": "https://www3.nhk.or.jp/news/html/20250128/k10014705511000.html",
+      "publisher": "NHKニュース",
+      "date": "2025-01-28",
+      "accessDate": "2025-01-28",
+      "language": "ja"
+    },
+    {
+      "title": "英伟达市值蒸发近6000亿美元，规模创美股史上最大，市值跌至全球第三",
+      "url": "https://wallstreetcn.com/articles/3740143",
+      "publisher": "华尔街见闻",
+      "date": "2025-01-28",
+      "accessDate": "2025-01-28",
+      "language": "zh-CN"
+    },
+    {
+      "title": "Meta Scrambles After Chinese AI Equals Its Own, Upending Silicon Valley",
+      "url": "https://www.theinformation.com/articles/meta-scrambles-after-chinese-ai-equals-its-own-upending-silicon-valley",
+      "publisher": "The Information",
+      "date": "2024-01-27",
+      "accessDate": "2025-01-29",
+      "language": "en"
+    },
+    {
+      "title": "DeepSeek震撼硅谷 Meta组建四个研究小组专门破解",
+      "url": "https://www.cls.cn/detail/1930881",
+      "publisher": "财联社",
+      "date": "2025-01-27",
+      "accessDate": "2025-01-29",
+      "language": ""
+    },
+    {
+      "title": "OpenAI称有证据表明DeepSeek利用其模型训练竞争对手",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250129-openai%E7%A7%B0%E6%9C%89%E8%AF%81%E6%8D%AE%E8%A1%A8%E6%98%8Edeepseek%E5%88%A9%E7%94%A8%E5%85%B6%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B",
+      "publisher": "RFI - 法国国际广播电台",
+      "date": "2025-01-29",
+      "accessDate": "2025-01-29",
+      "language": "zh-Hans"
+    },
+    {
+      "title": "Secrets of DeepSeek AI model revealed in landmark paper",
+      "url": "https://www.nature.com/articles/d41586-025-03015-6",
+      "publisher": "",
+      "date": "2025-09-17",
+      "accessDate": "2025-09-18",
+      "language": "en"
+    }
+  ],
+  "categories": [
+    "Category:2025年軟體",
+    "Category:CS1日语来源 (ja)",
+    "Category:CS1美国英语来源 (en-us)",
+    "Category:CS1英语来源 (en)",
+    "Category:大型语言模型",
+    "Category:引文格式1维护：未识别语文类型",
+    "Category:深度求索",
+    "Category:聊天机器人"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "title": "DeepSeek-R1"
+    },
+    {
+      "lang": "ja",
+      "title": "DeepSeek-R1"
+    },
+    {
+      "lang": "ru",
+      "title": "DeepSeek-R1"
+    }
+  ],
+  "images": [],
+  "sections": [
+    {
+      "level": 2,
+      "title": "訓練",
+      "plaintext": "DeepSeek-R1-Lite是Deepseek R1的預覽版，于2024年11月20日发布，后于2025年1月20日正式发布DeepSeek R1。\nDeepSeek-R1与DeepSeek-R1-Zero基于DeepSeek-V3-Base，与其共享了相同的架构。DeepSeek-R1-Distill系列模型由其他预训练的开放权重模型初始化，然后基于R1生成的合成数据进行微调。\n\nDeepSeek-R1-Zero仅使用GRPO强化学习进行训练，未使用SFT。与之前的版本不同，它没有使用基于模型的奖励；所有奖励函数均基于规则，主要分为两种类型 ：准确率奖励和格式奖励。准确率奖励用于检查方框内的答案是否正确或代码是否通过测试。格式奖励用于检查模型是否将其思维轨迹置于<think>...</think>标签内。\nDeepSeek-R1的论文中没有公布其训练成本等细节。 不过，此前的论文中，深度求索透露其训练使用的是英伟达因为美国出口管制而，针对中国市场特供的低配版GPU H800，训练成本为557.6万美元，远低于类似西方公司的闭源模型。\n外界预估R1的训练成本比DeepSeek-V3略高，或在600万美元上下。"
+    },
+    {
+      "level": 2,
+      "title": "衍生型",
+      "plaintext": ""
+    },
+    {
+      "level": 3,
+      "title": "DeepSeek-R1-0528",
+      "plaintext": "2025年5月28日，深度求索发布DeepSeek-R1-0528，为R1的小版本升级。此版本与原版R1同样基于DeepSeek-V3-Base，并未进行根本性的架构变更，而是通过投入更多算力及在后训练阶段引入算法优化机制，进一步提升了推理深度与推断能力。\n在性能方面，R1-0528在AIME 2025测试中的准确率由70%大幅提升至87.5%，每道题的平均思考长度亦由约12,000个token增至约23,000个token，反映出更深层次的推理过程。在编程基准LiveCodeBench上，pass@1成功率由63.5%提升至73.3%；在软件工程基准SWE-Verified上，准确率则由49.2%提升至57.6%。\n除性能提升外，R1-0528亦降低了幻觉率，并新增对JSON输出及函数调用的支持，以提升开发者的使用体验。同时，深度求索亦将R1-0528的思维链蒸馏至Qwen3 8B Base，推出了DeepSeek-R1-0528-Qwen3-8B，以便对硬件要求较低的用户使用。"
+    },
+    {
+      "level": 2,
+      "title": "特點",
+      "plaintext": "DeepSeek稱該模型用了強化學習訓練，並為用户展現了 o1 没有公开的完整思考过程。\nDeepseek R1 Lite在回答問題前會花更多時間思考，因此準確度會增強。Deepseek的測試結果表明，在數學競賽上的得分與測驗所允許思考的長度緊密相關，而模型思維鍊長度增加，展現了更高的效率。\nDeepSeek-R1關鍵特點就是便宜，與OpenAI o1的價格相差極大。DeepSeek-R1上线时提供的API服务定价为每百万输入tokens 1元人民幣 / 4元 ，每百万输出tokens 16元，输出API价格仅仅只有OpenAI o1的3%。"
+    },
+    {
+      "level": 2,
+      "title": "測試成績",
+      "plaintext": "Deepseek-R1-Lite在數學、代碼和複雜邏輯推理上，獲得媲美 o1-preview 的推理效果。\n在美国数学邀请赛中，DeepSeek 稱，該模型在美國邀請數學考試和 MATH 等既定基準上的表現超過了 OpenAI o1 Preview的水平，在國際數學奧林匹克正確率達到83%，\n它還在Codeforces編程競賽中優於89%的參賽者，但在GPQA Diamond，LiveCodeBench和自然語言解謎中較為遜色。"
+    },
+    {
+      "level": 2,
+      "title": "應用情況",
+      "plaintext": "DeepSeek-R1使用MIT协议开源，意味着任何人都可以自由使用该模型，包括商业用途。\n用户可以在DeepSeek官方网站和App使用官方提供的服務，也可通过本地部署、调用API，或者使用第三方平台。"
+    },
+    {
+      "level": 3,
+      "title": "公共服务",
+      "plaintext": "2025年2月起，中国多地政府部门相继将DeepSeek接入政务服务系统，用于公文写作、政策解读等方面。\n2025年2月8日，广东省深圳市龙岗区政务服务和数据管理局就已经在政务外网部署了DeepSeek-R1模型。\n2025年2月16日，深圳市正式为全市各区及各部门提供DeepSeek模型应用服务；其中，福田区基于DeepSeek开发了首批70名AI「数智员工」。\n2025年2月17日，佛山市「江义村智慧乡村平台」正式接入DeepSeek。\n2025年2月18日，北京市丰台区在政务云本地部署DeepSeek大模型。"
+    },
+    {
+      "level": 3,
+      "title": "其他",
+      "plaintext": "瀋陽飛機設計研究所在研發新戰機的過程中，引入了DeepSeek。\n多家汽車製造商，包括BMW、東風汽車、比亞迪、廣汽、零跑、本田、日產，宣佈與DeepSeek合作，將其AI系統和中國版汽車結合。\n在2025年緬甸地震的救援行動中，中國國家緊急語言服務團與北京語言大學團隊基於DeepSeek的大模型，研發中緬英互譯系統，支援中國國際救援隊進行救災工作，並在未來開源與其他地區使用。"
+    },
+    {
+      "level": 2,
+      "title": "外界反应",
+      "plaintext": "1月27日，DeepSeek超越ChatGPT，登顶苹果App Store美国区免费APP下载排行榜。\nDeepSeek-R1爆火，引发全球投资者大量抛售人工智能相关股票。1月27日，英伟达美股股价下跌近17%，单日市值蒸发5890亿美元，为美国股市历史上最大。\nDeepSeek-R1发布后不久，Meta首席执行官马克·扎克伯格就宣布，Meta计划在2025年投入超600亿美元，加大对人工智能的投入。据媒体1月27日报道，Meta成立了四个研究小组，专门研究DeepSeek的模型。其中两个小组研究其开发者如何降低训练和运行DeepSeek的成本，第三个小组研究训练模型可能使用了哪些数据，第四个小组研究基于DeepSeek模型属性重构其LLaMA模型的新技术。\nOpenAI表示，其有证据表明DeepSeek使用OpenAI的专有模型来训练自己的开源模型，这违反了OpenAI的服务条款。在R1的Nature论文释出的同行评议文件中，DeepSeek-R1的研究人员称，R1 并没有使用OpenAI专有模型生成的样本但同时承认与大多数的生成模型一样，在训练过程中不可避免地使用了互联网上的由其他AI生成样本。"
+    },
+    {
+      "level": 2,
+      "title": "参见",
+      "plaintext": "DeepSeek-V2.5\nDeepSeek V3\nDeepSeek-V4\nOpenAI o1"
+    },
+    {
+      "level": 2,
+      "title": "注释",
+      "plaintext": ""
+    },
+    {
+      "level": 2,
+      "title": "参考资料",
+      "plaintext": ""
+    },
+    {
+      "level": 2,
+      "title": "外部链接",
+      "plaintext": ""
+    },
+    {
+      "level": 3,
+      "title": "官方网页",
+      "plaintext": "DeepSeek-R1-Lite 发布 （页面存档备份，存于互联网档案馆）\nDeepSeek-R1 发布，性能对标 OpenAI o1 正式版 （页面存档备份，存于互联网档案馆）\ndeepseek-ai/DeepSeek-R1 （页面存档备份，存于互联网档案馆）"
+    },
+    {
+      "level": 3,
+      "title": "媒体专题",
+      "plaintext": "【专题】DeepSeek改写AI战局 - 澎湃新闻 （页面存档备份，存于互联网档案馆）"
+    }
+  ],
+  "lead": "DeepSeek-R1是深度求索（DeepSeek）于2025年1月20日发布的人工智能大型语言模型，专门适用于数学、编码和逻辑等任务，性能对标OpenAI o1。",
+  "plaintext": "DeepSeek-R1是深度求索（DeepSeek）于2025年1月20日发布的人工智能大型语言模型，专门适用于数学、编码和逻辑等任务，性能对标OpenAI o1。\n\n\n== 訓練 ==\nDeepSeek-R1-Lite是Deepseek R1的預覽版，于2024年11月20日发布，后于2025年1月20日正式发布DeepSeek R1。\nDeepSeek-R1与DeepSeek-R1-Zero基于DeepSeek-V3-Base，与其共享了相同的架构。DeepSeek-R1-Distill系列模型由其他预训练的开放权重模型初始化，然后基于R1生成的合成数据进行微调。\n\nDeepSeek-R1-Zero仅使用GRPO强化学习进行训练，未使用SFT。与之前的版本不同，它没有使用基于模型的奖励；所有奖励函数均基于规则，主要分为两种类型 ：准确率奖励和格式奖励。准确率奖励用于检查方框内的答案是否正确或代码是否通过测试。格式奖励用于检查模型是否将其思维轨迹置于<think>...</think>标签内。\nDeepSeek-R1的论文中没有公布其训练成本等细节。 不过，此前的论文中，深度求索透露其训练使用的是英伟达因为美国出口管制而，针对中国市场特供的低配版GPU H800，训练成本为557.6万美元，远低于类似西方公司的闭源模型。\n外界预估R1的训练成本比DeepSeek-V3略高，或在600万美元上下。\n\n\n== 衍生型 ==\n\n\n=== DeepSeek-R1-0528 ===\n2025年5月28日，深度求索发布DeepSeek-R1-0528，为R1的小版本升级。此版本与原版R1同样基于DeepSeek-V3-Base，并未进行根本性的架构变更，而是通过投入更多算力及在后训练阶段引入算法优化机制，进一步提升了推理深度与推断能力。\n在性能方面，R1-0528在AIME 2025测试中的准确率由70%大幅提升至87.5%，每道题的平均思考长度亦由约12,000个token增至约23,000个token，反映出更深层次的推理过程。在编程基准LiveCodeBench上，pass@1成功率由63.5%提升至73.3%；在软件工程基准SWE-Verified上，准确率则由49.2%提升至57.6%。\n除性能提升外，R1-0528亦降低了幻觉率，并新增对JSON输出及函数调用的支持，以提升开发者的使用体验。同时，深度求索亦将R1-0528的思维链蒸馏至Qwen3 8B Base，推出了DeepSeek-R1-0528-Qwen3-8B，以便对硬件要求较低的用户使用。\n\n\n== 特點 ==\nDeepSeek稱該模型用了強化學習訓練，並為用户展現了 o1 没有公开的完整思考过程。\nDeepseek R1 Lite在回答問題前會花更多時間思考，因此準確度會增強。Deepseek的測試結果表明，在數學競賽上的得分與測驗所允許思考的長度緊密相關，而模型思維鍊長度增加，展現了更高的效率。\nDeepSeek-R1關鍵特點就是便宜，與OpenAI o1的價格相差極大。DeepSeek-R1上线时提供的API服务定价为每百万输入tokens 1元人民幣 / 4元 ，每百万输出tokens 16元，输出API价格仅仅只有OpenAI o1的3%。\n\n\n== 測試成績 ==\nDeepseek-R1-Lite在數學、代碼和複雜邏輯推理上，獲得媲美 o1-preview 的推理效果。\n在美国数学邀请赛中，DeepSeek 稱，該模型在美國邀請數學考試和 MATH 等既定基準上的表現超過了 OpenAI o1 Preview的水平，在國際數學奧林匹克正確率達到83%，\n它還在Codeforces編程競賽中優於89%的參賽者，但在GPQA Diamond，LiveCodeBench和自然語言解謎中較為遜色。\n\n\n== 應用情況 ==\nDeepSeek-R1使用MIT协议开源，意味着任何人都可以自由使用该模型，包括商业用途。\n用户可以在DeepSeek官方网站和App使用官方提供的服務，也可通过本地部署、调用API，或者使用第三方平台。\n\n\n=== 公共服务 ===\n2025年2月起，中国多地政府部门相继将DeepSeek接入政务服务系统，用于公文写作、政策解读等方面。\n2025年2月8日，广东省深圳市龙岗区政务服务和数据管理局就已经在政务外网部署了DeepSeek-R1模型。\n2025年2月16日，深圳市正式为全市各区及各部门提供DeepSeek模型应用服务；其中，福田区基于DeepSeek开发了首批70名AI「数智员工」。\n2025年2月17日，佛山市「江义村智慧乡村平台」正式接入DeepSeek。\n2025年2月18日，北京市丰台区在政务云本地部署DeepSeek大模型。\n\n\n=== 其他 ===\n瀋陽飛機設計研究所在研發新戰機的過程中，引入了DeepSeek。\n多家汽車製造商，包括BMW、東風汽車、比亞迪、廣汽、零跑、本田、日產，宣佈與DeepSeek合作，將其AI系統和中國版汽車結合。\n在2025年緬甸地震的救援行動中，中國國家緊急語言服務團與北京語言大學團隊基於DeepSeek的大模型，研發中緬英互譯系統，支援中國國際救援隊進行救災工作，並在未來開源與其他地區使用。\n\n\n== 外界反应 ==\n1月27日，DeepSeek超越ChatGPT，登顶苹果App Store美国区免费APP下载排行榜。\nDeepSeek-R1爆火，引发全球投资者大量抛售人工智能相关股票。1月27日，英伟达美股股价下跌近17%，单日市值蒸发5890亿美元，为美国股市历史上最大。\nDeepSeek-R1发布后不久，Meta首席执行官马克·扎克伯格就宣布，Meta计划在2025年投入超600亿美元，加大对人工智能的投入。据媒体1月27日报道，Meta成立了四个研究小组，专门研究DeepSeek的模型。其中两个小组研究其开发者如何降低训练和运行DeepSeek的成本，第三个小组研究训练模型可能使用了哪些数据，第四个小组研究基于DeepSeek模型属性重构其LLaMA模型的新技术。\nOpenAI表示，其有证据表明DeepSeek使用OpenAI的专有模型来训练自己的开源模型，这违反了OpenAI的服务条款。在R1的Nature论文释出的同行评议文件中，DeepSeek-R1的研究人员称，R1 并没有使用OpenAI专有模型生成的样本但同时承认与大多数的生成模型一样，在训练过程中不可避免地使用了互联网上的由其他AI生成样本。\n\n\n== 参见 ==\nDeepSeek-V2.5\nDeepSeek V3\nDeepSeek-V4\nOpenAI o1\n\n\n== 注释 ==\n\n\n== 参考资料 ==\n\n\n== 外部链接 ==\n\n\n=== 官方网页 ===\nDeepSeek-R1-Lite 发布 （页面存档备份，存于互联网档案馆）\nDeepSeek-R1 发布，性能对标 OpenAI o1 正式版 （页面存档备份，存于互联网档案馆）\ndeepseek-ai/DeepSeek-R1 （页面存档备份，存于互联网档案馆）\n\n\n=== 媒体专题 ===\n【专题】DeepSeek改写AI战局 - 澎湃新闻 （页面存档备份，存于互联网档案馆）",
+  "wikitext": "{{Infobox software\n| title = DeepSeek R1\n| logo = \n| developer = [[深度求索]]\n| released = {{start date|2025|1|20}}\n| genre = {{indented plainlist|\n*[[大型语言模型]]\n*[[基于转换器的生成式预训练模型]]\n*[[基础模型]]\n}}\n| license = [[MIT許可證|MIT]]\n| website = {{URL|https://www.deepseek.com/}}\n| replaces = [[DeepSeek-R1-Lite]]\n| replaced_by = [[DeepSeek-V3.1]]\n}}'''DeepSeek-R1'''是[[深度求索]]（DeepSeek）于2025年1月20日发布的[[人工智能]][[大型语言模型]]，专门适用于数学、编码和逻辑等任务，性能对标[[OpenAI o1]]<ref name=\":0\">{{Cite web |title=DeepSeek横空出世，美中AI竞争会迎来根本性改变吗？ |url=https://www.voachinese.com/a/deepseek-china-us-20250127/7952341.html |website=美国之音 |date=2025-01-28 |language=zh |access-date=2025-01-28 |archive-date=2025-01-28 |archive-url=https://web.archive.org/web/20250128015128/https://www.voachinese.com/a/deepseek-china-us-20250127/7952341.html |dead-url=no }}</ref>。\n\n== 訓練 ==\nDeepSeek-R1-Lite是Deepseek R1的預覽版，于2024年11月20日发布，<ref name=\":02\">{{Cite web |title=DeepSeek推理模型预览版上线，解密o1推理过程 {{!}} DeepSeek API Docs |url=https://api-docs.deepseek.com/zh-cn/news/news1120 |website=api-docs.deepseek.com |language=zh-cn |archive-url=https://web.archive.org/web/20250126111441/https://api-docs.deepseek.com/zh-cn/news/news1120 |archive-date=2025-01-26 |access-date=2025-01-29 |dead-url=no}}</ref>后于2025年1月20日正式发布DeepSeek R1。<ref name=\"j940\">{{cite web|title=DeepSeek-R1 发布，性能对标 OpenAI o1 正式版|website=DeepSeek API Docs|date=2025-01-20|url=https://api-docs.deepseek.com/zh-cn/news/news250120|language=zh|access-date=2025-01-20|archive-date=2025-01-23|archive-url=https://web.archive.org/web/20250123180423/https://api-docs.deepseek.com/zh-cn/news/news250120|url-status=live}}</ref>\n\nDeepSeek-R1与DeepSeek-R1-Zero<ref>{{Cite web|title=Release DeepSeek-R1 · deepseek-ai/DeepSeek-R1@23807ce |url=https://github.com/deepseek-ai/DeepSeek-R1/commit/23807ced51627276434655dd9f27725354818974|access-date=21 January 2025|website=[[GitHub]]|language=en|archive-date=21 January 2025|archive-url=https://web.archive.org/web/20250121104009/https://github.com/deepseek-ai/DeepSeek-R1/commit/23807ced51627276434655dd9f27725354818974 |url-status=live}}</ref>基于DeepSeek-V3-Base，与其共享了相同的架构。DeepSeek-R1-Distill系列模型由其他预训练的开放权重模型{{notetag|包括[[LLaMA]]和[[Qwen]]}}初始化，然后基于R1生成的合成数据进行微调。<ref name=\"Ma, Shirong-2025\">{{Citation|author1=DeepSeek-AI|last2=Guo|first2=Daya|last3=Yang |first3=Dejian|last4=Zhang|first4=Haowei|last5=Song|first5=Junxiao|last6=Zhang|first6=Ruoyu|last7=Xu|first7=Runxin|last8=Zhu|first8=Qihao|last9=Ma|first9=Shirong|date=22 January 2025|title=DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning |arxiv=2501.12948}}</ref>\n\n{{Quote box\n| title = <code>DeepSeek-R1-Zero</code>的训练模板\n| quote = A conversation between User and Assistant. The User asks a question and the Assistant solves it. The Assistant first thinks about the reasoning process in the mind and then provides the User with the answer. The reasoning process and answer are enclosed within <code><think>...</think></code> and <code><answer>...</answer></code> tags, respectively, that is, <code><think></code> reasoning process here <code></think></code><code><answer></code> answer here <code></answer></code>. User: <code>prompt</code>{{noteTag|<code>prompt</code>在训练过程中会被具体的推理问题所替换。}}. Assistant:\n| source = <ref name=\"nature-dsr1\">{{cite journal|last1=Guo|first1=Daya|last2=Yang|first2=Dejian|last3=Zhang|first3=Haowei|last4=Song|first4=Junxiao|last5=Wang|first5=Peiyi|title=DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning|journal=Nature|publisher=Springer Science and Business Media LLC|volume=645|issue=8081|date=2025-09-17|issn=0028-0836|doi=10.1038/s41586-025-09422-z|doi-access=free|pages=633–638}}</ref>\n| align = right\n| width = 350px\n}}\n\nDeepSeek-R1-Zero仅使用GRPO强化学习进行训练，未使用SFT。与之前的版本不同，它没有使用基于模型的奖励；所有奖励函数均基于规则，主要分为两种类型 {{notetag|其他类型未具体说明}}：准确率奖励和格式奖励。准确率奖励用于检查方框内的答案是否正确{{notetag|针对数学问题}}或代码是否通过测试{{notetag|针对编程问题}}。格式奖励用于检查模型是否将其思维轨迹置于<code><think>...</think></code>标签内。<ref name=\"Ma, Shirong-2025\" />\n\nDeepSeek-R1的论文中没有公布其训练成本等细节。<ref>{{cite web |title=DeepSeek-R1/DeepSeek_R1.pdf at main · deepseek-ai/DeepSeek-R1 |url=https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf |archive-url=https://web.archive.org/web/20250129004343/https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf |archive-date=2025-01-29 |accessdate=2025-02-01 |dead-url=no}}</ref> 不过，此前的论文中，深度求索透露其训练使用的是[[英伟达]]因为美国出口管制而，针对中国市场特供的低配版GPU H800，训练成本为557.6万美元，远低于类似西方公司的闭源模型。<ref name=\":0\" /><ref>{{cite web |title=DeepSeek-V3/DeepSeek_V3.pdf at main · deepseek-ai/DeepSeek-V3 |url=https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf |archive-url=https://web.archive.org/web/20250201104820/https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf |archive-date=2025-02-01 |accessdate=2025-02-01 |dead-url=no}}</ref><ref>{{Cite web |title=量化巨头幻方创始人梁文锋参加总理座谈会并发言，他还创办了\"AI界拼多多\" |url=https://www.thepaper.cn/newsDetail_forward_29988888 |website=澎湃新闻 |date=2025-01-22 |language=zh-CN |author=孙铭蔚 |access-date=2025-01-28 |archive-date=2025-01-26 |archive-url=https://web.archive.org/web/20250126142332/https://www.thepaper.cn/newsDetail_forward_29988888 |dead-url=no }}</ref>\n\n外界预估R1的训练成本比[[DeepSeek-V3]]略高，或在600万美元上下。<ref name=\":1\">{{Cite web |title=DeepSeek\"恐惧感\"支配硅谷！Meta被曝组建4个小组专门研究 |url=https://www.thepaper.cn/newsDetail_forward_30042298 |website=澎湃新闻 |date=2025-01-27 |language=zh-CN |author=吴遇利 |access-date=2025-01-29 |archive-date=2025-01-30 |archive-url=https://web.archive.org/web/20250130114718/https://www.thepaper.cn/newsDetail_forward_30042298 |dead-url=no }}</ref>\n\n== 衍生型 ==\n=== DeepSeek-R1-0528 ===\n\n2025年5月28日，深度求索发布DeepSeek-R1-0528，为R1的小版本升级。<ref>{{Cite web |title=DeepSeek-R1-0528 Release |url=https://api-docs.deepseek.com/news/news250528 |website=DeepSeek API Docs |date=2025-05-28 |access-date=2025-05-28 |archive-date=2026-06-18 |archive-url=https://web.archive.org/web/20260618005755/https://api-docs.deepseek.com/news/news250528 |url-status=live }}</ref>此版本与原版R1同样基于DeepSeek-V3-Base，并未进行根本性的架构变更，而是<ref name=\"r1-0528-hf\">{{Cite web |title=deepseek-ai/DeepSeek-R1-0528 |url=https://huggingface.co/deepseek-ai/DeepSeek-R1-0528 |website=Hugging Face |access-date=2025-05-28 |archive-date=2025-05-28 |archive-url=https://web.archive.org/web/20250528192921/https://huggingface.co/deepseek-ai/DeepSeek-R1-0528 |url-status=live }}</ref>通过投入更多算力及在后训练阶段引入算法优化机制，进一步提升了推理深度与推断能力。<ref name=\"r1-0528-hf\" />\n\n在性能方面，R1-0528在[[美国数学邀请赛|AIME]] 2025测试中的准确率由70%大幅提升至87.5%，每道题的平均思考长度亦由约12,000个token增至约23,000个token，反映出更深层次的推理过程。在编程基准LiveCodeBench上，pass@1成功率由63.5%提升至73.3%；在软件工程基准SWE-Verified上，准确率则由49.2%提升至57.6%。<ref>{{Cite web |title=DeepSeek R1-0528 arrives in powerful open source challenge to OpenAI o3 and Google Gemini 2.5 Pro |url=https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/ |website=VentureBeat |date=2025-05-28 |last=Kim |first=Eugene |access-date=2025-05-29 |archive-date=2025-08-21 |archive-url=https://web.archive.org/web/20250821131454/https://venturebeat.com/ai/deepseek-r1-0528-arrives-in-powerful-open-source-challenge-to-openai-o3-and-google-gemini-2-5-pro/ |url-status=live }}</ref>\n\n除性能提升外，R1-0528亦降低了幻觉率，并新增对JSON输出及函数调用的支持，以提升开发者的使用体验。<ref name=\"r1-0528-hf\" />同时，深度求索亦将R1-0528的思维链蒸馏至Qwen3 8B Base，推出了DeepSeek-R1-0528-Qwen3-8B，以便对硬件要求较低的用户使用。<ref name=\"r1-0528-hf\" />\n\n== 特點 ==\nDeepSeek稱該模型用了強化學習訓練，並為用户展現了 o1 没有公开的完整思考过程。\n\nDeepseek R1 Lite在回答問題前會花更多時間思考，因此準確度會增強。Deepseek的測試結果表明，在數學競賽上的得分與測驗所允許思考的長度緊密相關，而模型思維鍊長度增加，展現了更高的效率。<ref name=\":02\" />\n\nDeepSeek-R1關鍵特點就是便宜，與OpenAI o1的價格相差極大。DeepSeek-R1上线时提供的API服务定价为每百万输入tokens 1元人民幣{{notetag|缓存命中}} / 4元 {{notetag|缓存未命中}}，每百万输出tokens 16元，输出API价格仅仅只有OpenAI o1的3%。<ref>{{Cite web |title=“价格屠夫”DeepSeek的理想主义：开源、降本与AI普惠 |url=https://www.cls.cn/detail/1931111 |website=财联社 |date=2025-01-28 |language=zh-CN |author=郑远方 |access-date=2025-01-28 |archive-date=2026-02-26 |archive-url=https://web.archive.org/web/20260226134246/https://www.cls.cn/detail/1931111 |url-status=live }}</ref>\n\n== 測試成績 ==\nDeepseek-R1-Lite在數學、代碼和複雜邏輯推理上，獲得媲美 o1-preview 的推理效果。\n\n在[[美国数学邀请赛]]中，DeepSeek 稱，該模型在美國邀請數學考試和 MATH 等既定基準上的表現超過了 OpenAI o1 Preview的水平，在[[國際數學奧林匹克]]正確率達到83%，\n\n它還在Codeforces編程競賽中優於89%的參賽者，但在GPQA Diamond，LiveCodeBench和自然語言解謎中較為遜色。<ref>{{Cite web |title=DeepSeek’s first reasoning model R1-Lite-Preview turns heads, beating OpenAI o1 performance |url=https://venturebeat.com/ai/deepseeks-first-reasoning-model-r1-lite-preview-turns-heads-beating-openai-o1-performance/ |website=VentureBeat |date=2024-11-20 |language=en-US |last=Franzen |first=Carl |archive-url=https://web.archive.org/web/20241122010413/https://venturebeat.com/ai/deepseeks-first-reasoning-model-r1-lite-preview-turns-heads-beating-openai-o1-performance/ |archive-date=2024-11-22 |access-date=2025-01-29 |dead-url=no}}</ref>\n\n== 應用情況 ==\nDeepSeek-R1使用[[MIT协议]][[开源]]，意味着任何人都可以自由使用该模型，包括商业用途。\n\n用户可以在DeepSeek官方网站和[[流動應用程式|App]]使用官方提供的服務，也可通过本地部署{{notetag|如Ollama工具}}、调用API，或者使用第三方平台。\n\n=== 公共服务 ===\n\n2025年2月起，中国多地政府部门相继将DeepSeek接入政务服务系统，用于公文写作、政策解读等方面<ref name=\":12\">{{Cite web |title=多地政务系统接入DeepSeek意味着什么？ |url=https://www.news.cn/local/20250219/92e940caa34f4f4f8008d6ab1888389d/c.html |website=新华网 |archive-url=https://web.archive.org/web/20250218234201/http://www.news.cn/local/20250219/92e940caa34f4f4f8008d6ab1888389d/c.html |archive-date=2025-02-18 |access-date=2025-02-20 |dead-url=no}}</ref>。\n\n2025年2月8日，[[广东省]][[深圳市]][[龙岗区]]政务服务和数据管理局就已经在政务外网部署了DeepSeek-R1模型。\n\n2025年2月16日，深圳市正式为全市各区及各部门提供DeepSeek模型应用服务<ref>{{Cite web |title=广州、深圳政务系统接入DeepSeek |url=https://news.sina.com.cn/c/2025-02-16/doc-inekshpa5027464.shtml |website=新浪新闻 |archive-url=https://web.archive.org/web/20250225132653/https://news.sina.com.cn/c/2025-02-16/doc-inekshpa5027464.shtml |archive-date=2025-02-25 |access-date=2025-02-20 |dead-url=no}}</ref>；其中，[[福田区]]基于DeepSeek开发了首批70名AI「数智员工」<ref>{{Cite web |title=深圳70名“AI公务员”上岗，公文处理、招商引资等场景均有覆盖 |url=https://www.thepaper.cn/newsDetail_forward_30184250 |website=澎湃新闻 |access-date=2025-05-15 |archive-date=2025-02-22 |archive-url=https://web.archive.org/web/20250222161141/https://www.thepaper.cn/newsDetail_forward_30184250 |url-status=live }}</ref><ref>{{Cite web |title=首批“AI公务员”上岗！人类“饭碗”不保？ |url=https://finance.sina.com.cn/tech/2025-02-20/doc-inemarzm4048969.shtml#:~:text=DeepSeek%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%9E%E7%AD%94%E6%98%AF%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A4%8D%E6%9D%82%E4%B8%94%E5%A4%9A%E7%BB%B4%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E6%B6%89%E5%8F%8A%E6%8A%80%E6%9C%AF%E8%BF%9B%E6%AD%A5%E3%80%81%E5%B0%B1%E4%B8%9A%E7%BB%93%E6%9E%84%E3%80%81%E7%A4%BE%E4%BC%9A%E6%94%BF%E7%AD%96%E7%AD%89%E5%A4%9A%E4%B8%AA%E6%96%B9%E9%9D%A2%E3%80%82%20AI%E5%9C%A8%E5%A4%84%E7%90%86%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E3%80%81%E6%89%A7%E8%A1%8C%E9%87%8D%E5%A4%8D%E6%80%A7%E4%BB%BB%E5%8A%A1%E3%80%81%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E5%92%8C%E5%87%8F%E5%B0%91%E9%94%99%E8%AF%AF%E6%96%B9%E9%9D%A2%E5%85%B7%E6%9C%89%E6%98%BE%E8%91%97%E4%BC%98%E5%8A%BF%E3%80%82,%E4%BD%86AI%E7%9B%AE%E5%89%8D%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%8C%E5%85%A8%E6%9B%BF%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%88%9B%E9%80%A0%E5%8A%9B%E3%80%81%E6%83%85%E6%84%9F%E6%99%BA%E8%83%BD%E5%92%8C%E5%A4%8D%E6%9D%82%E5%86%B3%E7%AD%96%E8%83%BD%E5%8A%9B%E3%80%82%20%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E4%BD%9C%E4%B8%AD%E6%B6%89%E5%8F%8A%E7%9A%84%E8%AE%B8%E5%A4%9A%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A6%82%E6%94%BF%E7%AD%96%E5%88%B6%E5%AE%9A%E3%80%81%E5%85%AC%E4%BC%97%E6%B2%9F%E9%80%9A%E3%80%81%E5%8D%B1%E6%9C%BA%E7%AE%A1%E7%90%86%E7%AD%89%EF%BC%8C%E4%BB%8D%E7%84%B6%E9%9C%80%E8%A6%81%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%88%A4%E6%96%AD%E5%92%8C%E5%90%8C%E7%90%86%E5%BF%83%E3%80%82 |website=新浪财经 |archive-url=https://web.archive.org/web/20250221021548/https://finance.sina.com.cn/tech/2025-02-20/doc-inemarzm4048969.shtml#:~:text=DeepSeek%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%9E%E7%AD%94%E6%98%AF%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A4%8D%E6%9D%82%E4%B8%94%E5%A4%9A%E7%BB%B4%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E6%B6%89%E5%8F%8A%E6%8A%80%E6%9C%AF%E8%BF%9B%E6%AD%A5%E3%80%81%E5%B0%B1%E4%B8%9A%E7%BB%93%E6%9E%84%E3%80%81%E7%A4%BE%E4%BC%9A%E6%94%BF%E7%AD%96%E7%AD%89%E5%A4%9A%E4%B8%AA%E6%96%B9%E9%9D%A2%E3%80%82%20AI%E5%9C%A8%E5%A4%84%E7%90%86%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E3%80%81%E6%89%A7%E8%A1%8C%E9%87%8D%E5%A4%8D%E6%80%A7%E4%BB%BB%E5%8A%A1%E3%80%81%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E5%92%8C%E5%87%8F%E5%B0%91%E9%94%99%E8%AF%AF%E6%96%B9%E9%9D%A2%E5%85%B7%E6%9C%89%E6%98%BE%E8%91%97%E4%BC%98%E5%8A%BF%E3%80%82,%E4%BD%86AI%E7%9B%AE%E5%89%8D%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%8C%E5%85%A8%E6%9B%BF%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%88%9B%E9%80%A0%E5%8A%9B%E3%80%81%E6%83%85%E6%84%9F%E6%99%BA%E8%83%BD%E5%92%8C%E5%A4%8D%E6%9D%82%E5%86%B3%E7%AD%96%E8%83%BD%E5%8A%9B%E3%80%82%20%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E4%BD%9C%E4%B8%AD%E6%B6%89%E5%8F%8A%E7%9A%84%E8%AE%B8%E5%A4%9A%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%A6%82%E6%94%BF%E7%AD%96%E5%88%B6%E5%AE%9A%E3%80%81%E5%85%AC%E4%BC%97%E6%B2%9F%E9%80%9A%E3%80%81%E5%8D%B1%E6%9C%BA%E7%AE%A1%E7%90%86%E7%AD%89%EF%BC%8C%E4%BB%8D%E7%84%B6%E9%9C%80%E8%A6%81%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%88%A4%E6%96%AD%E5%92%8C%E5%90%8C%E7%90%86%E5%BF%83%E3%80%82 |archive-date=2025-02-21 |access-date=2025-02-20 |dead-url=no}}</ref><ref>{{Cite web |title=深圳福田引入 70 個 AI 公務員 基於 DeepSeek R1、錯誤率5% 內 |url=https://unwire.hk/2025/02/17/shenzhen-ai-civil-servants/ai/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-02-17 |language=zh-HK |last=Oscar |access-date=2025-05-15 |archive-date=2025-03-20 |archive-url=https://web.archive.org/web/20250320024920/https://unwire.hk/2025/02/17/shenzhen-ai-civil-servants/ai/ |dead-url=no }}</ref>。\n\n2025年2月17日，[[佛山市]]「江义村智慧乡村平台」正式接入DeepSeek<ref>{{Cite web |title=佛山“江义村智慧乡村平台”接入DeepSeek |url=https://news.qq.com/rain/a/20250218A05C6H00 |website=腾讯网 |author=中国新闻网 |archive-url=https://web.archive.org/web/20250222161112/https://news.qq.com/rain/a/20250218A05C6H00 |archive-date=2025-02-22 |access-date=2025-02-20 |dead-url=no}}</ref>。\n\n2025年2月18日，[[北京市]][[丰台区]]在政务云本地部署DeepSeek大模型<ref name=\":12\" />。\n\n=== 其他 ===\n[[瀋陽飛機設計研究所]]在研發新戰機的過程中，引入了DeepSeek<ref>{{Cite web |title=中國引入 DeepSeek 開發新戰機 AI 協助決策系統革新 |url=https://unwire.hk/2025/05/06/deepseek-aero/ai/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-05-06 |language=zh-HK |last=Lawton |access-date=2025-05-15 |archive-date=2025-06-13 |archive-url=https://web.archive.org/web/20250613185346/https://unwire.hk/2025/05/06/deepseek-aero/ai/ |dead-url=no }}</ref>。\n\n多家汽車製造商，包括[[BMW]]<ref>{{Cite web |title=BMW 在中國車款接入 DeepSeek 推動車輛智能化升級 |url=https://unwire.hk/2025/04/24/bmw-deepseek/ai/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-04-24 |language=zh-HK |last=Lawton |access-date=2025-05-15 |archive-date=2025-05-15 |archive-url=https://web.archive.org/web/20250515202437/https://unwire.hk/2025/04/24/bmw-deepseek/ai/ |dead-url=no }}</ref>、[[东风汽车集团有限公司|東風汽車]]、[[比亞迪電子|比亞迪]]、[[广汽集团|廣汽]]、[[零跑汽車|零跑]]<ref>{{Cite web |title=DeepSeek 席捲中國汽車市場 東風、比亞迪、上汽紛紛加入 AI |url=https://unwire.hk/2025/03/24/deepseek-ai-in-car/ai/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-03-24 |language=zh-HK |last=Oscar |access-date=2025-05-15 |archive-date=2025-04-22 |archive-url=https://web.archive.org/web/20250422060905/https://unwire.hk/2025/03/24/deepseek-ai-in-car/ai/ |dead-url=no }}</ref>、[[本田技研工业|本田]]<ref>{{Cite web |title=Honda 中國車款接入 DeepSeek 並與 Momenta、寧德時代等中國廠商合作 |url=https://unwire.hk/2025/04/24/honda-deepseek/life-tech/auto/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-04-24 |language=zh-HK |last=Lawton |access-date=2025-05-15 |archive-date=2025-07-22 |archive-url=https://web.archive.org/web/20250722234355/https://unwire.hk/2025/04/24/honda-deepseek/life-tech/auto/ |dead-url=no }}</ref>、[[日產汽車|日產]]<ref>{{Cite web |title=日產 N7 搭載 DeepSeek AI 技術 反攻中國市場 |url=https://unwire.hk/2025/02/13/nissan-n7-deepseek-ai/life-tech/auto/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-02-13 |language=zh-HK |last=arthur |access-date=2025-05-15 |archive-date=2025-03-20 |archive-url=https://web.archive.org/web/20250320010217/https://unwire.hk/2025/02/13/nissan-n7-deepseek-ai/life-tech/auto/ |dead-url=no }}</ref>，宣佈與DeepSeek合作，將其AI系統和中國版汽車結合。\n\n在[[2025年缅甸地震|2025年緬甸地震]]的救援行動中，中國國家緊急語言服務團與[[北京语言大学|北京語言大學]]團隊基於DeepSeek的大模型，研發中緬英互譯系統，支援[[中国国际救援队|中國國際救援隊]]進行救災工作<ref>{{Cite web |title=DeepSeek 應用緬甸地震救災 7 小時開發中英緬互譯系統 |url=https://unwire.hk/2025/04/02/7-hours-develop-deepseek-translator/ai/ |website=香港 unwire.hk 玩生活．樂科技 |date=2025-04-02 |language=zh-HK |last=Oscar |access-date=2025-05-15 |archive-date=2025-04-23 |archive-url=https://web.archive.org/web/20250423024520/https://unwire.hk/2025/04/02/7-hours-develop-deepseek-translator/ai/ |dead-url=no }}</ref><ref>{{Cite web |title=DeepSeek、衛星+AI、半機械昆蟲 人工智能助力緬甸地震救災 |url=https://www.wenweipo.com/a/202504/06/AP67f1f58ce4b04c1848ef87c3.html |website=香港文匯網 |language=zh-Hans-HK |access-date=2025-05-15 |archive-date=2025-07-25 |archive-url=https://web.archive.org/web/20250725054622/https://www.wenweipo.com/a/202504/06/AP67f1f58ce4b04c1848ef87c3.html |dead-url=no }}</ref><ref>{{Cite web |title=緬甸地震︱DeepSeek協助救災 7小時開發中緬英互譯系統 |url=https://www.stheadline.com/realtime-china/3443417/%E7%B7%AC%E7%94%B8%E5%9C%B0%E9%9C%87DeepSeek%E5%8D%94%E5%8A%A9%E6%95%91%E7%81%BD-7%E5%B0%8F%E6%99%82%E9%96%8B%E7%99%BC%E4%B8%AD%E7%B7%AC%E8%8B%B1%E4%BA%92%E8%AD%AF%E7%B3%BB%E7%B5%B1 |website=星島頭條 |date=2025-04-02 |language=zh-HK |access-date=2025-05-15 |archive-date=2025-04-04 |archive-url=https://web.archive.org/web/20250404061544/https://www.stheadline.com/realtime-china/3443417/%E7%B7%AC%E7%94%B8%E5%9C%B0%E9%9C%87DeepSeek%E5%8D%94%E5%8A%A9%E6%95%91%E7%81%BD-7%E5%B0%8F%E6%99%82%E9%96%8B%E7%99%BC%E4%B8%AD%E7%B7%AC%E8%8B%B1%E4%BA%92%E8%AD%AF%E7%B3%BB%E7%B5%B1 |dead-url=no }}</ref>，並在未來[[開源授權|開源]]與其他地區使用。\n\n== 外界反应 ==\n1月27日，DeepSeek超越[[ChatGPT]]，登顶苹果[[App Store (iOS/iPadOS)|App Store]]美国区免费APP下载排行榜。<ref>{{Cite web |title=DeepSeek超越ChatGPT，登顶苹果美国区免费APP下载排行榜 |url=https://www.thepaper.cn/newsDetail_forward_30041291 |website=澎湃新闻 |date=2025-01-27 |author=李潇潇, 胡含嫣 |access-date=2025-01-29 |archive-date=2025-01-27 |archive-url=https://web.archive.org/web/20250127152353/https://www.thepaper.cn/newsDetail_forward_30041291 |dead-url=no }}</ref>\n\nDeepSeek-R1爆火，引发全球投资者大量抛售人工智能相关股票。1月27日，[[英伟达]]美股股价下跌近17%，单日市值蒸发5890亿美元，为美国股市历史上最大。<ref>{{Cite web |title=ナスダック大幅下落 中国企業ディープシーク 生成AI開発受け |url=https://www3.nhk.or.jp/news/html/20250128/k10014705511000.html |website=NHKニュース |date=2025-01-28 |language=ja |last=日本放送協会 |access-date=2025-01-28 |archive-date=2025-01-30 |archive-url=https://web.archive.org/web/20250130084230/https://www3.nhk.or.jp/news/html/20250128/k10014705511000.html |dead-url=no }}</ref><ref>{{Cite web |title=英伟达市值蒸发近6000亿美元，规模创美股史上最大，市值跌至全球第三 |url=https://wallstreetcn.com/articles/3740143 |website=华尔街见闻 |date=2025-01-28 |language=zh-CN |author=何浩 |access-date=2025-01-28 |archive-date=2025-01-28 |archive-url=https://web.archive.org/web/20250128102741/https://wallstreetcn.com/articles/3740143 |dead-url=no }}</ref>\n\nDeepSeek-R1发布后不久，[[Meta Platforms|Meta]]首席执行官[[马克·扎克伯格]]就宣布，Meta计划在2025年投入超600亿美元，加大对人工智能的投入。<ref name=\":1\" />据媒体1月27日报道，Meta成立了四个研究小组，专门研究DeepSeek的模型。<ref>{{Cite web |title=Meta Scrambles After Chinese AI Equals Its Own, Upending Silicon Valley |url=https://www.theinformation.com/articles/meta-scrambles-after-chinese-ai-equals-its-own-upending-silicon-valley |website=The Information |date=2024-01-27 |language=en |access-date=2025-01-29 |archive-date=2025-01-30 |archive-url=https://web.archive.org/web/20250130101959/https://www.theinformation.com/articles/meta-scrambles-after-chinese-ai-equals-its-own-upending-silicon-valley |dead-url=no }}</ref>其中两个小组研究其开发者如何降低训练和运行DeepSeek的成本，第三个小组研究训练模型可能使用了哪些数据，第四个小组研究基于DeepSeek模型属性重构其[[LLaMA]]模型的新技术。<ref>{{Cite web |title=DeepSeek震撼硅谷 Meta组建四个研究小组专门破解 |url=https://www.cls.cn/detail/1930881 |website=财联社 |date=2025-01-27 |access-date=2025-01-29 |archive-date=2026-02-04 |archive-url=https://web.archive.org/web/20260204084212/https://www.cls.cn/detail/1930881 |url-status=live }}</ref>\n\n[[OpenAI]]表示，其有证据表明DeepSeek使用OpenAI的专有模型来训练自己的开源模型，这违反了OpenAI的服务条款。<ref>{{Cite web |title=OpenAI称有证据表明DeepSeek利用其模型训练竞争对手 |url=https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250129-openai%E7%A7%B0%E6%9C%89%E8%AF%81%E6%8D%AE%E8%A1%A8%E6%98%8Edeepseek%E5%88%A9%E7%94%A8%E5%85%B6%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B |website=RFI - 法国国际广播电台 |date=2025-01-29 |language=zh-Hans |access-date=2025-01-29}}</ref>在R1的Nature论文释出的同行评议文件中，DeepSeek-R1的研究人员称，R1 并没有使用OpenAI专有模型生成的样本但同时承认与大多数的生成模型一样，在训练过程中不可避免地使用了互联网上的由其他AI生成样本<ref>{{Cite journal |last=Gibney |first=Elizabeth |title=Secrets of DeepSeek AI model revealed in landmark paper |url=https://www.nature.com/articles/d41586-025-03015-6 |journal=Nature |language=en |date=2025-09-17 |doi=10.1038/d41586-025-03015-6 |issn=1476-4687 |access-date=2025-09-18 |archive-date=2026-03-29 |archive-url=https://web.archive.org/web/20260329042608/https://www.nature.com/articles/d41586-025-03015-6 |url-status=live }}</ref>。\n\n== 参见 ==\n* [[DeepSeek-V2.5]]\n* [[DeepSeek V3]]\n* [[DeepSeek-V4]]\n* [[OpenAI o1]]\n\n== 注释 ==\n{{NoteFoot}}\n\n== 参考资料 ==\n{{refs|30em}}\n\n== 外部链接 ==\n\n=== 官方网页 ===\n* [https://api-docs.deepseek.com/zh-cn/news/news1120 DeepSeek-R1-Lite 发布] {{Wayback|url=https://api-docs.deepseek.com/zh-cn/news/news1120|date=20250126111441}}\n* [https://api-docs.deepseek.com/zh-cn/news/news250120 DeepSeek-R1 发布，性能对标 OpenAI o1 正式版] {{Wayback|url=https://api-docs.deepseek.com/zh-cn/news/news250120 |date=20250123180423 }}\n* [https://github.com/deepseek-ai/DeepSeek-R1 deepseek-ai/DeepSeek-R1] {{Wayback|url=https://github.com/deepseek-ai/DeepSeek-R1 |date=20250204134818 }}\n\n=== 媒体专题 ===\n\n* [https://www.thepaper.cn/newsDetail_forward_150776 【专题】DeepSeek改写AI战局 - 澎湃新闻] {{Wayback|url=https://www.thepaper.cn/newsDetail_forward_150776 |date=20250130111203 }}\n\n{{DeepSeek}}\n{{生成式人工智能}}\n[[Category:深度求索]]\n[[Category:聊天机器人]]\n[[Category:大型语言模型]]\n[[Category:2025年軟體]]"
+}
