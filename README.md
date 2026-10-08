@@ -49,3 +49,15 @@ git 侧代理由 `tools/sync-git-proxy.mjs` 同步：
 ## 说明
 
 中文维基上 `DeepSeek-R1` 是独立词条；英文维基上它只是重定向（指向 `DeepSeek#R1`）。
+
+## 推送到 GitHub
+
+远程为 `git@github.com:qiantaimuhou/dsh-.git`，走 SSH。
+
+- GitHub 的 22 端口在本机被挡，配置中改走 `ssh.github.com:443`
+- SSH 配置与密钥放在 `D:\dsh-ssh\`（纯 ASCII 路径；中文用户名会让 Git 自带的 ssh 解析不了配置）
+- git 已设 `core.sshCommand` 指向该配置，直接 `git push` 即可
+
+```
+git push origin main
+```
